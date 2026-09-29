@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "include": ["/", "/index.html", "/api", "/api/*"],
+  "exclude": [
+    "/css/*",
+    "/js/*",
+    "/assets/*",
+    "/data/*",
+    "/404.html"
+  ]
+}
