@@ -1,0 +1,26 @@
+# MoviMoon V11 - clean SPA routes. Keep API/asset requests handled normally.
+# Legacy aliases
+/home / 301
+/tv /tv-shows 301
+/live /live-tv 301
+
+# Main pages
+/movies /index.html 200
+/tv-shows /index.html 200
+/trending /index.html 200
+/top-rated /index.html 200
+/upcoming /index.html 200
+/watchlist /index.html 200
+/history /index.html 200
+/live-tv /index.html 200
+
+# Information pages
+/about /index.html 200
+/contact /index.html 200
+/privacy /index.html 200
+/terms /index.html 200
+/disclaimer /index.html 200
+
+# Shareable movie/TV detail URLs
+/movie/* /index.html 200
+/tv/* /index.html 200
