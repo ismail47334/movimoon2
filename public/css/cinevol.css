@@ -1,0 +1,370 @@
+
+/* CineVol Style Overrides */
+.hero {
+  position: relative;
+  height: 72vh;
+  min-height: 600px;
+  max-height: 820px;
+  overflow: hidden;
+  background: #080c14;
+}
+.hero-art {
+  position: absolute;
+  inset: 0;
+  background: #080c14;
+}
+.hero-art .hero-image {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center top;
+  opacity: 1 !important;
+  filter: none !important;
+  transform: scale(1) !important;
+}
+.hero-shade {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(90deg, #080c14 0%, #080c14cc 15%, #080c147a 32%, #080c1433 55%, transparent 85%), linear-gradient(0deg, #080c1499 0%, transparent 55%);
+  z-index: 1;
+}
+.hero-content {
+  position: relative;
+  z-index: 2;
+  left: 0;
+  right: auto;
+  bottom: auto;
+  top: 50%;
+  transform: translateY(-50%);
+  width: min(640px, 48%);
+  padding: 0 0 0 64px;
+}
+.hero .eyebrow {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: rgba(0,212,170,0.14);
+  border: 1px solid rgba(0,212,170,0.28);
+  padding: 6px 14px;
+  border-radius: 999px;
+  font-size: 11px;
+  letter-spacing: 0.08em;
+  font-weight: 700;
+  color: #00d4aa;
+}
+.eyebrow-pip { width:7px; height:7px; background:#00d4aa; border-radius:50%; box-shadow:0 0 8px #00d4aa; }
+.eyebrow-line { display:none; }
+.hero-meta {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: 18px 0 14px;
+  font-size: 13px;
+  color: #a6b4c4;
+}
+.hero-meta .rating { color:#ffbe0b; }
+.hero-title {
+  font-size: clamp(38px, 5.2vw, 72px);
+  line-height: 0.95;
+  letter-spacing: -2.5px;
+  font-weight: 800;
+  max-width: 600px;
+}
+.hero-description {
+  margin-top: 16px;
+  font-size: 14px;
+  line-height: 1.7;
+  color: #c8d6e6;
+  max-width: 520px;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.hero-actions {
+  margin-top: 28px;
+  display: flex;
+  gap: 12px;
+  align-items: center;
+}
+.button-primary {
+  background: linear-gradient(90deg, #00d4aa 0%, #6c5cff 50%, #ff3b9a 100%);
+  border: none;
+  border-radius: 999px;
+  padding: 0 26px;
+  height: 48px;
+  font-weight: 700;
+  font-size: 14px;
+  box-shadow: 0 8px 24px rgba(108,92,255,0.35);
+}
+.button-glass {
+  background: rgba(255,255,255,0.08);
+  border: 1px solid rgba(255,255,255,0.14);
+  border-radius: 999px;
+  backdrop-filter: blur(12px);
+  height: 48px;
+  padding: 0 22px;
+}
+.hero-disclaimer, .hero-scroll-cue, .connection-banner, .catalog-notice, .site-footer .footer-bottom span:nth-child(2) {
+  display: none !important;
+}
+.hero-pagination {
+  position: absolute;
+  z-index: 3;
+  left: 64px;
+  bottom: 28px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.hero-dot {
+  width: 22px;
+  height: 4px;
+  border-radius: 99px;
+  background: rgba(255,255,255,0.28);
+  border: none;
+  transition: all 0.3s;
+}
+.hero-dot.active {
+  width: 32px;
+  background: #00d4aa;
+  box-shadow: 0 0 10px rgba(0,212,170,0.6);
+}
+.hero-thumbs {
+  position: absolute;
+  right: 28px;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 3;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  width: 92px;
+}
+.hero-thumb {
+  width: 92px;
+  height: 52px;
+  border-radius: 10px;
+  overflow: hidden;
+  border: 2px solid transparent;
+  cursor: pointer;
+  opacity: 0.55;
+  transition: all 0.25s;
+  position: relative;
+}
+.hero-thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.hero-thumb.active {
+  opacity: 1;
+  border-color: #00d4aa;
+  box-shadow: 0 0 0 2px rgba(0,212,170,0.3), 0 8px 20px rgba(0,0,0,0.5);
+  transform: scale(1.05);
+}
+.hero-thumb:hover { opacity: 0.9; }
+
+/* Genre badge like CineVol */
+.hero-meta .meta-4k {
+  background: rgba(255,255,255,0.1);
+  border: 1px solid rgba(255,255,255,0.2);
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-size: 10px;
+  font-weight: 700;
+}
+
+/* Ticker hidden? Keep but smaller */
+.ticker { display: none; }
+
+@media(max-width: 920px) {
+  .hero-thumbs { display: none; }
+  .hero-content { width: auto; padding: 0 22px; }
+  .hero-pagination { left: 22px; }
+  .hero { height: 68vh; min-height: 520px; }
+}
+
+
+/* Fix hero blur - hide demo decorations when real image */
+.hero-art .hero-orb,
+.hero-art .hero-rings,
+.hero-art .hero-mark,
+.hero-art .hero-grain {
+  display: none !important;
+}
+.hero-art .hero-image {
+  filter: none !important;
+  opacity: 1 !important;
+  transform: none !important;
+  transition: opacity 0.6s ease;
+}
+.hero {
+  background: #080c14;
+}
+.hero-content {
+  backdrop-filter: none;
+}
+
+/* Detail Modal - CineVol Big Style */
+.detail-dialog {
+  width: min(900px, 94vw);
+  max-width: 900px;
+  background: #111827;
+  border: 1px solid rgba(255,255,255,0.08);
+  border-radius: 20px;
+  padding: 0;
+  overflow: hidden;
+  max-height: 92vh;
+}
+.detail-dialog::backdrop {
+  background: rgba(0,0,0,0.82);
+  backdrop-filter: blur(12px);
+}
+.dialog-art {
+  position: relative;
+  height: 420px;
+  background-size: cover;
+  background-position: center top;
+  overflow: hidden;
+}
+.dialog-art::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(0deg, #111827 0%, rgba(17,24,39,0.7) 40%, rgba(17,24,39,0.2) 100%);
+}
+.dialog-art-mark, .dialog-art-caption {
+  display: none;
+}
+.dialog-content {
+  position: relative;
+  z-index: 2;
+  padding: 0 32px 28px;
+  margin-top: -120px;
+}
+.dialog-content h2 {
+  font-size: clamp(28px, 4vw, 42px);
+  font-weight: 800;
+  letter-spacing: -1px;
+  line-height: 1.1;
+  margin-bottom: 14px;
+}
+.dialog-meta {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-bottom: 16px;
+}
+.dialog-meta span {
+  font-size: 12px;
+  color: #9ca3af;
+}
+.dialog-genres {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-bottom: 20px;
+}
+.filter-chip {
+  background: rgba(255,255,255,0.06);
+  border: 1px solid rgba(255,255,255,0.1);
+  border-radius: 999px;
+  padding: 6px 14px;
+  font-size: 11px;
+  color: #cbd5e1;
+}
+.dialog-actions {
+  display: flex;
+  gap: 10px;
+  margin: 20px 0 24px;
+  flex-wrap: wrap;
+}
+.dialog-actions .button-primary {
+  background: linear-gradient(90deg, #00d4aa 0%, #6c5cff 50%, #ff3b9a 100%);
+  border-radius: 999px;
+  height: 44px;
+  padding: 0 22px;
+  font-weight: 700;
+}
+.dialog-notice, .dialog-content .hero-disclaimer {
+  display: none !important;
+}
+.detail-tabs {
+  display: flex;
+  gap: 28px;
+  border-bottom: 1px solid rgba(255,255,255,0.08);
+  margin-bottom: 20px;
+}
+.detail-tab {
+  background: none;
+  border: none;
+  border-bottom: 2px solid transparent;
+  color: #6b7280;
+  font-size: 14px;
+  font-weight: 600;
+  padding: 12px 2px;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+.detail-tab.active {
+  color: #fff;
+  border-bottom-color: #00d4aa;
+}
+.cast-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(90px, 1fr));
+  gap: 18px;
+  list-style: none;
+  padding: 0;
+}
+.cast-list li {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 8px;
+  font-size: 11px;
+  color: #cbd5e1;
+}
+.cast-avatar {
+  width: 72px;
+  height: 72px;
+  border-radius: 50%;
+  object-fit: cover;
+  background: #1f2937;
+  border: 2px solid rgba(255,255,255,0.08);
+}
+.related-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: 14px;
+}
+.related-card {
+  border-radius: 10px;
+  overflow: hidden;
+  background: #1f2937;
+  cursor: pointer;
+  transition: transform 0.2s;
+}
+.related-card:hover { transform: scale(1.03); }
+.related-card img {
+  width: 100%;
+  aspect-ratio: 2/3;
+  object-fit: cover;
+}
+.related-card .rel-title {
+  padding: 8px 10px;
+  font-size: 11px;
+  color: #e2e8f0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.hero-thumb {
+  width: 92px;
+  height: 52px;
+}
