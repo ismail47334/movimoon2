@@ -1551,7 +1551,7 @@ function loadHomePage(){ Prog.start(); Render.skeletons('row-trending',15); Rend
 
 
 var IPTV = {
-  PLAYLIST_URL: "https://raw.githubusercontent.com/ismail47334/movimoon-iptv-playlist/refs/heads/main/movimoon-iptv-playlist.m3u",
+  PLAYLIST_URL: "https://raw.githubusercontent.com/ismail47334/movimoon-iptv-playlist/refs/heads/main/FINAL_FULL_ALIVE.m3u",
   CONTINENT_MAP: {
     ASIA: ["BD", "IN", "PK", "NP", "LK", "CN", "JP", "KR", "ID", "MY", "TH", "VN", "PH", "SG", "AE", "SA", "QA", "KW", "OM", "BH", "TR", "IR", "IQ", "JO", "LB", "SY", "YE", "KZ", "UZ", "TM", "TJ", "KG", "AZ", "GE", "AM"],
     EUROPE: ["GB", "FR", "DE", "IT", "ES", "PT", "NL", "BE", "RU", "UA", "PL", "SE", "NO", "FI", "CH", "AT", "DK", "CZ", "RO", "HU", "GR", "IE", "IS", "HR", "RS", "BG", "SK", "SI", "LT", "LV", "EE", "BY", "MD", "ME", "BA", "MK", "AL", "MT", "CY", "LU"],
