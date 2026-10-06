@@ -1,0 +1,522 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MoviMoon - Movies &amp; TV Shows</title>
+  <meta name="theme-color" content="#080C14">
+  <meta name="description" content="MoviMoon - Discover and watch movies and TV shows in HD.">
+  <meta name="robots" content="index,follow,max-image-preview:large">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="MoviMoon">
+  <meta property="og:title" content="MoviMoon - Movies & TV Shows">
+  <meta property="og:description" content="Discover movies, TV shows, trending titles, top rated content and more on MoviMoon.">
+  <link rel="icon" href="/assets/logo.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,400&amp;display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/vendor/fontawesome/css/all.min.css">
+  <link rel="stylesheet" href="/css/movimoon.css">
+  <style id="movimoon-ad-layout">
+    .mm-ad-slot{width:100%;min-height:60px;display:flex;align-items:center;justify-content:center;text-align:center;margin:22px 0;overflow:hidden;clear:both}
+    .mm-ad-slot .mm-ad-code{width:100%;min-height:60px;display:flex;align-items:center;justify-content:center;overflow:hidden}
+    .mm-ad-slot iframe{max-width:100%;border:0}
+    .mm-ad-home{margin:18px 0 26px}
+    .mm-ad-browse{margin:18px 0 26px}
+    .mm-ad-live{margin:0 0 22px}
+    @media(max-width:767px){.mm-ad-slot{margin:16px 0 22px;min-height:60px}.mm-ad-slot .mm-ad-code{min-height:60px}}
+  </style>
+
+
+</head>
+<body>
+<!-- ================================================================
+     SIDEBAR NAVIGATION
+================================================================ -->
+<aside class="cv-sidebar" id="cv-sidebar">
+
+  <!-- DYNAMIC LOGO / HEADER -->
+  <div class="sidebar-logo" onclick="App.goHome()"><div class="sidebar-logo-icon"><i class="fas fa-play"></i></div><span class="sidebar-logo-text">MoviMoon</span><button class="sidebar-toggle" onclick="event.stopPropagation(); Sidebar.toggle(event)"><i class="fas fa-chevron-left"></i></button></div>
+
+  <!-- Navigation -->
+  <nav class="sidebar-nav" id="sidebar-nav">
+    <div class="nav-section-label">Discover</div>
+    <div class="nav-item active" id="nav-home" onclick="App.goHome(); MobNav.setActive(this)"><span class="nav-item-icon"><i class="fas fa-home"></i></span><span class="nav-item-text">Home</span></div>
+    <div class="nav-item" id="nav-movies" onclick="App.browseMovies(); MobNav.setActive(this)"><span class="nav-item-icon"><i class="fas fa-film"></i></span><span class="nav-item-text">Movies</span></div>
+    <div class="nav-item" id="nav-tv" onclick="App.browseTVShows(); MobNav.setActive(this)"><span class="nav-item-icon"><i class="fas fa-tv"></i></span><span class="nav-item-text">TV Shows</span></div>
+    <div class="nav-item" id="nav-trending" onclick="App.browseTrending(); MobNav.setActive(this)"><span class="nav-item-icon"><i class="fas fa-fire"></i></span><span class="nav-item-text">Trending</span><span class="nav-badge" id="trending-badge">HOT</span></div>
+    <div class="nav-item" id="nav-toprated" onclick="App.browseTopRated(); MobNav.setActive(this)"><span class="nav-item-icon"><i class="fas fa-star"></i></span><span class="nav-item-text">Top Rated</span></div>
+    <div class="nav-item" id="nav-upcoming" onclick="App.browseUpcoming(); MobNav.setActive(this)"><span class="nav-item-icon"><i class="fas fa-calendar-alt"></i></span><span class="nav-item-text">Upcoming</span></div>
+
+    <div class="nav-section-label">My Library</div>
+    <div class="nav-item" id="nav-watchlist" onclick="App.showWatchlist(); MobNav.setActive(this)"><span class="nav-item-icon"><i class="fas fa-heart"></i></span><span class="nav-item-text">Watchlist</span><span class="nav-badge hidden" id="wl-sidebar-count">0</span></div>
+    <div class="nav-item" id="nav-history" onclick="App.showHistory(); MobNav.setActive(this)"><span class="nav-item-icon"><i class="fas fa-history"></i></span><span class="nav-item-text">History</span></div>
+
+    <div class="nav-section-label">Live</div>
+    <div class="nav-item" id="nav-livetv" onclick="App.showLiveTV(); MobNav.setActive(this)"><span class="nav-item-icon"><i class="fas fa-broadcast-tower"></i></span><span class="nav-item-text">Live TV</span><span class="nav-badge" style="background:var(--cv-red);animation:livePulse 1.5s ease-in-out infinite;">LIVE</span></div>
+
+    <div class="nav-section-label">Browse By Genre</div>
+    <div class="sidebar-genres" id="sidebar-genres"></div>
+
+    <!-- Layout space for additional sidebar widgets -->
+  </nav>
+
+  <div class="sidebar-footer">
+    <div class="sidebar-user">
+      <div class="sidebar-avatar">C</div>
+      <div class="sidebar-user-info">
+        <div class="sidebar-user-name">MoviMoon User</div>
+        <div class="sidebar-user-plan">Premium Plan</div>
+      </div>
+    </div>
+  </div>
+</aside>
+
+<!-- ================================================================
+     MAIN CONTENT AREA
+================================================================ -->
+<div class="cv-main" id="cv-main">
+
+  <header class="cv-header" id="cv-header">
+    <div class="header-title-area">
+      <button aria-label="Open navigation menu" class="mob-sidebar-toggle" id="mob-sidebar-toggle-btn" onclick="Sidebar.open()" title="Open menu"><i class="fas fa-bars"></i></button>
+      <div>
+        <div class="header-page-title" id="header-page-title">Discover</div>
+        <div class="header-breadcrumb" id="header-breadcrumb">
+          <span>MoviMoon</span><span class="header-breadcrumb-sep">›</span><span id="breadcrumb-current">Home</span>
+        </div>
+      </div>
+    </div>
+        <div class="header-filter-tabs">
+      <button class="hft-btn active" id="htab-all" onclick='HTab.set("all",this)'>All</button>
+      <button class="hft-btn" id="htab-movie" onclick='HTab.set("movie",this)'>Movies</button>
+      <button class="hft-btn" id="htab-tv" onclick='HTab.set("tv",this)'>TV Shows</button>
+      <button class="hft-btn" id="htab-livetv" onclick='HTab.set("livetv",this)'><i class="fas fa-broadcast-tower" style="font-size:11px; margin-right:4px;"></i> Live TV</button>
+    </div>
+    <div class="header-actions">
+      <div class="search-container" id="search-container">
+        <div class="search-input-wrap" onclick="Search.handleTopSearchClick()">
+          <i class="fas fa-search search-icon"></i>
+          <input autocomplete="off" class="search-input" id="search-input" onfocus="Search.onFocus()" oninput="Search.onInput(this.value)" placeholder="Search movies, shows..." type="text">
+          <span class="search-clear" id="search-clear" onclick="Search.clear()"><i class="fas fa-times"></i></span>
+        </div>
+        <div class="search-results-dropdown" id="search-dropdown">
+          <div class="srd-header"><span class="srd-header-label" id="srd-label">Recent Searches</span><span class="srd-close" onclick="Search.closeDropdown()"><i class="fas fa-times"></i></span></div>
+          <div class="srd-recents" id="srd-recents"><div class="srd-recent-tags" id="srd-recent-tags"></div></div>
+          <div class="srd-results" id="srd-results"></div>
+          <div class="srd-footer" id="srd-footer" onclick="Search.viewAll()" style="display:none">
+            <i class="fas fa-search"></i> <span id="srd-footer-text">View all results</span> <i class="fas fa-chevron-right" style="margin-left:auto;font-size:11px"></i>
+          </div>
+        </div>
+      </div>
+      <button class="header-action-btn" title="Notifications"><i class="fas fa-bell"></i><span class="hab-badge"></span></button>
+      <button class="header-action-btn" onclick="App.showWatchlist()" title="Watchlist"><i class="fas fa-heart"></i></button>
+    </div>
+  </header>
+
+  <!-- ============================================================
+       HOME PAGE
+  ============================================================ -->
+  <div class="cv-page active" id="page-home">
+
+    <div id="api-key-banner" style="display:none;align-items:center;justify-content:center;flex-direction:column;gap:16px;padding:60px 20px;background:var(--cv-navy-3);border:1px solid rgba(0,196,180,0.2);border-radius:var(--r-xl);margin:80px 28px 0;text-align:center;">
+      <div style="font-size:48px;">🔒</div><div style="font-size:22px;font-weight:800;">TMDB API Key Required</div>
+      <div style="font-size:15px;color:var(--text-3);max-width:500px;line-height:1.7;">
+        Get a free API key at <strong style="color:var(--cv-teal);">themoviedb.org</strong><br>
+        Find <code style="background:var(--cv-navy-5);padding:2px 8px;border-radius:4px;color:var(--cv-violet);">API_KEY:</code> and replace the value with your key in the HTML.
+      </div>
+    </div>
+
+    <section class="spotlight-section" id="spotlight-section">
+      <div class="spotlight-track" id="spotlight-track"></div>
+      <div class="spotlight-thumbstrip" id="spotlight-thumbstrip"></div>
+      <div class="spotlight-controls">
+        <button class="spotlight-arrow" onclick="Spotlight.prev()"><i class="fas fa-chevron-left"></i></button>
+        <div class="spotlight-dots" id="spotlight-dots"></div>
+        <button class="spotlight-arrow" onclick="Spotlight.next()"><i class="fas fa-chevron-right"></i></button>
+      </div>
+      <div class="spotlight-progress"><div class="spotlight-progress-bar" id="spotlight-progress-bar"></div></div>
+    </section>
+
+    
+
+    <div class="cv-container">
+      <div class="trending-ribbon" id="trending-ribbon">
+        <div class="tr-label"><i class="fas fa-fire"></i> Trending</div>
+        <div class="tr-scroll-wrap"><div class="tr-scroll" id="trending-scroll"></div></div>
+      </div>
+
+      <div class="mm-ad-slot mm-ad-home" id="ad-home-trending" aria-label="Advertisement"><div class="mm-ad-code"></div></div>
+
+      <div class="stats-bar">
+        <div class="stat-card"><div class="stat-icon"><i class="fas fa-film"></i></div><div class="stat-content"><div class="stat-value" id="stat-movies">—</div><div class="stat-label">Total Movies</div></div></div>
+        <div class="stat-card"><div class="stat-icon"><i class="fas fa-tv"></i></div><div class="stat-content"><div class="stat-value" id="stat-shows">—</div><div class="stat-label">TV Shows</div></div></div>
+        <div class="stat-card"><div class="stat-icon"><i class="fas fa-globe"></i></div><div class="stat-content"><div class="stat-value">50+</div><div class="stat-label">Languages</div></div></div>
+        <div class="stat-card"><div class="stat-icon"><i class="fas fa-4k"></i></div><div class="stat-content"><div class="stat-value">4K</div><div class="stat-label">Ultra HD</div></div></div>
+      </div>
+
+      <div class="genre-chips-wrap" id="genre-chips"></div>
+
+<section class="section-wrapper">
+        <div class="section-header">
+          <div class="section-title-group"><div class="section-icon"><i class="fas fa-fire-alt"></i></div><div><div class="section-title">Trending Now</div><div class="section-subtitle">What everyone is watching</div></div></div>
+          <div class="section-view-all" onclick="App.browseTrending()">View All <i class="fas fa-arrow-right"></i></div>
+        </div>
+        <div class="cv-hscroll" id="row-trending"></div>
+      </section>
+
+<section class="section-wrapper" id="v122-region-section" style="display:none">
+        <div class="section-header">
+          <div class="section-title-group"><div class="section-icon"><i class="fas fa-globe-asia"></i></div><div><div class="section-title" id="v122-region-title">Trending Now Bangladesh</div><div class="section-subtitle" id="v122-region-subtitle">Popular in Bangladesh</div></div></div>
+          <div class="section-view-all" id="v122-view-all">View All <i class="fas fa-arrow-right"></i></div>
+        </div>
+        <div class="cv-hscroll" id="row-region-trending"></div>
+      </section>
+
+<section class="section-wrapper">
+        <div class="section-header">
+          <div class="section-title-group"><div class="section-icon"><i class="fas fa-star"></i></div><div><div class="section-title">New Releases</div></div></div>
+          <div class="section-view-all" onclick="App.browseMovies()">View All <i class="fas fa-arrow-right"></i></div>
+        </div>
+        <div class="cv-hscroll" id="row-newreleases"></div>
+      </section>
+
+
+      <section class="section-wrapper" id="sec-indian">
+        <div class="section-header"><div class="section-title-group"><div class="section-icon" style="background:#FF6B00"><i class="fas fa-film"></i></div><div><div class="section-title">Indian Movies</div><div class="section-subtitle">Bollywood Tollywood Kollywood Popular in India</div></div></div><div class="section-view-all" onclick="App.browseMovies()">View All <i class="fas fa-arrow-right"></i></div></div>
+        <div class="cv-hscroll" id="row-indian-movies"></div>
+      </section>
+
+
+<section class="section-wrapper">
+        <div class="section-header">
+          <div class="section-title-group"><div class="section-icon violet"><i class="fas fa-trophy"></i></div><div><div class="section-title">Top Rated Films</div><div class="section-subtitle">Critically acclaimed masterpieces</div></div></div>
+          <div class="section-view-all" onclick="App.browseTopRated()">View All <i class="fas fa-arrow-right"></i></div>
+        </div>
+        <div class="landscape-grid" id="grid-toprated"></div>
+      </section>
+
+<section class="section-wrapper">
+        <div class="section-header">
+          <div class="section-title-group"><div class="section-icon pink"><i class="fas fa-tv"></i></div><div><div class="section-title">Popular TV Shows</div><div class="section-subtitle">Binge-worthy series</div></div></div>
+          <div class="section-view-all" onclick="App.browseTVShows()">View All <i class="fas fa-arrow-right"></i></div>
+        </div>
+        <div class="cv-hscroll" id="row-tvshows"></div>
+      </section>
+
+<section class="section-wrapper">
+        <div class="section-header"><div class="section-title-group"><div class="section-icon gold"><i class="fas fa-crown"></i></div><div><div class="section-title">Top 10 Today</div><div class="section-subtitle">Most viewed recently</div></div></div></div>
+        <div class="compact-list" id="list-top10"></div>
+      </section>
+
+      <div class="mm-ad-slot mm-ad-home" id="ad-home-top10" aria-label="Advertisement"><div class="mm-ad-code"></div></div>
+
+      <section class="section-wrapper" id="sec-netflix">
+        <div class="section-header"><div class="section-title-group"><div class="section-icon" style="background:#E50914"><i class="fas fa-play"></i></div><div><div class="section-title">Netflix Originals</div><div class="section-subtitle">Netflix exclusive series and movies</div></div></div><div class="section-view-all" onclick="App.browseTV()">View All <i class="fas fa-arrow-right"></i></div></div>
+        <div class="cv-hscroll" id="row-netflix-originals"></div>
+      </section>
+
+      <section class="section-wrapper" id="sec-prime">
+        <div class="section-header"><div class="section-title-group"><div class="section-icon" style="background:#00A8E1"><i class="fab fa-amazon"></i></div><div><div class="section-title">Amazon Prime Shows</div><div class="section-subtitle">Prime Video exclusives</div></div></div><div class="section-view-all" onclick="App.browseTV()">View All <i class="fas fa-arrow-right"></i></div></div>
+        <div class="cv-hscroll" id="row-prime-shows"></div>
+      </section>
+
+      <section class="section-wrapper" id="sec-apple">
+        <div class="section-header"><div class="section-title-group"><div class="section-icon" style="background:#000000"><i class="fab fa-apple"></i></div><div><div class="section-title">Apple TV+ Shows</div><div class="section-subtitle">Apple Originals</div></div></div><div class="section-view-all" onclick="App.browseTV()">View All <i class="fas fa-arrow-right"></i></div></div>
+        <div class="cv-hscroll" id="row-apple-shows"></div>
+      </section>
+
+      <section class="section-wrapper" id="sec-disney">
+        <div class="section-header"><div class="section-title-group"><div class="section-icon" style="background:#113CCF"><i class="fas fa-magic"></i></div><div><div class="section-title">Disney+ Shows</div><div class="section-subtitle">Disney Marvel Star Wars Pixar</div></div></div><div class="section-view-all" onclick="App.browseTV()">View All <i class="fas fa-arrow-right"></i></div></div>
+        <div class="cv-hscroll" id="row-disney-shows"></div>
+      </section>
+
+      <section class="section-wrapper" id="sec-peacock">
+        <div class="section-header"><div class="section-title-group"><div class="section-icon" style="background:#000"><i class="fas fa-tv"></i></div><div><div class="section-title">Peacock TV Shows</div><div class="section-subtitle">NBC Peacock originals</div></div></div><div class="section-view-all" onclick="App.browseTV()">View All <i class="fas fa-arrow-right"></i></div></div>
+        <div class="cv-hscroll" id="row-peacock-shows"></div>
+      </section>
+
+      <section class="section-wrapper" id="sec-max">
+        <div class="section-header"><div class="section-title-group"><div class="section-icon" style="background:#5822B4"><i class="fas fa-crown"></i></div><div><div class="section-title">Max Shows</div><div class="section-subtitle">HBO Max originals</div></div></div><div class="section-view-all" onclick="App.browseTV()">View All <i class="fas fa-arrow-right"></i></div></div>
+        <div class="cv-hscroll" id="row-max-shows"></div>
+      </section>
+
+      <section class="section-wrapper" id="sec-hulu">
+        <div class="section-header"><div class="section-title-group"><div class="section-icon" style="background:#1CE783"><i class="fas fa-play"></i></div><div><div class="section-title">Hulu Originals</div><div class="section-subtitle">Hulu exclusive series</div></div></div><div class="section-view-all" onclick="App.browseTV()">View All <i class="fas fa-arrow-right"></i></div></div>
+        <div class="cv-hscroll" id="row-hulu-originals"></div>
+      </section>
+
+<section class="section-wrapper">
+        <div class="section-header"><div class="section-title-group"><div class="section-icon violet"><i class="fas fa-calendar-alt"></i></div><div><div class="section-title">Coming Soon</div></div></div></div>
+        <div class="landscape-grid" id="grid-upcoming"></div>
+      </section>
+
+      
+
+    </div>
+  </div>
+
+  <!-- ============================================================
+       BROWSE PAGE
+  ============================================================ -->
+  <div class="cv-page" id="page-browse">
+    <div class="page-inner">
+      <div class="cv-container">
+
+        
+
+        <div class="filter-bar" id="browse-filter-bar">
+          <span class="filter-label">Filter:</span>
+          <div class="filter-select-wrap"><select class="filter-select" id="filter-genre" onchange="Filter.apply()"><option value="">All Genres</option><option value="28">Action</option><option value="35">Comedy</option><option value="27">Horror</option><option value="878">Sci-Fi</option><option value="18">Drama</option><option value="10749">Romance</option><option value="80">Crime</option><option value="16">Animation</option><option value="14">Fantasy</option><option value="53">Thriller</option><option value="12">Adventure</option><option value="9648">Mystery</option></select><i class="fas fa-chevron-down filter-select-icon"></i></div>
+          <div class="filter-select-wrap"><select class="filter-select" id="filter-year" onchange="Filter.apply()"><option value="">All Years</option><option value="2026">2026</option><option value="2025">2025</option><option value="2024">2024</option><option value="2023">2023</option><option value="2022">2022</option><option value="2021">2021</option><option value="2020">2020</option><option value="2019">2019</option><option value="2018">2018</option><option value="2017">2017</option><option value="2016">2016</option><option value="2015">2015</option><option value="2014">2014</option><option value="2013">2013</option><option value="2012">2012</option><option value="2011">2011</option><option value="2010">2010</option><option value="2009">2009</option><option value="2008">2008</option><option value="2007">2007</option><option value="2006">2006</option><option value="2005">2005</option><option value="2004">2004</option><option value="2003">2003</option><option value="2002">2002</option><option value="2001">2001</option><option value="2000">2000</option></select><i class="fas fa-chevron-down filter-select-icon"></i></div>
+          <div class="filter-select-wrap"><select class="filter-select" id="filter-lang" onchange="Filter.apply()"><option value="">All Languages</option><option value="en">English (Hollywood)</option><option value="hi">Hindi (Bollywood)</option><option value="te">Telugu (Tollywood)</option><option value="ta">Tamil (Kollywood)</option><option value="ml">Malayalam</option><option value="kn">Kannada</option><option value="bn">Bengali</option><option value="ur">Urdu (Pakistani)</option><option value="pa">Punjabi (Pakistani)</option><option value="es">Spanish</option><option value="ko">Korean</option><option value="ja">Japanese</option></select><i class="fas fa-chevron-down filter-select-icon"></i></div>
+          <div class="filter-select-wrap"><select class="filter-select" id="filter-sort" onchange="Filter.apply()"><option value="popularity.desc">Most Popular</option><option value="vote_average.desc">Highest Rated</option><option value="release_date.desc">Newest First</option></select><i class="fas fa-chevron-down filter-select-icon"></i></div>
+          <div class="filter-divider"></div>
+          <span class="filter-results-info"><span class="filter-results-count" id="filter-count">—</span> results</span>
+          <div class="view-toggle">
+            <button class="vt-btn active" id="vt-grid" onclick='ViewToggle.set("grid",this)'><i class="fas fa-th"></i></button>
+            <button class="vt-btn" id="vt-list" onclick='ViewToggle.set("list",this)'><i class="fas fa-list"></i></button>
+          </div>
+        </div>
+        <div class="active-filters" id="active-filters"></div>
+        <div class="mm-ad-slot mm-ad-browse" id="ad-browse-filter" aria-label="Advertisement"><div class="mm-ad-code"></div></div>
+        <div class="poster-grid" id="browse-grid"></div>
+        <div class="load-more-wrap" id="load-more-wrap"><button class="btn-load-more" id="btn-load-more" onclick="Browse.loadMore()"><i class="fas fa-plus-circle"></i> Load More</button></div>
+
+      </div>
+    </div>
+  </div>
+
+  <!-- WATCHLIST & HISTORY (Unchanged HTML internals) -->
+  <div class="cv-page" id="page-watchlist"><div class="page-inner"><div class="cv-container"><div class="wl-header"><div><div class="section-title">My Watchlist</div></div><div class="wl-count" id="wl-count-display">0 items</div></div><div class="wl-empty" id="wl-empty"><div class="wl-empty-icon"><i class="fas fa-heart"></i></div><div class="wl-empty-title">Your watchlist is empty</div><button class="btn-wl-discover" onclick="App.goHome()"><i class="fas fa-compass"></i> Discover Content</button></div><div class="poster-grid" id="wl-grid"></div></div></div></div>
+  <div class="cv-page" id="page-history"><div class="page-inner"><div class="cv-container"><div class="wl-header"><div><div class="section-title">Watch History</div></div><button class="section-view-all" onclick="History.clearAll()" style="color:var(--cv-red);border-color:rgba(255,77,77,0.2)"><i class="fas fa-trash"></i> Clear All</button></div><div class="poster-grid" id="history-grid"></div><div class="wl-empty hidden" id="history-empty"><div class="wl-empty-icon"><i class="fas fa-history"></i></div><div class="wl-empty-title">No watch history</div></div></div></div></div>
+
+  
+
+  <!-- ============================================================
+       INFORMATION PAGES
+  ============================================================ -->
+  <div class="cv-page mm-info-page" id="page-about"><div class="page-inner"><div class="cv-container"><article class="mm-info-card"><div class="mm-info-icon"><i class="fas fa-circle-info"></i></div><h1>About MoviMoon</h1><p>Welcome to MoviMoon, a movie and TV discovery website designed to help visitors explore films and series, ratings, genres, release information, cast details, trailers and related titles.</p><p>Movie and TV metadata is provided through the TMDB API. MoviMoon is not affiliated with or endorsed by TMDB.</p><p class="mm-muted"><strong>Demo notice:</strong> This About page is temporary demo content and will be updated with the site's final company, ownership and contact information before launch.</p></article></div></div></div>
+  <div class="cv-page mm-info-page" id="page-contact"><div class="page-inner"><div class="cv-container"><article class="mm-info-card"><div class="mm-info-icon"><i class="fas fa-envelope"></i></div><h1>Contact Us</h1><p>If you have a question, correction request, copyright concern, privacy request or other website-related matter, please contact the MoviMoon site administrator.</p><div class="mm-demo-contact"><p><strong>Demo Contact Email</strong></p><p><a href="mailto:contact@example.com">contact@example.com</a></p><p><strong>Demo Support</strong></p><p>Response time: normally within 2–5 business days.</p></div><p class="mm-muted"><strong>Demo notice:</strong> The email address above is a placeholder. Replace it with your real support/contact email before publishing or applying for monetization.</p></article></div></div></div>
+  <div class="cv-page mm-info-page" id="page-privacy"><div class="page-inner"><div class="cv-container"><article class="mm-info-card"><div class="mm-info-icon"><i class="fas fa-shield-halved"></i></div><h1>Privacy Policy</h1><p><strong>Demo Privacy Policy</strong> — This temporary page explains the basic type of information the MoviMoon website may process. It must be replaced or finalized before public launch.</p><h2>Information We May Process</h2><p>MoviMoon may use essential browser storage for features such as watchlist, viewing history and recent searches. Basic technical information may also be processed by hosting, security, analytics, advertising or third-party service providers when those services are enabled.</p><h2>Third-Party Services</h2><p>MoviMoon may use services such as TMDB, Cloudflare and advertising or analytics providers. Those services may process requests or information under their own privacy policies.</p><h2>Cookies and Advertising</h2><p>If advertising or analytics are added later, cookies or similar technologies may be used as required by those services and applicable law. The final policy will explain which services are used and how visitors can manage applicable choices.</p><h2>Contact</h2><p>For privacy questions or requests, use the contact details shown on the Contact Us page.</p><p class="mm-muted"><strong>Demo notice:</strong> This is placeholder legal content, not final legal advice. Update it with the actual data practices, advertising partners, cookie tools, contact details and applicable jurisdiction before launch.</p></article></div></div></div>
+  <div class="cv-page mm-info-page" id="page-terms"><div class="page-inner"><div class="cv-container"><article class="mm-info-card"><div class="mm-info-icon"><i class="fas fa-file-contract"></i></div><h1>Terms of Service</h1><p><strong>Demo Terms of Service</strong> — These temporary terms describe general use of the MoviMoon website and will be finalized before launch.</p><h2>Use of the Website</h2><p>Visitors should use MoviMoon lawfully and responsibly and should not attempt to disrupt, abuse, reverse engineer or interfere with the website, its APIs or its security systems.</p><h2>Content and Third-Party Services</h2><p>Movie and TV information may be supplied by third-party services. Availability, metadata, links and integrations can change without notice. MoviMoon does not guarantee that every title, service or feature will always be available.</p><h2>Intellectual Property</h2><p>Visitors are responsible for respecting applicable copyright, trademark and other intellectual-property laws. Any final statement about ownership, licensing or distribution will be based on the site's actual rights and agreements.</p><h2>Changes</h2><p>These terms may be updated when the website, services or legal requirements change.</p><p class="mm-muted"><strong>Demo notice:</strong> Replace this page with the site's final terms, acceptable-use rules, limitation-of-liability language, governing law and official contact information before launch.</p></article></div></div></div>
+  <div class="cv-page mm-info-page" id="page-disclaimer"><div class="page-inner"><div class="cv-container"><article class="mm-info-card"><div class="mm-info-icon"><i class="fas fa-triangle-exclamation"></i></div><h1>Disclaimer</h1><p><strong>Demo Disclaimer</strong> — MoviMoon is intended as a movie and TV discovery platform. Information such as titles, ratings, release dates, cast details and availability may come from third-party sources and may change or contain errors.</p><h2>Third-Party Services</h2><p>Some website features may rely on third-party APIs, embeds, streaming services, advertising providers or other external services. MoviMoon does not control the availability, content or policies of those external services.</p><h2>Copyright and Rights</h2><p>MoviMoon will not make claims about ownership, licensing or authorization unless those claims are accurate and supported by the site's actual rights or agreements. If you believe material on the site requires review, please contact the administrator.</p><h2>No Guarantee</h2><p>The website and its information are provided on an availability basis. Features, metadata and external integrations may be changed, suspended or removed.</p><p class="mm-muted"><strong>Demo notice:</strong> This is placeholder disclaimer content and should be reviewed and finalized for the site's actual business model, content sources, licensing position and applicable law before launch.</p></article></div></div></div>
+
+  <!-- ============================================================
+       FOOTER
+  ============================================================ -->
+  <footer class="cv-footer">
+    <div class="cv-container">
+      <div class="footer-grid">
+        <div class="footer-brand">
+          <div class="footer-logo"><div class="footer-logo-icon"><i class="fas fa-play"></i></div><span class="footer-logo-text">MoviMoon</span></div>
+          <p class="footer-desc">Your premium destination for movies, TV shows, and original content.</p>
+          <div class="footer-socials"><a class="footer-social-btn" href="#" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a><a class="footer-social-btn" href="#" aria-label="Instagram"><i class="fab fa-instagram"></i></a><a class="footer-social-btn" href="#" aria-label="YouTube"><i class="fab fa-youtube"></i></a><a class="footer-social-btn" href="#" aria-label="Telegram"><i class="fab fa-telegram-plane"></i></a></div>
+        </div>
+        <div class="footer-widget-area"><div class="footer-col-title">Movies</div><div class="footer-links"><a class="footer-link" href="/movies">Popular Movies</a><a class="footer-link" href="/top-rated">Top Rated</a><a class="footer-link" href="/upcoming">Coming Soon</a><a class="footer-link" href="/trending">Trending</a></div></div>
+        <div class="footer-widget-area"><div class="footer-col-title">TV Shows</div><div class="footer-links"><a class="footer-link" href="/tv-shows">Popular TV Shows</a><a class="footer-link" href="/trending">Trending Shows</a><a class="footer-link" href="/top-rated">Top Rated</a></div></div>
+        <div class="footer-widget-area"><div class="footer-col-title">Information</div><div class="footer-links"><a class="footer-link" href="/about" onclick="App.showInfoPage('about');return false;">About Us</a><a class="footer-link" href="/contact" onclick="App.showInfoPage('contact');return false;">Contact Us</a><a class="footer-link" href="/privacy" onclick="App.showInfoPage('privacy');return false;">Privacy Policy</a><a class="footer-link" href="/terms" onclick="App.showInfoPage('terms');return false;">Terms</a><a class="footer-link" href="/disclaimer" onclick="App.showInfoPage('disclaimer');return false;">Disclaimer</a></div></div>
+      </div>
+      <div class="footer-bottom"><div class="footer-copy">© <span id="footer-year">2026</span> MoviMoon. All rights reserved. Powered by TMDB API.</div></div>
+    </div>
+  </footer>
+
+  <!-- ============================================================
+       LIVE TV PAGE
+  ============================================================ -->
+  <div class="cv-page" id="page-livetv">
+    <div class="page-inner">
+      <div class="cv-container mm-tv-page">
+        <header class="mm-tv-heading">
+          <div class="mm-tv-heading-main">
+            <div class="mm-tv-heading-icon"><i class="fas fa-tower-broadcast"></i></div>
+            <div>
+              <div class="mm-tv-eyebrow"><span class="live-dot"></span> LIVE BROADCAST</div>
+              <h1>Live TV</h1>
+              <p>Explore live channels from around the world.</p>
+            </div>
+          </div>
+          <div class="mm-tv-count" id="iptvChannelCount"><i class="fas fa-satellite-dish"></i> Loading channels…</div>
+        </header>
+
+        <div class="mm-ad-slot mm-ad-live" id="ad-live-tv" aria-label="Advertisement"><div class="mm-ad-code"></div></div>
+
+        <div class="mm-tv-layout" id="iptvPortal">
+          <section class="mm-tv-main">
+            <div class="mm-tv-screen">
+              <video id="tvPlayer" controls playsinline preload="metadata" poster="/assets/logo.svg"></video>
+              <div id="iptvLoader" class="mm-tv-player-overlay">
+                <div class="mm-tv-overlay-mark"><i class="fas fa-play"></i></div>
+                <strong>Select a channel to start watching</strong>
+                <span>Choose a channel from the guide.</span>
+              </div>
+              <div class="mm-tv-live-pill"><span></span> LIVE</div>
+            </div>
+            <div class="mm-tv-now-playing">
+              <img id="activeLogo" src="/assets/logo.svg" alt="Selected channel logo">
+              <div class="mm-tv-now-copy">
+                <span>NOW PLAYING</span>
+                <h2 id="activeName">Select a channel</h2>
+                <p id="activeGroup">Live stream</p>
+              </div>
+              <div class="mm-tv-quality"><i class="fas fa-wand-magic-sparkles"></i> Auto quality</div>
+            </div>
+            <div class="mm-tv-tip"><i class="fas fa-circle-info"></i><span>Automatic quality is available when the selected HLS stream provides multiple quality levels. Playback can still depend on the source and connection.</span></div>
+          </section>
+
+          <aside class="mm-tv-guide">
+            <div class="mm-tv-guide-head">
+              <div><h2>Channel Guide</h2><p>Find your next channel</p></div>
+              <span class="mm-tv-guide-icon"><i class="fas fa-list"></i></span>
+            </div>
+            <label class="mm-tv-search">
+              <i class="fas fa-search"></i>
+              <input id="searchInput" type="search" placeholder="Search channels…" oninput="IPTV.filterChannels()" autocomplete="off">
+              <kbd>/</kbd>
+            </label>
+            <div class="mm-tv-filters">
+              <label><span>Continent</span>
+                <select id="continentSelect" onchange="IPTV.onContinentChange()">
+                  <option value="ALL">All continents</option>
+                  <option value="ASIA">Asia</option>
+                  <option value="EUROPE">Europe</option>
+                  <option value="AMERICAS">Americas</option>
+                  <option value="AFRICA">Africa</option>
+                  <option value="OCEANIA">Oceania</option>
+                </select>
+              </label>
+              <label><span>Country</span>
+                <select id="countrySelect" onchange="IPTV.onCountryChange()"><option value="ALL">All countries</option></select>
+              </label>
+              <label><span>Category / Genre</span>
+                <select id="categorySelect" onchange="IPTV.filterChannels()"><option value="ALL">All categories</option></select>
+              </label>
+            </div>
+            <div class="mm-tv-guide-meta"><span id="iptvFilteredCount">Loading guide…</span><span><i class="fas fa-signal"></i> Channel list</span></div>
+            <div id="channelGrid" class="mm-tv-channel-list">
+              <div class="mm-tv-empty"><i class="fas fa-spinner fa-spin"></i><span>Loading channels…</span></div>
+            </div>
+          </aside>
+        </div>
+      </div>
+    </div>
+    <style>
+      .mm-tv-page{--tv-accent:#16c7bd;color:var(--text-1,#f4f7ff)}
+      .mm-tv-heading{display:flex;align-items:center;justify-content:space-between;gap:16px;margin:0 0 22px}
+      .mm-tv-heading-main{display:flex;align-items:center;gap:14px}
+      .mm-tv-heading-icon{width:48px;height:48px;display:grid;place-items:center;border-radius:15px;background:linear-gradient(135deg,#16c7bd,#6862ef);color:white;font-size:20px;box-shadow:0 8px 28px #16c7bd2b}
+      .mm-tv-eyebrow{font-size:10px;letter-spacing:1.6px;font-weight:800;color:var(--tv-accent);margin-bottom:4px}
+      .mm-tv-heading h1{font-size:25px;font-weight:850;letter-spacing:-.7px;margin:0}
+      .mm-tv-heading p,.mm-tv-guide-head p{font-size:12px;color:var(--text-3);margin:4px 0 0}
+      .mm-tv-count{border:1px solid var(--b-2,rgba(255,255,255,.1));background:var(--bg-card,#111827);border-radius:999px;padding:9px 13px;color:var(--text-2);font-size:12px;white-space:nowrap}
+      .mm-tv-count i{color:var(--tv-accent);margin-right:6px}
+      .mm-tv-layout{display:grid;grid-template-columns:minmax(0,1fr) 340px;gap:18px;align-items:stretch}
+      .mm-tv-main{min-width:0}
+      .mm-tv-screen{position:relative;width:100%;aspect-ratio:16/9;min-height:220px;overflow:hidden;background:#020409;border:1px solid rgba(255,255,255,.09);border-radius:18px;box-shadow:0 18px 50px rgba(0,0,0,.25)}
+      .mm-tv-screen video{display:block;width:100%;height:100%;object-fit:contain;background:#020409}
+      .mm-tv-player-overlay{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:8px;text-align:center;background:radial-gradient(ellipse at center,#101a2a 0%,rgba(2,4,9,.96) 72%);color:#f5f7ff;padding:20px}
+      .mm-tv-player-overlay[style*="display: none"]{pointer-events:none}
+      .mm-tv-overlay-mark{width:54px;height:54px;display:grid;place-items:center;border-radius:50%;background:linear-gradient(135deg,#16c7bd,#6862ef);font-size:17px;margin-bottom:5px;box-shadow:0 8px 30px #16c7bd38}
+      .mm-tv-player-overlay strong{font-size:14px}.mm-tv-player-overlay span{font-size:12px;color:#8794a9}
+      .mm-tv-live-pill{position:absolute;top:14px;left:14px;padding:6px 9px;border-radius:7px;background:#e94355;color:white;font-size:10px;font-weight:800;letter-spacing:.5px;pointer-events:none}
+      .mm-tv-live-pill span{display:inline-block;width:6px;height:6px;background:white;border-radius:50%;margin-right:5px;animation:mmPulse 1.5s infinite}
+      @keyframes mmPulse{50%{opacity:.35}}
+      .mm-tv-now-playing{display:flex;align-items:center;gap:12px;margin-top:12px;padding:13px 15px;background:var(--bg-card,#111827);border:1px solid var(--b-2,rgba(255,255,255,.09));border-radius:14px;min-width:0}
+      .mm-tv-now-playing img{width:46px;height:46px;object-fit:contain;background:rgba(255,255,255,.04);border-radius:10px;padding:5px;flex-shrink:0}
+      .mm-tv-now-copy{min-width:0;flex:1}.mm-tv-now-copy>span{font-size:9px;letter-spacing:1.2px;color:var(--tv-accent);font-weight:800}
+      .mm-tv-now-copy h2{font-size:15px;font-weight:750;margin:3px 0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+      .mm-tv-now-copy p{font-size:11px;color:var(--text-3);margin:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+      .mm-tv-quality{font-size:10px;color:var(--text-3);white-space:nowrap;border:1px solid var(--b-2,rgba(255,255,255,.1));padding:7px 9px;border-radius:8px}
+      .mm-tv-quality i{color:var(--tv-accent);margin-right:4px}
+      .mm-tv-tip{display:flex;gap:8px;align-items:flex-start;color:var(--text-3);font-size:11px;line-height:1.5;margin:12px 2px}.mm-tv-tip i{color:var(--tv-accent);margin-top:2px}
+      .mm-tv-guide{display:flex;flex-direction:column;height:calc(100vh - 165px);min-height:560px;max-height:calc(100vh - 165px);background:var(--bg-card,#111827);border:1px solid var(--b-2,rgba(255,255,255,.09));border-radius:18px;overflow:hidden}
+      .mm-tv-guide-head{display:flex;justify-content:space-between;align-items:center;padding:16px 16px 13px;border-bottom:1px solid var(--b-2,rgba(255,255,255,.07))}
+      .mm-tv-guide-head h2{font-size:15px;font-weight:800;margin:0}.mm-tv-guide-icon{width:34px;height:34px;display:grid;place-items:center;border-radius:10px;background:rgba(22,199,189,.1);color:var(--tv-accent)}
+      .mm-tv-search{display:flex;align-items:center;gap:9px;margin:12px 12px 10px;padding:0 11px;height:40px;background:var(--bg-main,#080c14);border:1px solid var(--b-2,rgba(255,255,255,.1));border-radius:10px;color:var(--text-3)}
+      .mm-tv-search i{font-size:12px}.mm-tv-search input{min-width:0;flex:1;background:transparent;border:0;outline:0;color:var(--text-1,#fff);font-size:12px}.mm-tv-search kbd{font-size:10px;border:1px solid var(--b-2);border-radius:4px;padding:2px 5px}
+      .mm-tv-filters{display:grid;grid-template-columns:1fr 1fr;gap:8px;padding:0 12px 12px}
+      .mm-tv-filters label{min-width:0}.mm-tv-filters label span{display:block;font-size:9px;text-transform:uppercase;letter-spacing:.7px;color:var(--text-3);font-weight:800;margin:0 0 5px 2px}
+      .mm-tv-filters select{width:100%;height:36px;min-width:0;padding:0 8px;background:var(--bg-main,#080c14);color:var(--text-1,#fff);border:1px solid var(--b-2,rgba(255,255,255,.1));border-radius:8px;font-size:11px;outline:none}
+      .mm-tv-guide-meta{display:flex;justify-content:space-between;gap:8px;padding:9px 14px;background:rgba(255,255,255,.025);border-top:1px solid var(--b-2,rgba(255,255,255,.06));border-bottom:1px solid var(--b-2,rgba(255,255,255,.06));font-size:10px;color:var(--text-3)}
+      .mm-tv-channel-list{overflow-y:auto;min-height:180px;flex:1;padding:8px;display:flex;flex-direction:column;gap:5px}
+      .iptv-channel-card{display:flex;align-items:center;gap:10px;padding:9px 10px;border:1px solid transparent;border-radius:10px;background:rgba(255,255,255,.018);cursor:pointer;transition:background .16s,border-color .16s}
+      .iptv-channel-card:hover{background:rgba(255,255,255,.055);border-color:var(--b-2,rgba(255,255,255,.1))}
+      .iptv-channel-card.active{background:rgba(22,199,189,.09);border-color:rgba(22,199,189,.55)}
+      .iptv-channel-card img{width:36px;height:36px;object-fit:contain;background:rgba(255,255,255,.04);border-radius:8px;padding:3px;flex-shrink:0}
+      .iptv-channel-card .name{flex:1;min-width:0;color:var(--text-1,#f4f7ff);font-size:12px;font-weight:650;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+      .iptv-channel-card .cc{font-size:9px;color:var(--text-3);border:1px solid var(--b-2,rgba(255,255,255,.1));padding:3px 5px;border-radius:5px}
+      .mm-tv-empty{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:10px;padding:32px 12px;color:var(--text-3);font-size:12px;text-align:center}
+      @media(max-width:1050px){.mm-tv-layout{grid-template-columns:minmax(0,1fr) 310px}}
+      @media(max-width:850px){.mm-tv-layout{grid-template-columns:1fr}.mm-tv-guide{height:auto;min-height:0;max-height:560px}.mm-tv-screen{border-radius:14px}}
+      @media(max-width:520px){.mm-tv-heading{align-items:flex-start}.mm-tv-heading h1{font-size:22px}.mm-tv-count{font-size:10px;padding:8px}.mm-tv-quality{display:none}.mm-tv-filters{grid-template-columns:1fr 1fr}.mm-tv-screen{min-height:190px}.mm-tv-guide{max-height:520px}}
+    </style>
+  </div>
+
+</div><!-- /cv-main -->
+
+<!-- MOBILE SEARCH OVERLAY -->
+<div class="mob-search-overlay" id="mob-search-overlay">
+  <div class="mob-search-header">
+    <button class="mob-search-back" onclick="Search.closeMobileOverlay()"><i class="fas fa-arrow-left"></i></button>
+    <div class="mob-search-input-wrap">
+      <i class="fas fa-search mob-search-icon"></i>
+      <input autocomplete="off" class="mob-search-input" id="mob-search-input" oninput="Search.onMobileInput(this.value)" placeholder="Search movies, shows..." type="text">
+      <button class="mob-search-clear" id="mob-search-clear" onclick="Search.clearMobile()"><i class="fas fa-times"></i></button>
+    </div>
+  </div>
+  <div class="mob-search-body" id="mob-search-body">
+    <div class="mob-srd-recents" id="mob-srd-recents">
+      <div class="mob-srd-recents-label">Recent Searches</div>
+      <div id="mob-srd-recent-tags"></div>
+    </div>
+    <div class="mob-srd-results" id="mob-srd-results"></div>
+    <div class="mob-srd-footer" id="mob-srd-footer" onclick="Search.mobileViewAll()">
+      <i class="fas fa-search"></i> <span id="mob-srd-footer-text">View all results</span> <i class="fas fa-chevron-right"></i>
+    </div>
+  </div>
+</div>
+
+<nav class="mobile-bottom-bar">
+  <button class="mbb-btn active" id="mbb-home" onclick="App.goHome(); MobNav.setBottomActive(this)"><i class="fas fa-home"></i><span>Home</span></button>
+  <button class="mbb-btn" id="mbb-movies" onclick="App.browseMovies(); MobNav.setBottomActive(this)"><i class="fas fa-film"></i><span>Movies</span></button>
+  <button class="mbb-btn" id="mbb-tv" onclick="App.browseTVShows(); MobNav.setBottomActive(this)"><i class="fas fa-tv"></i><span>TV Shows</span></button>
+  <button class="mbb-btn" id="mbb-search" onclick="Search.focusMobile()"><i class="fas fa-search"></i><span>Search</span></button>
+  <button class="mbb-btn" id="mbb-watchlist" onclick="App.showWatchlist(); MobNav.setBottomActive(this)"><i class="fas fa-heart"></i><span>Watchlist</span></button>
+  <button class="mbb-btn" id="mbb-livetv" onclick="App.showLiveTV(); MobNav.setBottomActive(this)"><i class="fas fa-broadcast-tower"></i><span>Live TV</span></button>
+</nav>
+
+<div class="modal-overlay" id="modal-overlay" onclick="Modal.overlayClick(event)">
+  
+  <div class="fv-player-modal" id="fv-player-modal">
+    <div class="fv-player-modal-header">
+      <div class="fv-player-modal-notice">
+        <i class="fas fa-info-circle"></i><span>please switch to other servers if default server doesnt work</span>
+      </div>
+      <button class="fv-player-modal-close" onclick="closePlayerModal(); return false;" type="button"><i class="fas fa-times"></i></button>
+    </div>
+    <div class="fv-player-modal-body">
+      <div class="server-tabs" id="server-tabs-player" style="display:none;"></div>
+      <div class="player-wrap"><iframe allow="fullscreen; autoplay; encrypted-media; picture-in-picture" allowfullscreen="true" id="main-player" scrolling="no" src=""></iframe></div>
+    </div>
+  </div>
+<div class="qv-modal" id="qv-modal"><div class="qv-top"><img alt="backdrop" class="qv-backdrop" id="qv-backdrop" src=""><div class="qv-top-grad"></div><button class="qv-close" onclick="Modal.closeAll()"><i class="fas fa-times"></i></button><div class="qv-play-big" onclick="Modal.upgradeToFull()"><i class="fas fa-play"></i></div></div><div class="qv-body"><div class="qv-title" id="qv-title"></div><div class="qv-meta"><div class="qv-meta-item"><i class="fas fa-star"></i><span id="qv-rating">—</span></div><div class="qv-meta-item"><i class="fas fa-calendar"></i><span id="qv-year">—</span></div><div class="qv-meta-item"><i class="fas fa-clock"></i><span id="qv-runtime">—</span></div><div class="qv-meta-item"><i class="fas fa-language"></i><span id="qv-lang">—</span></div></div><div class="qv-tags" id="qv-tags"></div><div class="qv-desc" id="qv-desc"></div><div class="qv-actions"><button class="btn-qv-play" onclick="Modal.upgradeToFull()"><i class="fas fa-play"></i> Watch Now</button><button class="btn-qv-detail" onclick="Modal.upgradeToFull()"><i class="fas fa-info-circle"></i> More Details</button><button class="btn-qv-wl" id="qv-wl-btn" onclick="Watchlist.toggleCurrent()"><i class="fas fa-heart"></i></button></div></div></div>
+  <div class="fv-modal" id="fv-modal"><div class="fv-hero"><img alt="backdrop" class="fv-backdrop" id="fv-backdrop" src=""><div class="fv-hero-grad"></div><img alt="poster" class="fv-hero-poster" id="fv-poster" src=""><button class="fv-hero-close" onclick="Modal.closeAll()"><i class="fas fa-times"></i></button></div><div class="fv-body"><div class="fv-title-row"><div class="fv-title-main"><div class="fv-title" id="fv-title"></div><div class="fv-meta-row"><span class="fv-meta-badge fv-mb-rating"><i class="fas fa-star"></i> <span id="fv-rating">—</span></span><span class="fv-meta-badge fv-mb-year" id="fv-year">—</span><span class="fv-meta-badge fv-mb-quality">4K HD</span><span class="fv-meta-badge fv-mb-lang" id="fv-lang">EN</span></div></div></div><div class="fv-actions-row"><button class="btn-fv-play" onclick="Player.playMovie()"><i class="fas fa-play"></i> Watch Now</button><button class="btn-fv-trailer" id="fv-trailer-btn" onclick="Player.playTrailer()" title="Trailer"><i class="fas fa-film"></i> Trailer</button><button class="btn-fv-icon" id="fv-wl-btn" onclick="Watchlist.toggleCurrent()" title="Watchlist"><i class="fas fa-heart"></i></button><button class="btn-fv-icon" onclick="Share.current()" title="Share"><i class="fas fa-share-alt"></i></button></div><div class="fv-tabs"><div class="fv-tab active" data-tab="overview" onclick='FVTabs.showTab("overview",this)'>Overview</div><div class="fv-tab" data-tab="watch" onclick='FVTabs.showTab("watch",this)'>Watch</div><div class="fv-tab" data-tab="cast" onclick='FVTabs.showTab("cast",this)'>Cast</div><div class="fv-tab" data-tab="related" onclick='FVTabs.showTab("related",this)'>Related</div></div><div class="fv-tab-pane active" id="tab-overview"><div class="fv-overview-grid"><div><p class="fv-desc" id="fv-desc"></p></div><div><div class="fv-info-list"><div class="fv-info-item"><span class="fv-info-key">Director</span><span class="fv-info-val" id="fv-director">—</span></div><div class="fv-info-item"><span class="fv-info-key">Genre</span><span class="fv-info-val" id="fv-genre">—</span></div><div class="fv-info-item"><span class="fv-info-key">Runtime</span><span class="fv-info-val" id="fv-runtime">—</span></div><div class="fv-info-item"><span class="fv-info-key">Language</span><span class="fv-info-val" id="fv-lang-detail">—</span></div><div class="fv-info-item"><span class="fv-info-key">Status</span><span class="fv-info-val" id="fv-status">—</span></div><div class="fv-info-item"><span class="fv-info-key">Votes</span><span class="fv-info-val" id="fv-votes">—</span></div></div></div></div></div><div class="fv-tab-pane" id="tab-watch"><div class="server-notice" id="server-notice" style="display:flex !important;">
+  <div class="server-notice-icon"><i class="fas fa-info-circle"></i></div>
+  <div class="server-notice-text">please switch to other servers if default server doesnt work</div>
+  <button class="server-notice-close" id="server-notice-close" onclick='var n=document.getElementById("server-notice"); if(n){ n.style.display="none"; } return false;' type="button"><span style="pointer-events:none;"><i class="fas fa-times"></i></span></button>
+</div>
+<div style="text-align:center; padding:30px 20px;">
+  <i class="fas fa-play-circle" style="font-size:48px; color:#00C4B4; margin-bottom:16px; display:block;"></i>
+  <div style="color:#fff; font-size:16px; font-weight:600; margin-bottom:8px;">Player opens as popup</div>
+  <div style="color:#8892a4; font-size:13px; margin-bottom:20px;">Click Watch Now to watch as popup player</div>
+  <button class="btn-fv-play" onclick="Player.playMovie()" style="background:linear-gradient(135deg,#00C4B4,#7C5CFC); border:none; padding:12px 28px; border-radius:999px; color:#fff; font-weight:600; cursor:pointer;"><i class="fas fa-play" style="margin-right:8px;"></i> Watch Now</button>
+</div>
+<div class="player-wrap" style="display:none;"><iframe id="main-player-old" src=""></iframe></div>
+</div><div class="fv-tab-pane" id="tab-cast"><div class="fv-cast-scroll" id="fv-cast"></div></div><div class="fv-tab-pane" id="tab-related"><div class="fv-related-grid" id="fv-related"></div></div></div></div>
+</div>
+
+
+<script src="/js/ads.js" defer></script>
+<script src="/js/app.js" defer></script>
+</body>
+</html>
