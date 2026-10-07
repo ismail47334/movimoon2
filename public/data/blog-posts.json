@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-07T18:29:28.480Z",
+  "updatedAt": "2026-10-07T18:29:53.907Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "240293",
+      "slug": "jhanak-2023",
+      "title": "Jhanak (2023) [Hindi TV] - Watch All Seasons Online in HD | MoviMoon - Rating 8.0/10",
+      "displayTitle": "Jhanak",
+      "year": 2023,
+      "rating": 8,
+      "genres": "Drama",
+      "category": "Hindi TV",
+      "originalLanguage": "hi",
+      "image": "https://image.tmdb.org/t/p/w342/lutE1Fi1L4BlH8qwn0XBWB8MBJl.jpg",
+      "url": "https://movimoon.pages.dev/blog/tv/jhanak-2023",
+      "watchUrl": "https://movimoon.pages.dev/tv/240293-jhanak",
+      "publishedAt": "2026-10-07T18:29:53.906Z",
+      "updatedAt": "2026-10-07T18:29:53.906Z",
+      "overview": "A driven young woman embarks on a journey to fulfill a mother's promise for a better life as she overcomes challenges and loss while crossing paths with a man who further complicates her life.",
+      "posterPath": "https://image.tmdb.org/t/p/w342/lutE1Fi1L4BlH8qwn0XBWB8MBJl.jpg",
+      "signature": "{\"title\":\"Jhanak\",\"year\":2023,\"rating\":\"8.00\",\"overview\":\"A driven young woman embarks on a journey to fulfill a mother's promise for a better life as she overcomes challenges and loss while crossing paths with a man who further complicates her life.\",\"poster\":\"https://image.tmdb.org/t/p/w342/lutE1Fi1L4BlH8qwn0XBWB8MBJl.jpg\",\"backdrop\":\"https://image.tmdb.org/t/p/w780/qsVujmyayl7oL7NfdOvCZAsxaB5.jpg\",\"genres\":\"Drama\",\"category\":\"Hindi TV\",\"originalLanguage\":\"hi\",\"seasons\":2,\"episodes\":924}"
+    },
     {
       "type": "tv",
       "tmdbId": "309105",
