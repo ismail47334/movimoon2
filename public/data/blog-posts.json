@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-07T10:33:06.815Z",
+  "updatedAt": "2026-10-07T10:33:18.262Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1542995",
+      "slug": "bonolota-express-2026",
+      "title": "Bonolota Express (2026) [Bengali] - Watch Online in HD | MoviMoon - Rating 8.6/10",
+      "displayTitle": "Bonolota Express",
+      "year": 2026,
+      "rating": 8.647,
+      "genres": "Drama, Comedy, Family",
+      "category": "Bengali",
+      "originalLanguage": "bn",
+      "image": "https://image.tmdb.org/t/p/w342/h6nITbbSobZ0EwU6Dcw6LGZOZYA.jpg",
+      "url": "https://movimoon.pages.dev/blog/movie/bonolota-express-2026",
+      "watchUrl": "https://movimoon.pages.dev/movie/1542995-bonolota-express",
+      "publishedAt": "2026-10-07T10:33:18.262Z",
+      "updatedAt": "2026-10-07T10:33:18.262Z",
+      "overview": "On a foggy winter journey, the Bonolota Express carries strangers burdened by secrets whose lives begin to collide within the train’s confined corridors. As the night unfolds, personal and political crises erupt, exposing hidden grief, moral decay, and moments of unexpected compassion amid chaos and revolt. By dawn, the train moves on, leaving its passengers irrevocably changed by a single journey where illusions collapse and human truths emerge.",
+      "posterPath": "https://image.tmdb.org/t/p/w342/h6nITbbSobZ0EwU6Dcw6LGZOZYA.jpg",
+      "signature": "{\"title\":\"Bonolota Express\",\"year\":2026,\"rating\":\"8.65\",\"overview\":\"On a foggy winter journey, the Bonolota Express carries strangers burdened by secrets whose lives begin to collide within the train’s confined corridors. As the night unfolds, personal and political crises erupt, exposing hidden grief, moral decay, and moments of unexpected compassion amid chaos and revolt. By dawn, the train moves on, leaving its passengers irrevocably changed by a single journey where illusions collapse and human truths emerge.\",\"poster\":\"https://image.tmdb.org/t/p/w342/h6nITbbSobZ0EwU6Dcw6LGZOZYA.jpg\",\"backdrop\":\"https://image.tmdb.org/t/p/w780/wUlvM4v5FUjM2omyld9ULVHONZA.jpg\",\"genres\":\"Drama, Comedy, Family\",\"category\":\"Bengali\",\"originalLanguage\":\"bn\",\"seasons\":\"\",\"episodes\":\"\"}"
+    },
     {
       "type": "movie",
       "tmdbId": "1685882",
