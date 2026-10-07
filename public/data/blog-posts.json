@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-07T11:21:11.556Z",
+  "updatedAt": "2026-10-07T11:21:22.999Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1511417",
+      "slug": "b-hubali-the-epic-2025",
+      "title": "Bāhubali: The Epic (2025) [Tollywood] - Watch Online in HD | MoviMoon - Rating 6.5/10",
+      "displayTitle": "Bāhubali: The Epic",
+      "year": 2025,
+      "rating": 6.5,
+      "genres": "Action, Drama",
+      "category": "Tollywood",
+      "originalLanguage": "te",
+      "image": "https://image.tmdb.org/t/p/w342/z9YIo2qscyaXYgRqIdRJtND3bw8.jpg",
+      "url": "https://movimoon.pages.dev/blog/movie/b-hubali-the-epic-2025",
+      "watchUrl": "https://movimoon.pages.dev/movie/1511417-b-hubali-the-epic",
+      "publishedAt": "2026-10-07T11:21:22.999Z",
+      "updatedAt": "2026-10-07T11:21:22.999Z",
+      "overview": "When a mysterious child is found by a tribal couple near a roaring waterfall, they raise him as their own. As he grows, Sivudu is drawn to the world beyond the cliffs, where he discovers the ancient kingdom of Mahishmati, ruled by a cruel tyrant, haunted by rebellion, and bound to his past. What begins as a quest for love soon unravels a legacy of betrayal, sacrifice, and a forgotten prince.",
+      "posterPath": "https://image.tmdb.org/t/p/w342/z9YIo2qscyaXYgRqIdRJtND3bw8.jpg",
+      "signature": "{\"title\":\"Bāhubali: The Epic\",\"year\":2025,\"rating\":\"6.50\",\"overview\":\"When a mysterious child is found by a tribal couple near a roaring waterfall, they raise him as their own. As he grows, Sivudu is drawn to the world beyond the cliffs, where he discovers the ancient kingdom of Mahishmati, ruled by a cruel tyrant, haunted by rebellion, and bound to his past. What begins as a quest for love soon unravels a legacy of betrayal, sacrifice, and a forgotten prince.\",\"poster\":\"https://image.tmdb.org/t/p/w342/z9YIo2qscyaXYgRqIdRJtND3bw8.jpg\",\"backdrop\":\"https://image.tmdb.org/t/p/w780/wCwZ4ljSsWyZyTiyk1tGQtBHTDx.jpg\",\"genres\":\"Action, Drama\",\"category\":\"Tollywood\",\"originalLanguage\":\"te\",\"seasons\":\"\",\"episodes\":\"\"}"
+    },
     {
       "type": "movie",
       "tmdbId": "811941",
