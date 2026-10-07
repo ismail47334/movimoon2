@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-07T18:28:11.480Z",
+  "updatedAt": "2026-10-07T18:28:36.081Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1376856",
+      "slug": "the-paradise-2026",
+      "title": "The Paradise (2026) [Tollywood] - Watch Online in HD | MoviMoon - Rating 4.4/10",
+      "displayTitle": "The Paradise",
+      "year": 2026,
+      "rating": 4.4,
+      "genres": "Action, Thriller, Drama",
+      "category": "Tollywood",
+      "originalLanguage": "te",
+      "image": "https://image.tmdb.org/t/p/w342/smghVMoMWSIFi5dgIz4w1UIcEcY.jpg",
+      "url": "https://movimoon.pages.dev/blog/movie/the-paradise-2026",
+      "watchUrl": "https://movimoon.pages.dev/movie/1376856-the-paradise",
+      "publishedAt": "2026-10-07T18:28:36.080Z",
+      "updatedAt": "2026-10-07T18:28:36.080Z",
+      "overview": "In 1980s Secunderabad, a marginalized tribe battles discrimination and fights for citizenship under an unexpected leader's guidance, challenging systemic oppression.",
+      "posterPath": "https://image.tmdb.org/t/p/w342/smghVMoMWSIFi5dgIz4w1UIcEcY.jpg",
+      "signature": "{\"title\":\"The Paradise\",\"year\":2026,\"rating\":\"4.40\",\"overview\":\"In 1980s Secunderabad, a marginalized tribe battles discrimination and fights for citizenship under an unexpected leader's guidance, challenging systemic oppression.\",\"poster\":\"https://image.tmdb.org/t/p/w342/smghVMoMWSIFi5dgIz4w1UIcEcY.jpg\",\"backdrop\":\"https://image.tmdb.org/t/p/w780/7AcH5TFppoMusNkCBLaQP6UOODp.jpg\",\"genres\":\"Action, Thriller, Drama\",\"category\":\"Tollywood\",\"originalLanguage\":\"te\",\"seasons\":\"\",\"episodes\":\"\"}"
+    },
     {
       "type": "movie",
       "tmdbId": "1273672",
