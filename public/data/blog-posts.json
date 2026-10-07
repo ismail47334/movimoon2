@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-07T10:33:18.262Z",
+  "updatedAt": "2026-10-07T10:33:30.265Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "238396",
+      "slug": "fairy-tale-2023",
+      "title": "Fairy Tale (2023) [Pakistani TV] - Watch All Seasons Online in HD | MoviMoon - Rating 10.0/10",
+      "displayTitle": "Fairy Tale",
+      "year": 2023,
+      "rating": 10,
+      "genres": "Drama",
+      "category": "Pakistani TV",
+      "originalLanguage": "ur",
+      "image": "https://image.tmdb.org/t/p/w342/4j9kPsOwI1tGlADiN4A9Ds4uLY2.jpg",
+      "url": "https://movimoon.pages.dev/blog/tv/fairy-tale-2023",
+      "watchUrl": "https://movimoon.pages.dev/tv/238396-fairy-tale",
+      "publishedAt": "2026-10-07T10:33:30.265Z",
+      "updatedAt": "2026-10-07T10:33:30.265Z",
+      "overview": "The story of Fairy tale revolves around Umeed, a young middle-class girl who dreams of living the life of a princess and is always on the lookout for get-rich-quick schemes. In her overwhelming quest, something fantastical falls in Umeed’s lap when she receives an",
+      "posterPath": "https://image.tmdb.org/t/p/w342/4j9kPsOwI1tGlADiN4A9Ds4uLY2.jpg",
+      "signature": "{\"title\":\"Fairy Tale\",\"year\":2023,\"rating\":\"10.00\",\"overview\":\"The story of Fairy tale revolves around Umeed, a young middle-class girl who dreams of living the life of a princess and is always on the lookout for get-rich-quick schemes. In her overwhelming quest, something fantastical falls in Umeed’s lap when she receives an\",\"poster\":\"https://image.tmdb.org/t/p/w342/4j9kPsOwI1tGlADiN4A9Ds4uLY2.jpg\",\"backdrop\":\"https://image.tmdb.org/t/p/w780/e5FEQZpmXyhuVzzumXtE0jgwj0W.jpg\",\"genres\":\"Drama\",\"category\":\"Pakistani TV\",\"originalLanguage\":\"ur\",\"seasons\":2,\"episodes\":62}"
+    },
     {
       "type": "movie",
       "tmdbId": "1542995",
