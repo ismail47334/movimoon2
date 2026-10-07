@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-07T10:26:54.580Z",
+  "updatedAt": "2026-10-07T10:32:43.654Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1291595",
+      "slug": "insidious-out-of-the-further-2026",
+      "title": "Insidious: Out of the Further (2026) [Hollywood] - Watch Online in HD | MoviMoon - Rating 7.2/10",
+      "displayTitle": "Insidious: Out of the Further",
+      "year": 2026,
+      "rating": 7.191,
+      "genres": "Horror, Thriller",
+      "category": "Hollywood",
+      "originalLanguage": "en",
+      "image": "https://image.tmdb.org/t/p/w342/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
+      "url": "https://movimoon.pages.dev/blog/movie/insidious-out-of-the-further-2026",
+      "watchUrl": "https://movimoon.pages.dev/movie/1291595-insidious-out-of-the-further",
+      "publishedAt": "2026-10-07T10:32:43.653Z",
+      "updatedAt": "2026-10-07T10:32:43.653Z",
+      "overview": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
+      "posterPath": "https://image.tmdb.org/t/p/w342/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
+      "signature": "{\"title\":\"Insidious: Out of the Further\",\"year\":2026,\"rating\":\"7.19\",\"overview\":\"Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.\",\"poster\":\"https://image.tmdb.org/t/p/w342/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg\",\"backdrop\":\"https://image.tmdb.org/t/p/w780/p40lmrdI4blcAPZQMTPaiy5v5Ym.jpg\",\"genres\":\"Horror, Thriller\",\"category\":\"Hollywood\",\"originalLanguage\":\"en\",\"seasons\":\"\",\"episodes\":\"\"}"
+    },
     {
       "type": "tv",
       "tmdbId": "278796",
