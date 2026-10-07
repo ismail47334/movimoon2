@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-07T11:20:59.652Z",
+  "updatedAt": "2026-10-07T11:21:11.556Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "811941",
+      "slug": "devara-part-1-2024",
+      "title": "Devara: Part 1 (2024) [Tollywood] - Watch Online in HD | MoviMoon - Rating 6.8/10",
+      "displayTitle": "Devara: Part 1",
+      "year": 2024,
+      "rating": 6.8,
+      "genres": "Drama, Action",
+      "category": "Tollywood",
+      "originalLanguage": "te",
+      "image": "https://image.tmdb.org/t/p/w342/lQfuaXjANoTsdx5iS0gCXlK9D2L.jpg",
+      "url": "https://movimoon.pages.dev/blog/movie/devara-part-1-2024",
+      "watchUrl": "https://movimoon.pages.dev/movie/811941-devara-part-1",
+      "publishedAt": "2026-10-07T11:21:11.556Z",
+      "updatedAt": "2026-10-07T11:21:11.556Z",
+      "overview": "A mighty warrior takes a stand against the criminal deeds of his village, while his mild-mannered son grows up to walk his own path.",
+      "posterPath": "https://image.tmdb.org/t/p/w342/lQfuaXjANoTsdx5iS0gCXlK9D2L.jpg",
+      "signature": "{\"title\":\"Devara: Part 1\",\"year\":2024,\"rating\":\"6.80\",\"overview\":\"A mighty warrior takes a stand against the criminal deeds of his village, while his mild-mannered son grows up to walk his own path.\",\"poster\":\"https://image.tmdb.org/t/p/w342/lQfuaXjANoTsdx5iS0gCXlK9D2L.jpg\",\"backdrop\":\"https://image.tmdb.org/t/p/w780/hAQnXxOwCjgYcKRgTdYPRC8neqL.jpg\",\"genres\":\"Drama, Action\",\"category\":\"Tollywood\",\"originalLanguage\":\"te\",\"seasons\":\"\",\"episodes\":\"\"}"
+    },
     {
       "type": "movie",
       "tmdbId": "1745761",
