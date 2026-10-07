@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-07T18:28:36.081Z",
+  "updatedAt": "2026-10-07T18:29:00.611Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "6060",
+      "slug": "kyunki-saas-bhi-kabhi-bahu-thi-2000",
+      "title": "Kyunki Saas Bhi Kabhi Bahu Thi (2000) [Hindi TV] - Watch All Seasons Online in HD | MoviMoon - Rating 3.4/10",
+      "displayTitle": "Kyunki Saas Bhi Kabhi Bahu Thi",
+      "year": 2000,
+      "rating": 3.4,
+      "genres": "Drama, Family, Soap",
+      "category": "Hindi TV",
+      "originalLanguage": "hi",
+      "image": "https://image.tmdb.org/t/p/w342/rJfoyxt7FOKr7WPB6FPuffarpcn.jpg",
+      "url": "https://movimoon.pages.dev/blog/tv/kyunki-saas-bhi-kabhi-bahu-thi-2000",
+      "watchUrl": "https://movimoon.pages.dev/tv/6060-kyunki-saas-bhi-kabhi-bahu-thi",
+      "publishedAt": "2026-10-07T18:29:00.611Z",
+      "updatedAt": "2026-10-07T18:29:00.611Z",
+      "overview": "A mother-in-law's struggle to put up with her three bahu's. The three bahu's have grown up sons. The bahu's sons start to get involved with having girlfriends and the bahu's try and break their relationships up.",
+      "posterPath": "https://image.tmdb.org/t/p/w342/rJfoyxt7FOKr7WPB6FPuffarpcn.jpg",
+      "signature": "{\"title\":\"Kyunki Saas Bhi Kabhi Bahu Thi\",\"year\":2000,\"rating\":\"3.40\",\"overview\":\"A mother-in-law's struggle to put up with her three bahu's. The three bahu's have grown up sons. The bahu's sons start to get involved with having girlfriends and the bahu's try and break their relationships up.\",\"poster\":\"https://image.tmdb.org/t/p/w342/rJfoyxt7FOKr7WPB6FPuffarpcn.jpg\",\"backdrop\":\"https://image.tmdb.org/t/p/w780/gwXnESfjDqop3tDLoGxSwCUP8GD.jpg\",\"genres\":\"Drama, Family, Soap\",\"category\":\"Hindi TV\",\"originalLanguage\":\"hi\",\"seasons\":2,\"episodes\":2266}"
+    },
     {
       "type": "movie",
       "tmdbId": "1376856",
