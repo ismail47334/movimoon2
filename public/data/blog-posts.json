@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-07T11:20:47.253Z",
+  "updatedAt": "2026-10-07T11:20:59.652Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1745761",
+      "slug": "termite-2026",
+      "title": "Termite (2026) [Pakistani] - Watch Online in HD | MoviMoon - Rating N/A/10",
+      "displayTitle": "Termite",
+      "year": 2026,
+      "rating": 0,
+      "genres": "Drama",
+      "category": "Pakistani",
+      "originalLanguage": "ur",
+      "image": "https://image.tmdb.org/t/p/w342/uNShe3V9Tbwb0RfWjVHOZURpv6I.jpg",
+      "url": "https://movimoon.pages.dev/blog/movie/termite-2026",
+      "watchUrl": "https://movimoon.pages.dev/movie/1745761-termite",
+      "publishedAt": "2026-10-07T11:20:59.652Z",
+      "updatedAt": "2026-10-07T11:20:59.652Z",
+      "overview": "Shaunak Sen’s follow-up to the Academy Award–nominated documentary All That Breathes is an evocative drama set in the vibrant neighbourhoods of Old Delhi, where the routined lives of two middle-aged termite exterminators are about to drastically change when one of them receives an unexpected marriage proposal.",
+      "posterPath": "https://image.tmdb.org/t/p/w342/uNShe3V9Tbwb0RfWjVHOZURpv6I.jpg",
+      "signature": "{\"title\":\"Termite\",\"year\":2026,\"rating\":\"0.00\",\"overview\":\"Shaunak Sen’s follow-up to the Academy Award–nominated documentary All That Breathes is an evocative drama set in the vibrant neighbourhoods of Old Delhi, where the routined lives of two middle-aged termite exterminators are about to drastically change when one of them receives an unexpected marriage proposal.\",\"poster\":\"https://image.tmdb.org/t/p/w342/uNShe3V9Tbwb0RfWjVHOZURpv6I.jpg\",\"backdrop\":\"https://image.tmdb.org/t/p/w780/1f9ZEja8HXu91vUNpZOrw5dd6RH.jpg\",\"genres\":\"Drama\",\"category\":\"Pakistani\",\"originalLanguage\":\"ur\",\"seasons\":\"\",\"episodes\":\"\"}"
+    },
     {
       "type": "movie",
       "tmdbId": "1400837",
