@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-07T10:32:55.475Z",
+  "updatedAt": "2026-10-07T10:33:06.815Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1685882",
+      "slug": "modha-rathri-2026",
+      "title": "Modha Rathri (2026) [Kollywood] - Watch Online in HD | MoviMoon - Rating 7.8/10",
+      "displayTitle": "Modha Rathri",
+      "year": 2026,
+      "rating": 7.818,
+      "genres": "Romance, Comedy",
+      "category": "Kollywood",
+      "originalLanguage": "ta",
+      "image": "https://image.tmdb.org/t/p/w342/3VuNFeniljhEe9MDW12MnDbETgH.jpg",
+      "url": "https://movimoon.pages.dev/blog/movie/modha-rathri-2026",
+      "watchUrl": "https://movimoon.pages.dev/movie/1685882-modha-rathri",
+      "publishedAt": "2026-10-07T10:33:06.815Z",
+      "updatedAt": "2026-10-07T10:33:06.815Z",
+      "overview": "Two strangers are brought together at an unusual wedding where, in one night, too many surprises unfold and several lies are told, spiraling into chaos that changes everything.",
+      "posterPath": "https://image.tmdb.org/t/p/w342/3VuNFeniljhEe9MDW12MnDbETgH.jpg",
+      "signature": "{\"title\":\"Modha Rathri\",\"year\":2026,\"rating\":\"7.82\",\"overview\":\"Two strangers are brought together at an unusual wedding where, in one night, too many surprises unfold and several lies are told, spiraling into chaos that changes everything.\",\"poster\":\"https://image.tmdb.org/t/p/w342/3VuNFeniljhEe9MDW12MnDbETgH.jpg\",\"backdrop\":\"https://image.tmdb.org/t/p/w780/8Lq3f68f4WZpQrihDooNink8xJ7.jpg\",\"genres\":\"Romance, Comedy\",\"category\":\"Kollywood\",\"originalLanguage\":\"ta\",\"seasons\":\"\",\"episodes\":\"\"}"
+    },
     {
       "type": "movie",
       "tmdbId": "1408162",
