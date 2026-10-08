@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-08T16:29:23.429Z",
+  "updatedAt": "2026-10-08T16:32:43.087Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1101412",
+      "slug": "fall-2-deadpoint-2026-1101412",
+      "title": "Fall 2: Deadpoint (2026) [Hollywood]",
+      "displayTitle": "Fall 2: Deadpoint (2026)",
+      "seoTitle": "Fall 2: Deadpoint (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "7.1",
+      "genres": "Thriller",
+      "category": "Hollywood",
+      "image": "https://image.tmdb.org/t/p/w342/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/yQXU4rgJ5LVCzn16SeIg34T35lV.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/fall-2-deadpoint-2026-1101412",
+      "watchUrl": "https://movimoon.online/movie/1101412-fall-2-deadpoint",
+      "publishedAt": "2026-10-08T16:32:41.586Z",
+      "updatedAt": "2026-10-08T16:32:41.587Z",
+      "overview": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival."
+    },
     {
       "type": "tv",
       "tmdbId": "240293",
