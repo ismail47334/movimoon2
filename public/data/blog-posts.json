@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-08T13:10:08.911Z",
+  "updatedAt": "2026-10-08T13:10:20.434Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1248832",
+      "slug": "digger-2026",
+      "title": "Digger (2026) [Hollywood] - Watch Online in HD | MoviMoon - Rating 7.5/10",
+      "displayTitle": "Digger",
+      "year": 2026,
+      "rating": 7.521,
+      "genres": "Comedy, Drama",
+      "category": "Hollywood",
+      "originalLanguage": "en",
+      "image": "https://image.tmdb.org/t/p/w342/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+      "url": "https://movimoon.pages.dev/blog/movie/digger-2026",
+      "watchUrl": "https://movimoon.pages.dev/movie/1248832-digger",
+      "publishedAt": "2026-10-08T13:10:20.434Z",
+      "updatedAt": "2026-10-08T13:10:20.434Z",
+      "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
+      "posterPath": "https://image.tmdb.org/t/p/w342/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+      "signature": "{\"title\":\"Digger\",\"year\":2026,\"rating\":\"7.52\",\"overview\":\"The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.\",\"poster\":\"https://image.tmdb.org/t/p/w342/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg\",\"backdrop\":\"https://image.tmdb.org/t/p/w780/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg\",\"genres\":\"Comedy, Drama\",\"category\":\"Hollywood\",\"originalLanguage\":\"en\",\"seasons\":\"\",\"episodes\":\"\"}"
+    },
     {
       "type": "movie",
       "tmdbId": "1057265",
