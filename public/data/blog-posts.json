@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-08T13:10:42.388Z",
+  "updatedAt": "2026-10-08T13:10:52.809Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "321518",
+      "slug": "the-world-s-strongest-witch-2026",
+      "title": "The World's Strongest Witch (2026) [Hollywood TV] - Watch All Seasons Online in HD | MoviMoon - Rating 7.0/10",
+      "displayTitle": "The World's Strongest Witch",
+      "year": 2026,
+      "rating": 7,
+      "genres": "Animation, Comedy, Action & Adventure, Sci-Fi & Fantasy",
+      "category": "Hollywood TV",
+      "originalLanguage": "ja",
+      "image": "https://image.tmdb.org/t/p/w342/lsvgBC8lyMhiyK6UorRWgkjFRoM.jpg",
+      "url": "https://movimoon.pages.dev/blog/tv/the-world-s-strongest-witch-2026",
+      "watchUrl": "https://movimoon.pages.dev/tv/321518-the-world-s-strongest-witch",
+      "publishedAt": "2026-10-08T13:10:52.809Z",
+      "updatedAt": "2026-10-08T13:10:52.809Z",
+      "overview": "Cast out by her aristocratic family after manifesting a seemingly useless skill, Lorna discovers her ability, “Internet,” is an SSS-rank cheat that grants her access to the entirety of the world’s knowledge. All Lorna wants is a peaceful life, but as she collects rare gear and potent items, the “world’s weakest witch” suddenly becomes very powerful, landing in one chaotic adventure after another.",
+      "posterPath": "https://image.tmdb.org/t/p/w342/lsvgBC8lyMhiyK6UorRWgkjFRoM.jpg",
+      "signature": "{\"title\":\"The World's Strongest Witch\",\"year\":2026,\"rating\":\"7.00\",\"overview\":\"Cast out by her aristocratic family after manifesting a seemingly useless skill, Lorna discovers her ability, “Internet,” is an SSS-rank cheat that grants her access to the entirety of the world’s knowledge. All Lorna wants is a peaceful life, but as she collects rare gear and potent items, the “world’s weakest witch” suddenly becomes very powerful, landing in one chaotic adventure after another.\",\"poster\":\"https://image.tmdb.org/t/p/w342/lsvgBC8lyMhiyK6UorRWgkjFRoM.jpg\",\"backdrop\":\"https://image.tmdb.org/t/p/w780/bM9pGax5PQCvipy7zifscXsVJ8Z.jpg\",\"genres\":\"Animation, Comedy, Action & Adventure, Sci-Fi & Fantasy\",\"category\":\"Hollywood TV\",\"originalLanguage\":\"ja\",\"seasons\":1,\"episodes\":12}"
+    },
     {
       "type": "tv",
       "tmdbId": "240293",
