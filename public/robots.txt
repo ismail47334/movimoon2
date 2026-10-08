@@ -1,8 +1,0 @@
-User-agent: *
-Allow: /
-Allow: /api/
-Disallow: /watchlist
-Disallow: /history
-
-Sitemap: https://movimoon.pages.dev/sitemap.xml
-Sitemap: https://movimoon.pages.dev/sitemap-blog.xml
