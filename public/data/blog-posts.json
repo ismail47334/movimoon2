@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-08T16:25:53.445Z",
+  "updatedAt": "2026-10-08T16:26:02.356Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1248832",
+      "slug": "digger-2026-1248832",
+      "title": "Digger (2026) [Hollywood]",
+      "displayTitle": "Digger (2026)",
+      "seoTitle": "Digger (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "7.5",
+      "genres": "Comedy, Drama",
+      "category": "Hollywood",
+      "image": "https://image.tmdb.org/t/p/w342/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/digger-2026-1248832",
+      "watchUrl": "https://movimoon.online/movie/1248832-digger",
+      "publishedAt": "2026-10-08T16:26:00.505Z",
+      "updatedAt": "2026-10-08T16:26:00.505Z",
+      "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything."
+    },
     {
       "type": "movie",
       "tmdbId": "1375156",
