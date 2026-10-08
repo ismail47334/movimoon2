@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-08T13:09:58.276Z",
+  "updatedAt": "2026-10-08T13:10:08.911Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1057265",
+      "slug": "peddi-2026",
+      "title": "Peddi (2026) [Tollywood] - Watch Online in HD | MoviMoon - Rating 5.7/10",
+      "displayTitle": "Peddi",
+      "year": 2026,
+      "rating": 5.7,
+      "genres": "Action, Drama",
+      "category": "Tollywood",
+      "originalLanguage": "te",
+      "image": "https://image.tmdb.org/t/p/w342/kJAJNNBYlbqAcpTDxBNnaILSMTy.jpg",
+      "url": "https://movimoon.pages.dev/blog/movie/peddi-2026",
+      "watchUrl": "https://movimoon.pages.dev/movie/1057265-peddi",
+      "publishedAt": "2026-10-08T13:10:08.911Z",
+      "updatedAt": "2026-10-08T13:10:08.911Z",
+      "overview": "In a village that doesn't officially exist, a laborer's unmatched athletic talent becomes his weapon to fight for his people's right to be recognized.",
+      "posterPath": "https://image.tmdb.org/t/p/w342/kJAJNNBYlbqAcpTDxBNnaILSMTy.jpg",
+      "signature": "{\"title\":\"Peddi\",\"year\":2026,\"rating\":\"5.70\",\"overview\":\"In a village that doesn't officially exist, a laborer's unmatched athletic talent becomes his weapon to fight for his people's right to be recognized.\",\"poster\":\"https://image.tmdb.org/t/p/w342/kJAJNNBYlbqAcpTDxBNnaILSMTy.jpg\",\"backdrop\":\"https://image.tmdb.org/t/p/w780/oPsRr7AfNLw6XaPuMpvkWK0bIUA.jpg\",\"genres\":\"Action, Drama\",\"category\":\"Tollywood\",\"originalLanguage\":\"te\",\"seasons\":\"\",\"episodes\":\"\"}"
+    },
     {
       "type": "movie",
       "tmdbId": "1620080",
