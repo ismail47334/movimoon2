@@ -1,11 +1,12 @@
 {
   "version": 1,
-  "include": ["/", "/index.html", "/api", "/api/*"],
+  "include": [
+    "/*"
+  ],
   "exclude": [
     "/css/*",
     "/js/*",
     "/assets/*",
-    "/data/*",
-    "/404.html"
+    "/vendor/*"
   ]
 }
