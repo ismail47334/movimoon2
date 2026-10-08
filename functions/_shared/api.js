@@ -63,9 +63,9 @@ function safePlayerTemplate(env, parentOrigin = "") {
   return { template, allowed };
 }
 export function securityHeaders(env, requestUrl) {
-  const frames = ["'self'", "https://www.youtube.com", "https://www.youtube-nocookie.com", "https://n6wxm.com", "https://www.highrevenueformat.com", ...allowedPlayerOrigins(env)];
+  const frames = ["'self'", "https://www.youtube.com", "https://www.youtube-nocookie.com", "https://n6wxm.com", "https://3nbf4.com", "https://www.highrevenueformat.com", ...allowedPlayerOrigins(env)];
   const challenge = env.TURNSTILE_SITE_KEY ? " https://challenges.cloudflare.com" : "";
-  const ads = " https://n6wxm.com https://www.highrevenueformat.com";
+  const ads = " https://n6wxm.com https://www.highrevenueformat.com https://3nbf4.com";
   const connect = " https: https://raw.githubusercontent.com https://api.themoviedb.org https://image.tmdb.org https://fonts.googleapis.com https://fonts.gstatic.com https://cdnjs.cloudflare.com https://cdn.jsdelivr.net" + (env.TURNSTILE_SITE_KEY ? " https://challenges.cloudflare.com" : "");
   const upgrade = requestUrl.protocol === "https:" ? "; upgrade-insecure-requests" : "";
   return {
