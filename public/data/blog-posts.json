@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-08T16:32:58.395Z",
+  "updatedAt": "2026-10-08T16:33:05.518Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1620080",
+      "slug": "less-of-a-stranger-2026-1620080",
+      "title": "Less of a Stranger (2026) [Hollywood]",
+      "displayTitle": "Less of a Stranger (2026)",
+      "seoTitle": "Less of a Stranger (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "Drama, Music",
+      "category": "Hollywood",
+      "image": "https://image.tmdb.org/t/p/w342/cXCoJk9AzGzfOSNCRDnLhfhyJHD.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/cXCoJk9AzGzfOSNCRDnLhfhyJHD.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/xn42TCarooeOxY1yrfOknEmMvAu.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/less-of-a-stranger-2026-1620080",
+      "watchUrl": "https://movimoon.online/movie/1620080-less-of-a-stranger",
+      "publishedAt": "2026-10-08T16:33:03.955Z",
+      "updatedAt": "2026-10-08T16:33:03.955Z",
+      "overview": "A film inspired by the life of Polish rock legend Jan Borysewicz. A story of music, rebellion, and freedom in a world where dreams often collide with a grim reality."
+    },
     {
       "type": "movie",
       "tmdbId": "645708",
