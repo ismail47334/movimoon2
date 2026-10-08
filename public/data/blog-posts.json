@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-08T13:09:45.851Z",
+  "updatedAt": "2026-10-08T13:09:58.276Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1620080",
+      "slug": "less-of-a-stranger-2026",
+      "title": "Less of a Stranger (2026) [Hollywood] - Watch Online in HD | MoviMoon - Rating N/A/10",
+      "displayTitle": "Less of a Stranger",
+      "year": 2026,
+      "rating": 0,
+      "genres": "Drama, Music",
+      "category": "Hollywood",
+      "originalLanguage": "pl",
+      "image": "https://image.tmdb.org/t/p/w342/cXCoJk9AzGzfOSNCRDnLhfhyJHD.jpg",
+      "url": "https://movimoon.pages.dev/blog/movie/less-of-a-stranger-2026",
+      "watchUrl": "https://movimoon.pages.dev/movie/1620080-less-of-a-stranger",
+      "publishedAt": "2026-10-08T13:09:58.276Z",
+      "updatedAt": "2026-10-08T13:09:58.276Z",
+      "overview": "A film inspired by the life of Polish rock legend Jan Borysewicz. A story of music, rebellion, and freedom in a world where dreams often collide with a grim reality.",
+      "posterPath": "https://image.tmdb.org/t/p/w342/cXCoJk9AzGzfOSNCRDnLhfhyJHD.jpg",
+      "signature": "{\"title\":\"Less of a Stranger\",\"year\":2026,\"rating\":\"0.00\",\"overview\":\"A film inspired by the life of Polish rock legend Jan Borysewicz. A story of music, rebellion, and freedom in a world where dreams often collide with a grim reality.\",\"poster\":\"https://image.tmdb.org/t/p/w342/cXCoJk9AzGzfOSNCRDnLhfhyJHD.jpg\",\"backdrop\":\"https://image.tmdb.org/t/p/w780/xn42TCarooeOxY1yrfOknEmMvAu.jpg\",\"genres\":\"Drama, Music\",\"category\":\"Hollywood\",\"originalLanguage\":\"pl\",\"seasons\":\"\",\"episodes\":\"\"}"
+    },
     {
       "type": "movie",
       "tmdbId": "1234139",
