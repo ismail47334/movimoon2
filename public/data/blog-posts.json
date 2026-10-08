@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-08T14:46:35.396Z",
+  "updatedAt": "2026-10-08T15:17:33.591Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1451944",
+      "slug": "lust-stories-3-2026-1451944",
+      "title": "Lust Stories 3 (2026) [Bollywood]",
+      "displayTitle": "Lust Stories 3 (2026)",
+      "seoTitle": "Lust Stories 3 (2026) [Bollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "6.3",
+      "genres": "Romance, Drama",
+      "category": "Bollywood",
+      "image": "https://image.tmdb.org/t/p/w342/cLA83DD1qMEBwbRIYXf29RKjMja.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/cLA83DD1qMEBwbRIYXf29RKjMja.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/jRtR4aTq4vmxRg9ah60R5i1kkQ7.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/lust-stories-3-2026-1451944",
+      "watchUrl": "https://movimoon.online/movie/1451944-lust-stories-3",
+      "publishedAt": "2026-10-08T15:17:31.907Z",
+      "updatedAt": "2026-10-08T15:17:31.907Z",
+      "overview": "Through four bite-sized yet emotionally resonant films, the anthology once again explores lust, love, relationships, and repressed desire, offering fresh perspectives on intimacy, longing, and human connection in all their complexity."
+    },
     {
       "type": "movie",
       "tmdbId": "969681",
