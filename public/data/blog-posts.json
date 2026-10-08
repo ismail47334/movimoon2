@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-08T16:19:29.279Z",
+  "updatedAt": "2026-10-08T16:25:34.929Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "656908",
+      "slug": "ramayana-2026-656908",
+      "title": "Ramayana (2026) [Bollywood]",
+      "displayTitle": "Ramayana (2026)",
+      "seoTitle": "Ramayana (2026) [Bollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "Fantasy, Drama, Action",
+      "category": "Bollywood",
+      "image": "https://image.tmdb.org/t/p/w342/gOWnXaBxqT6k2y40hKfYU6c0Ym.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/gOWnXaBxqT6k2y40hKfYU6c0Ym.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/svGHaToRKhlxwTBslsOxuntz0D7.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/ramayana-2026-656908",
+      "watchUrl": "https://movimoon.online/movie/656908-ramayana",
+      "publishedAt": "2026-10-08T16:25:32.974Z",
+      "updatedAt": "2026-10-08T16:25:32.975Z",
+      "overview": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead."
+    },
     {
       "type": "movie",
       "tmdbId": "1441228",
