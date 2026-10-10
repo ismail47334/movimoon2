@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-10T18:06:37.457Z",
+  "updatedAt": "2026-10-10T18:06:42.932Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "293610",
+      "slug": "doctor-x-mafia-in-white-2026-293610",
+      "title": "Doctor X: Mafia in White (2026) [Hollywood TV]",
+      "displayTitle": "Doctor X: Mafia in White (2026)",
+      "seoTitle": "Doctor X: Mafia in White (2026) [Hollywood TV] | MoviMoon",
+      "year": "2026",
+      "rating": "7.7",
+      "genres": "Mystery, Drama, Crime",
+      "category": "Hollywood TV",
+      "image": "https://image.tmdb.org/t/p/w342/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/doctor-x-mafia-in-white-2026-293610",
+      "watchUrl": "https://movimoon.online/tv/293610-doctor-x-mafia-in-white",
+      "publishedAt": "2026-10-10T18:06:41.928Z",
+      "updatedAt": "2026-10-10T18:06:41.928Z",
+      "overview": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition."
+    },
     {
       "type": "tv",
       "tmdbId": "240293",
