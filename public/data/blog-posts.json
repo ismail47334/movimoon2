@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-10T18:06:19.832Z",
+  "updatedAt": "2026-10-10T18:06:25.770Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1148365",
+      "slug": "matchbox-the-movie-2026-1148365",
+      "title": "Matchbox the Movie (2026) [Hollywood]",
+      "displayTitle": "Matchbox the Movie (2026)",
+      "seoTitle": "Matchbox the Movie (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "7.6",
+      "genres": "Action, Comedy, Adventure",
+      "category": "Hollywood",
+      "image": "https://image.tmdb.org/t/p/w342/lFKA4GMz36dImEy3DQPdPF7G4V9.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/lFKA4GMz36dImEy3DQPdPF7G4V9.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/matchbox-the-movie-2026-1148365",
+      "watchUrl": "https://movimoon.online/movie/1148365-matchbox-the-movie",
+      "publishedAt": "2026-10-10T18:06:24.591Z",
+      "updatedAt": "2026-10-10T18:06:24.591Z",
+      "overview": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot—and must save the world."
+    },
     {
       "type": "movie",
       "tmdbId": "1248832",
