@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-10T07:34:51.512Z",
+  "updatedAt": "2026-10-10T07:34:57.298Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "40382",
+      "slug": "diya-aur-baati-hum-2011-40382",
+      "title": "Diya Aur Baati Hum (2011) [Hindi TV]",
+      "displayTitle": "Diya Aur Baati Hum (2011)",
+      "seoTitle": "Diya Aur Baati Hum (2011) [Hindi TV] | MoviMoon",
+      "year": "2011",
+      "rating": "2.5",
+      "genres": "Drama, Family, Soap",
+      "category": "Hindi TV",
+      "image": "https://image.tmdb.org/t/p/w342/nrTLrIPP4nHQaIsi2ft0gY4vSEo.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/nrTLrIPP4nHQaIsi2ft0gY4vSEo.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/py2l9e5DMRPXm84FORLt0EEdlGB.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/diya-aur-baati-hum-2011-40382",
+      "watchUrl": "https://movimoon.online/tv/40382-diya-aur-baati-hum",
+      "publishedAt": "2026-10-10T07:34:56.131Z",
+      "updatedAt": "2026-10-10T07:34:56.131Z",
+      "overview": "Diya Aur Baati Hum is an Indian television soap opera, broadcast on Star Plus channel from 29 August 2011. It stars Deepika Singh and Anas Rashid as the main protagonists.Set on the backdrop of Pushkar, Rajasthan, Diya Aur Baati Hum focused on breaking the stereotypical image of women in rural India by showing the inspirational journey of Sandhya Rathi, whose ambition is to become an IPS officer. She achieves her goal with the help of her husband, Sooraj, by going against all odds"
+    },
     {
       "type": "tv",
       "tmdbId": "6060",
