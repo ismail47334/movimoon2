@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-10T18:06:25.770Z",
+  "updatedAt": "2026-10-10T18:06:31.564Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "288673",
+      "slug": "carrie-2026-288673",
+      "title": "Carrie (2026) [Hollywood TV]",
+      "displayTitle": "Carrie (2026)",
+      "seoTitle": "Carrie (2026) [Hollywood TV] | MoviMoon",
+      "year": "2026",
+      "rating": "8.4",
+      "genres": "Mystery, Drama, Sci-Fi & Fantasy",
+      "category": "Hollywood TV",
+      "image": "https://image.tmdb.org/t/p/w342/eXjk4W4robXs7l1YXwaXMv4f2qb.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/eXjk4W4robXs7l1YXwaXMv4f2qb.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/carrie-2026-288673",
+      "watchUrl": "https://movimoon.online/tv/288673-carrie",
+      "publishedAt": "2026-10-10T18:06:30.485Z",
+      "updatedAt": "2026-10-10T18:06:30.485Z",
+      "overview": "After her father's sudden, untimely death thrusts her into the unforgiving ecosystem of public high school, Carrie is forced to navigate a viral bullying scandal that tears through her community, the relentless pressure and casual cruelty of the social‑media age, and the awakening of mysterious telekinetic powers that rise alongside her adolescence."
+    },
     {
       "type": "movie",
       "tmdbId": "1148365",
