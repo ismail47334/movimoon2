@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-10T18:06:31.564Z",
+  "updatedAt": "2026-10-10T18:06:37.457Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "240293",
+      "slug": "jhanak-2023-240293",
+      "title": "Jhanak (2023) [Hindi TV]",
+      "displayTitle": "Jhanak (2023)",
+      "seoTitle": "Jhanak (2023) [Hindi TV] | MoviMoon",
+      "year": "2023",
+      "rating": "8.0",
+      "genres": "Drama",
+      "category": "Hindi TV",
+      "image": "https://image.tmdb.org/t/p/w342/lutE1Fi1L4BlH8qwn0XBWB8MBJl.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/lutE1Fi1L4BlH8qwn0XBWB8MBJl.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/qsVujmyayl7oL7NfdOvCZAsxaB5.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/jhanak-2023-240293",
+      "watchUrl": "https://movimoon.online/tv/240293-jhanak",
+      "publishedAt": "2026-10-10T18:06:36.301Z",
+      "updatedAt": "2026-10-10T18:06:36.301Z",
+      "overview": "A driven young woman embarks on a journey to fulfill a mother's promise for a better life as she overcomes challenges and loss while crossing paths with a man who further complicates her life."
+    },
     {
       "type": "tv",
       "tmdbId": "288673",
