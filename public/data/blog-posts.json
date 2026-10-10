@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-10T07:00:06.583Z",
+  "updatedAt": "2026-10-10T07:34:27.337Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1582770",
+      "slug": "dhurandhar-the-revenge-2026-1582770",
+      "title": "Dhurandhar: The Revenge (2026) [Bollywood]",
+      "displayTitle": "Dhurandhar: The Revenge (2026)",
+      "seoTitle": "Dhurandhar: The Revenge (2026) [Bollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "7.3",
+      "genres": "Action, Crime, Thriller",
+      "category": "Bollywood",
+      "image": "https://image.tmdb.org/t/p/w342/ov8vrRLZGoXHpYjSY9Vpv1tHJX7.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/ov8vrRLZGoXHpYjSY9Vpv1tHJX7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/br4Ra4dRpvR0R7a1zPPkOwGkcky.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/dhurandhar-the-revenge-2026-1582770",
+      "watchUrl": "https://movimoon.online/movie/1582770-dhurandhar-the-revenge",
+      "publishedAt": "2026-10-10T07:34:26.197Z",
+      "updatedAt": "2026-10-10T07:34:26.198Z",
+      "overview": "As rival gangs, corrupt officials and a ruthless Major Iqbal close in, Hamza's mission for his country spirals into a bloody personal war where the line between patriot and monster disappears in the streets of Lyari."
+    },
     {
       "type": "movie",
       "tmdbId": "1709391",
