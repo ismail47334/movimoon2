@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-10T08:18:06.835Z",
+  "updatedAt": "2026-10-10T08:18:12.390Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "337917",
+      "slug": "1-klubben-2026-337917",
+      "title": "1% Klubben (2026) [Hollywood TV]",
+      "displayTitle": "1% Klubben (2026)",
+      "seoTitle": "1% Klubben (2026) [Hollywood TV] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "Reality, Family, Comedy",
+      "category": "Hollywood TV",
+      "image": "https://image.tmdb.org/t/p/w342/ko3lHMIfMpcl8wT9cUua5fCEv85.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/ko3lHMIfMpcl8wT9cUua5fCEv85.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/hHhzQ2zA77Dmy2hpHJfEF3V3jfO.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/1-klubben-2026-337917",
+      "watchUrl": "https://movimoon.online/tv/337917-1-klubben",
+      "publishedAt": "2026-10-10T08:18:11.404Z",
+      "updatedAt": "2026-10-10T08:18:11.404Z",
+      "overview": ""
+    },
     {
       "type": "tv",
       "tmdbId": "337971",
