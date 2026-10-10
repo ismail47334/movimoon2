@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-10T08:17:54.878Z",
+  "updatedAt": "2026-10-10T08:18:00.649Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1793157",
+      "slug": "night-folly-2026-1793157",
+      "title": "Night Folly (2026) [Hollywood]",
+      "displayTitle": "Night Folly (2026)",
+      "seoTitle": "Night Folly (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "",
+      "category": "Hollywood",
+      "image": "https://image.tmdb.org/t/p/w342/ygxaPQiWXpIXb7CUpQPsoGTOohH.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/ygxaPQiWXpIXb7CUpQPsoGTOohH.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w342/ygxaPQiWXpIXb7CUpQPsoGTOohH.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/night-folly-2026-1793157",
+      "watchUrl": "https://movimoon.online/movie/1793157-night-folly",
+      "publishedAt": "2026-10-10T08:17:59.553Z",
+      "updatedAt": "2026-10-10T08:17:59.553Z",
+      "overview": "A Super 8 film by James Pearson."
+    },
     {
       "type": "movie",
       "tmdbId": "1793262",
