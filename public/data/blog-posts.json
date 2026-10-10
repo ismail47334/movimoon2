@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-10T07:34:57.298Z",
+  "updatedAt": "2026-10-10T07:35:03.426Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "294446",
+      "slug": "the-vanishing-beauty-2026-294446",
+      "title": "The Vanishing Beauty (2026) [Hollywood TV]",
+      "displayTitle": "The Vanishing Beauty (2026)",
+      "seoTitle": "The Vanishing Beauty (2026) [Hollywood TV] | MoviMoon",
+      "year": "2026",
+      "rating": "8.0",
+      "genres": "Drama",
+      "category": "Hollywood TV",
+      "image": "https://image.tmdb.org/t/p/w342/m3r695bVVi5y4UjbqIdkSkz060f.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/m3r695bVVi5y4UjbqIdkSkz060f.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/6Iha7gx0lTdrv6x7dECtjB8YnLA.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/the-vanishing-beauty-2026-294446",
+      "watchUrl": "https://movimoon.online/tv/294446-the-vanishing-beauty",
+      "publishedAt": "2026-10-10T07:35:02.246Z",
+      "updatedAt": "2026-10-10T07:35:02.246Z",
+      "overview": "Yu Meng, an only child from Jiangsu Zhejiang Shanghai and a popular internet blogger, is admired as a woman with a perfect life. On her fifth wedding anniversary, the bubble of her seemingly flawless happiness shatters. Her model husband is no longer so perfect, and her marriage begins to crack, while she also faces the threat of being financially exploited. With the support of her friends, Yu Meng reexamines her life and fights to take back control."
+    },
     {
       "type": "tv",
       "tmdbId": "40382",
