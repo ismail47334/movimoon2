@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-10T06:59:48.020Z",
+  "updatedAt": "2026-10-10T06:59:54.376Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1423191",
+      "slug": "resident-evil-2026-1423191",
+      "title": "Resident Evil (2026) [Hollywood]",
+      "displayTitle": "Resident Evil (2026)",
+      "seoTitle": "Resident Evil (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "7.3",
+      "genres": "Horror, Science Fiction, Adventure",
+      "category": "Hollywood",
+      "image": "https://image.tmdb.org/t/p/w342/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/resident-evil-2026-1423191",
+      "watchUrl": "https://movimoon.online/movie/1423191-resident-evil",
+      "publishedAt": "2026-10-10T06:59:53.147Z",
+      "updatedAt": "2026-10-10T06:59:53.147Z",
+      "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos."
+    },
     {
       "type": "movie",
       "tmdbId": "1291595",
