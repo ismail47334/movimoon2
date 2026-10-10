@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-10T08:18:00.649Z",
+  "updatedAt": "2026-10-10T08:18:06.835Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "337971",
+      "slug": "cupid-shot-himself-in-the-heart-2026-337971",
+      "title": "Cupid Shot Himself in the Heart (2026) [Hollywood TV]",
+      "displayTitle": "Cupid Shot Himself in the Heart (2026)",
+      "seoTitle": "Cupid Shot Himself in the Heart (2026) [Hollywood TV] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "",
+      "category": "Hollywood TV",
+      "image": "https://image.tmdb.org/t/p/w342/87C6XRWhgOONX9OMjMO61XT8tU2.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/87C6XRWhgOONX9OMjMO61XT8tU2.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/lCVyFmz12sGXWCJdmOAj2rPRoy2.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/cupid-shot-himself-in-the-heart-2026-337971",
+      "watchUrl": "https://movimoon.online/tv/337971-cupid-shot-himself-in-the-heart",
+      "publishedAt": "2026-10-10T08:18:05.607Z",
+      "updatedAt": "2026-10-10T08:18:05.607Z",
+      "overview": "Cupid has always been the one bringing people together with his arrows of love. But everything changes when he unexpectedly falls for a seemingly indifferent young man who refuses to be charmed. The more his advances are brushed aside, the deeper his feelings grow. As playful encounters turn into genuine affection, the god of love faces a challenge he has never experienced before: winning the heart of someone he truly loves."
+    },
     {
       "type": "movie",
       "tmdbId": "1793157",
