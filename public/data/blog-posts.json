@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-08T16:33:05.518Z",
+  "updatedAt": "2026-10-10T06:59:48.020Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1291595",
+      "slug": "insidious-out-of-the-further-2026-1291595",
+      "title": "Insidious: Out of the Further (2026) [Hollywood]",
+      "displayTitle": "Insidious: Out of the Further (2026)",
+      "seoTitle": "Insidious: Out of the Further (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "7.6",
+      "genres": "Horror, Thriller",
+      "category": "Hollywood",
+      "image": "https://image.tmdb.org/t/p/w342/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/p40lmrdI4blcAPZQMTPaiy5v5Ym.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/insidious-out-of-the-further-2026-1291595",
+      "watchUrl": "https://movimoon.online/movie/1291595-insidious-out-of-the-further",
+      "publishedAt": "2026-10-10T06:59:46.841Z",
+      "updatedAt": "2026-10-10T06:59:46.842Z",
+      "overview": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, the purgatorial realm of lost souls at the heart of the Insidious universe. When something evil comes after her, Gemma discovers an ability that changes everything: she doesn't just enter The Further, she can bring what lives there back to the real world. Once the demons realize her power, our world becomes their playground."
+    },
     {
       "type": "movie",
       "tmdbId": "1620080",
