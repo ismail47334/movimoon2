@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-10T08:14:09.127Z",
+  "updatedAt": "2026-10-10T08:14:15.149Z",
   "posts": [
     {
       "type": "movie",
@@ -250,7 +250,7 @@
       "displayTitle": "Less of a Stranger (2026)",
       "seoTitle": "Less of a Stranger (2026) [Hollywood] | MoviMoon",
       "year": "2026",
-      "rating": "N/A",
+      "rating": "8.5",
       "genres": "Drama, Music",
       "category": "Hollywood",
       "image": "https://image.tmdb.org/t/p/w342/cXCoJk9AzGzfOSNCRDnLhfhyJHD.jpg",
@@ -259,8 +259,8 @@
       "url": "https://movimoon.online/blog/movie-posts/less-of-a-stranger-2026-1620080",
       "watchUrl": "https://movimoon.online/movie/1620080-less-of-a-stranger",
       "publishedAt": "2026-10-08T16:33:03.955Z",
-      "updatedAt": "2026-10-08T16:33:03.955Z",
-      "overview": "A film inspired by the life of Polish rock legend Jan Borysewicz. A story of music, rebellion, and freedom in a world where dreams often collide with a grim reality."
+      "updatedAt": "2026-10-10T08:14:14.039Z",
+      "overview": "As the leader of Polish rock band Lady Pank, Jan Borysewicz shapes a generation with his music, while a string of family tragedies shapes him."
     },
     {
       "type": "movie",
