@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-10T07:35:03.426Z",
+  "updatedAt": "2026-10-10T08:11:07.970Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1273672",
+      "slug": "daghabaaz-dil-2024-1273672",
+      "title": "Daghabaaz Dil (2024) [Pakistani]",
+      "displayTitle": "Daghabaaz Dil (2024)",
+      "seoTitle": "Daghabaaz Dil (2024) [Pakistani] | MoviMoon",
+      "year": "2024",
+      "rating": "1.0",
+      "genres": "",
+      "category": "Pakistani",
+      "image": "https://image.tmdb.org/t/p/w342/mUWlZgNdZIVei6mmzcc1GcNk9YN.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/mUWlZgNdZIVei6mmzcc1GcNk9YN.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/6ovug4AXwd78sLmWweidid4Llju.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/daghabaaz-dil-2024-1273672",
+      "watchUrl": "https://movimoon.online/movie/1273672-daghabaaz-dil",
+      "publishedAt": "2026-10-10T08:11:06.835Z",
+      "updatedAt": "2026-10-10T08:11:06.835Z",
+      "overview": "Once upon a time, in the bustling city of Karachi, the air was filled with excitement and anticipation. Faris and Zoya's families, after years of feuding, had finally decided to put their differences aside."
+    },
     {
       "type": "tv",
       "tmdbId": "294446",
