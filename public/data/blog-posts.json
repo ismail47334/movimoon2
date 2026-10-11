@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-11T18:06:43.634Z",
+  "updatedAt": "2026-10-11T18:06:53.549Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "8745",
+      "slug": "balika-vadhu-2008-8745",
+      "title": "Balika Vadhu (2008) [Hindi TV]",
+      "displayTitle": "Balika Vadhu (2008)",
+      "seoTitle": "Balika Vadhu (2008) [Hindi TV] | MoviMoon",
+      "year": "2008",
+      "rating": "4.7",
+      "genres": "Drama",
+      "category": "Hindi TV",
+      "image": "https://image.tmdb.org/t/p/w342/x0EBRwjgCj2fMc4V45z3s0CGAG7.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/x0EBRwjgCj2fMc4V45z3s0CGAG7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/7Y76Tkr1DjWhTU33omROOHpUBjh.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/balika-vadhu-2008-8745",
+      "watchUrl": "https://movimoon.online/tv/8745-balika-vadhu",
+      "publishedAt": "2026-10-11T18:06:50.532Z",
+      "updatedAt": "2026-10-11T18:06:50.532Z",
+      "overview": "Balika Vadhu — Kachchi Umar Ke Pakke Rishte, commonly abbreviated as Balika Vadhu is an Indian television drama series that premiered on 21 July 2008 on Colors TV. Originally airing from Monday through Friday, from mid 2013 it also began airing on Saturday. Toral Rasputra became the lead after Pratyusha Banerjee left on 27 February 2013."
+    },
     {
       "type": "movie",
       "tmdbId": "1291595",
