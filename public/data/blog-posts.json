@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-11T12:33:41.785Z",
+  "updatedAt": "2026-10-11T12:33:47.391Z",
   "posts": [
     {
       "type": "tv",
@@ -51,15 +51,15 @@
       "seoTitle": "The Ad (2026) [Hollywood] | MoviMoon",
       "year": "2026",
       "rating": "N/A",
-      "genres": "",
+      "genres": "Horror",
       "category": "Hollywood",
-      "image": "",
-      "poster": "",
-      "backdrop": "",
+      "image": "https://image.tmdb.org/t/p/w342/wxqTDNTFiDIW8fXTt4Ke8BNTt2u.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/wxqTDNTFiDIW8fXTt4Ke8BNTt2u.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/nHrMbKslVYMjd5g6YLJADpzqDkA.jpg",
       "url": "https://movimoon.online/blog/movie-posts/the-ad-2026-1794061",
       "watchUrl": "https://movimoon.online/movie/1794061-the-ad",
       "publishedAt": "2026-10-11T00:50:36.931Z",
-      "updatedAt": "2026-10-11T00:50:36.931Z",
+      "updatedAt": "2026-10-11T12:33:46.412Z",
       "overview": "A young man must come to terms with a malicious infomercial and its terrifying host."
     },
     {
