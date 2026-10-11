@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-11T12:33:47.391Z",
+  "updatedAt": "2026-10-11T12:33:53.016Z",
   "posts": [
     {
       "type": "tv",
@@ -71,15 +71,15 @@
       "seoTitle": "THIS IS WHERE I WANT TO BE (2026) [Hollywood] | MoviMoon",
       "year": "2026",
       "rating": "N/A",
-      "genres": "",
+      "genres": "Documentary, Romance",
       "category": "Hollywood",
-      "image": "",
-      "poster": "",
-      "backdrop": "",
+      "image": "https://image.tmdb.org/t/p/w342/e4ocw0n6Gp1C3X6iWz6o8FYwdem.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/e4ocw0n6Gp1C3X6iWz6o8FYwdem.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w342/e4ocw0n6Gp1C3X6iWz6o8FYwdem.jpg",
       "url": "https://movimoon.online/blog/movie-posts/this-is-where-i-want-to-be-2026-1794093",
       "watchUrl": "https://movimoon.online/movie/1794093-this-is-where-i-want-to-be",
       "publishedAt": "2026-10-11T00:50:29.208Z",
-      "updatedAt": "2026-10-11T00:50:29.208Z",
+      "updatedAt": "2026-10-11T12:33:51.897Z",
       "overview": "silent short film, shot on 16mm Kodak T200 -- made possible by the Chicago Film Society's Intro to 16mm class.  Featuring over 30 locations across the city of Chicago -- an unedited scan of the only, original print. created with a lot of love."
     },
     {
