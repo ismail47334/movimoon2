@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-12T18:06:42.209Z",
+  "updatedAt": "2026-10-12T18:06:50.374Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "73223",
+      "slug": "black-clover-2017-73223",
+      "title": "Black Clover (2017) [Hollywood TV]",
+      "displayTitle": "Black Clover (2017)",
+      "seoTitle": "Black Clover (2017) [Hollywood TV] | MoviMoon",
+      "year": "2017",
+      "rating": "8.5",
+      "genres": "Animation, Action & Adventure, Sci-Fi & Fantasy",
+      "category": "Hollywood TV",
+      "image": "https://image.tmdb.org/t/p/w342/kaMisKeOoTBPxPkbC3OW7Wgt6ON.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/kaMisKeOoTBPxPkbC3OW7Wgt6ON.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/black-clover-2017-73223",
+      "watchUrl": "https://movimoon.online/tv/73223-black-clover",
+      "publishedAt": "2026-10-12T18:06:48.689Z",
+      "updatedAt": "2026-10-12T18:06:48.689Z",
+      "overview": "Asta and Yuno are two orphans who want the same thing: to become the Wizard King. Locked in a friendly rivalry, they work hard towards their goal. While Yuno excels at magic, Asta has a problem uncommon in this world: he has no powers! But, on the day they receive their grimoires, they surprise everyone. To reach their goal, they’ll each find their own path to greatness—with or without magic."
+    },
     {
       "type": "movie",
       "tmdbId": "1057265",
