@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-12T00:50:31.495Z",
+  "updatedAt": "2026-10-12T00:50:39.724Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1792099",
+      "slug": "ukraine-ghost-ship-2026-1792099",
+      "title": "Ukraine Ghost Ship (2026) [Hollywood]",
+      "displayTitle": "Ukraine Ghost Ship (2026)",
+      "seoTitle": "Ukraine Ghost Ship (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "",
+      "category": "Hollywood",
+      "image": "https://image.tmdb.org/t/p/w342/A0I7vmUon7bHCXxlvbihFt3bgGz.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/A0I7vmUon7bHCXxlvbihFt3bgGz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w342/A0I7vmUon7bHCXxlvbihFt3bgGz.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/ukraine-ghost-ship-2026-1792099",
+      "watchUrl": "https://movimoon.online/movie/1792099-ukraine-ghost-ship",
+      "publishedAt": "2026-10-12T00:50:37.747Z",
+      "updatedAt": "2026-10-12T00:50:37.747Z",
+      "overview": "When Russian forces bombed a giant hydroelectric dam on Ukraine’s mighty Dnipro River in June 2023, farmland flooded, homes were destroyed and over 50 people lost their lives. Upriver, as waters drained, ancient ships’ timbers were uncovered on the newly exposed beach. Now, a Ukrainian archaeologist Dmitro Kobaliaa has assembled an international team to recover these remains, to reveal the story of a vast Russian military flotilla sent to conquer land around the Black Sea coast. It’s a battle still raging today. As fighter jets shoot overhead, Dmitro’s discoveries reveal a history of Ukraine before Russian rule, a history the Russians are trying to destroy, but one Dmitro is desperate to preserve."
+    },
     {
       "type": "movie",
       "tmdbId": "1792178",
