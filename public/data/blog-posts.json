@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-12T00:50:39.724Z",
+  "updatedAt": "2026-10-12T00:50:47.116Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "337510",
+      "slug": "-2026-337510",
+      "title": "Кукушкин (2026) [Hollywood TV]",
+      "displayTitle": "Кукушкин (2026)",
+      "seoTitle": "Кукушкин (2026) [Hollywood TV] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "Comedy",
+      "category": "Hollywood TV",
+      "image": "https://image.tmdb.org/t/p/w342/gDM8gAcwzntGQVPM6DogwC5i2g0.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/gDM8gAcwzntGQVPM6DogwC5i2g0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w342/gDM8gAcwzntGQVPM6DogwC5i2g0.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/-2026-337510",
+      "watchUrl": "https://movimoon.online/tv/337510-",
+      "publishedAt": "2026-10-12T00:50:45.632Z",
+      "updatedAt": "2026-10-12T00:50:45.632Z",
+      "overview": ""
+    },
     {
       "type": "movie",
       "tmdbId": "1792099",
