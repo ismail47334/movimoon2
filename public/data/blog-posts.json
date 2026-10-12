@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-12T13:19:42.765Z",
+  "updatedAt": "2026-10-12T13:19:49.406Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1444466",
+      "slug": "awarapan-2-2026-1444466",
+      "title": "Awarapan 2 (2026) [Bollywood]",
+      "displayTitle": "Awarapan 2 (2026)",
+      "seoTitle": "Awarapan 2 (2026) [Bollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "6.0",
+      "genres": "Action, Drama, Romance",
+      "category": "Bollywood",
+      "image": "https://image.tmdb.org/t/p/w342/lD3J6zTbWkVtPYuSUuuBwpuKMCO.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/lD3J6zTbWkVtPYuSUuuBwpuKMCO.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/dLw4YK72fW4dF82nnLFDbeXotSX.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/awarapan-2-2026-1444466",
+      "watchUrl": "https://movimoon.online/movie/1444466-awarapan-2",
+      "publishedAt": "2026-10-12T13:19:48.062Z",
+      "updatedAt": "2026-10-12T13:19:48.062Z",
+      "overview": "Once a feared gangster, Shivam lives hidden away from his past, with no faith left in God or himself. But when fate pulls him into Bangkok's cartel war and forces him back into the darkness he swore never to return to, Shivam must choose what he is willing to live for, when there is nothing left to lose."
+    },
     {
       "type": "movie",
       "tmdbId": "1234139",
