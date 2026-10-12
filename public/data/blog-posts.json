@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-12T18:06:57.315Z",
+  "updatedAt": "2026-10-12T18:07:04.474Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "15226",
+      "slug": "c-i-d-1998-15226",
+      "title": "C.I.D. (1998) [Hindi TV]",
+      "displayTitle": "C.I.D. (1998)",
+      "seoTitle": "C.I.D. (1998) [Hindi TV] | MoviMoon",
+      "year": "1998",
+      "rating": "5.7",
+      "genres": "Action & Adventure, Crime, Drama, Mystery",
+      "category": "Hindi TV",
+      "image": "https://image.tmdb.org/t/p/w342/3UymnlLfLMKxG8OcFhSnAlnhQfZ.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/3UymnlLfLMKxG8OcFhSnAlnhQfZ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/1gZrOa2E9DOohEvSLLBJqus2zGu.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/c-i-d-1998-15226",
+      "watchUrl": "https://movimoon.online/tv/15226-c-i-d",
+      "publishedAt": "2026-10-12T18:07:03.044Z",
+      "updatedAt": "2026-10-12T18:07:03.044Z",
+      "overview": "A team of dedicated men and women in the Crime Investigation Department will risk everything to solve Mumbai's toughest, most complicated crimes."
+    },
     {
       "type": "tv",
       "tmdbId": "233496",
