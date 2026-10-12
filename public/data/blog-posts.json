@@ -1,5 +1,26 @@
 {
   "version": 1,
-  "updatedAt": null,
-  "posts": []
+  "updatedAt": "2026-10-12T13:19:25.651Z",
+  "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1302904",
+      "slug": "practical-magic-2-2026-1302904",
+      "title": "Practical Magic 2 (2026) [Hollywood]",
+      "displayTitle": "Practical Magic 2 (2026)",
+      "seoTitle": "Practical Magic 2 (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "6.3",
+      "genres": "Romance, Fantasy, Comedy",
+      "category": "Hollywood",
+      "image": "https://image.tmdb.org/t/p/w342/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/wE6syT1vv6W24iLGfhR4kQHnIDN.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/practical-magic-2-2026-1302904",
+      "watchUrl": "https://movimoon.online/movie/1302904-practical-magic-2",
+      "publishedAt": "2026-10-12T13:19:24.170Z",
+      "updatedAt": "2026-10-12T13:19:24.170Z",
+      "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all."
+    }
+  ]
 }
