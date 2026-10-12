@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-12T18:06:50.374Z",
+  "updatedAt": "2026-10-12T18:06:57.315Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "233496",
+      "slug": "mayi-ri-2023-233496",
+      "title": "Mayi Ri (2023) [Pakistani TV]",
+      "displayTitle": "Mayi Ri (2023)",
+      "seoTitle": "Mayi Ri (2023) [Pakistani TV] | MoviMoon",
+      "year": "2023",
+      "rating": "6.0",
+      "genres": "Drama, Family",
+      "category": "Pakistani TV",
+      "image": "https://image.tmdb.org/t/p/w342/qu771gHACRNy1QXreci9y4tFQZA.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/qu771gHACRNy1QXreci9y4tFQZA.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/myhiUQxuw9cAjlFAJNb9cDDW90T.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/mayi-ri-2023-233496",
+      "watchUrl": "https://movimoon.online/tv/233496-mayi-ri",
+      "publishedAt": "2026-10-12T18:06:55.712Z",
+      "updatedAt": "2026-10-12T18:06:55.712Z",
+      "overview": "Mayi Ri is a Pakistani drama television series produced by Big Bang Entertainment. Mayi Ri Drama cast Nauman Ejaz as Zaheer, Aina Asif as Annie, Maria Wasti as Samina and Muhammad Hassaan as Kasim."
+    },
     {
       "type": "tv",
       "tmdbId": "73223",
