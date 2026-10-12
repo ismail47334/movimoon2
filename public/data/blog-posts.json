@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-12T13:19:25.651Z",
+  "updatedAt": "2026-10-12T13:19:34.892Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1408158",
+      "slug": "epic-first-semester-2026-1408158",
+      "title": "Epic - First Semester (2026) [Tollywood]",
+      "displayTitle": "Epic - First Semester (2026)",
+      "seoTitle": "Epic - First Semester (2026) [Tollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "6.0",
+      "genres": "Romance, Drama",
+      "category": "Tollywood",
+      "image": "https://image.tmdb.org/t/p/w342/vqt0fIHy8dkSpUtVcrN1NaaANl8.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/vqt0fIHy8dkSpUtVcrN1NaaANl8.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/5V1EhtFaeGfn8lRozOKDaCKGQWf.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/epic-first-semester-2026-1408158",
+      "watchUrl": "https://movimoon.online/movie/1408158-epic-first-semester",
+      "publishedAt": "2026-10-12T13:19:32.611Z",
+      "updatedAt": "2026-10-12T13:19:32.611Z",
+      "overview": "Far from home, Aditya wrestles with family expectations, cultural differences and loneliness while studying in London – until he meets the lively Kadali."
+    },
     {
       "type": "movie",
       "tmdbId": "1302904",
