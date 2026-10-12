@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-12T13:20:10.051Z",
+  "updatedAt": "2026-10-12T18:06:13.864Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1153576",
+      "slug": "street-fighter-2026-1153576",
+      "title": "Street Fighter (2026) [Hollywood]",
+      "displayTitle": "Street Fighter (2026)",
+      "seoTitle": "Street Fighter (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "Action, Fantasy",
+      "category": "Hollywood",
+      "image": "https://image.tmdb.org/t/p/w342/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/street-fighter-2026-1153576",
+      "watchUrl": "https://movimoon.online/movie/1153576-street-fighter",
+      "publishedAt": "2026-10-12T18:06:09.853Z",
+      "updatedAt": "2026-10-12T18:06:09.854Z",
+      "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!"
+    },
     {
       "type": "tv",
       "tmdbId": "285322",
