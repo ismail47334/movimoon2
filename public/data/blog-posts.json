@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-12T13:19:56.167Z",
+  "updatedAt": "2026-10-12T13:20:02.631Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "284833",
+      "slug": "avatar-seven-havens-2026-284833",
+      "title": "Avatar: Seven Havens (2026) [Hollywood TV]",
+      "displayTitle": "Avatar: Seven Havens (2026)",
+      "seoTitle": "Avatar: Seven Havens (2026) [Hollywood TV] | MoviMoon",
+      "year": "2026",
+      "rating": "8.9",
+      "genres": "Animation, Action & Adventure, Sci-Fi & Fantasy, Family",
+      "category": "Hollywood TV",
+      "image": "https://image.tmdb.org/t/p/w342/u62d0BPqsdv2TUDifcMmoePbHPL.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/u62d0BPqsdv2TUDifcMmoePbHPL.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/t2KFGH07Al4XuIZLHRlF1Hj9IJB.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/avatar-seven-havens-2026-284833",
+      "watchUrl": "https://movimoon.online/tv/284833-avatar-seven-havens",
+      "publishedAt": "2026-10-12T13:20:01.221Z",
+      "updatedAt": "2026-10-12T13:20:01.221Z",
+      "overview": "In a world shattered by a devastating cataclysm, a young Earthbender discovers she's the new Avatar after Korra. But in this dangerous era, that title marks her as humanity's destroyer, not its savior. Hunted by both human and spirit enemies, she and her long-lost twin must uncover their mysterious origins and save the Seven Havens before civilization's last strongholds collapse."
+    },
     {
       "type": "tv",
       "tmdbId": "6060",
