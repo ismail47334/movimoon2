@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-11T18:07:13.157Z",
+  "updatedAt": "2026-10-12T00:50:31.495Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1792178",
+      "slug": "squeal-2026-1792178",
+      "title": "Squeal (2026) [Hollywood]",
+      "displayTitle": "Squeal (2026)",
+      "seoTitle": "Squeal (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "Horror",
+      "category": "Hollywood",
+      "image": "https://image.tmdb.org/t/p/w342/9ek8BS0yS354adtZF0VInIRVGVI.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/9ek8BS0yS354adtZF0VInIRVGVI.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/vFHQEgnIYFppJ3cSLEr7663B2Bo.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/squeal-2026-1792178",
+      "watchUrl": "https://movimoon.online/movie/1792178-squeal",
+      "publishedAt": "2026-10-12T00:50:29.713Z",
+      "updatedAt": "2026-10-12T00:50:29.713Z",
+      "overview": "A pig masked killer targets and slaughters drug users."
+    },
     {
       "type": "tv",
       "tmdbId": "40382",
