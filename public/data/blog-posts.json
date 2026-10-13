@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-13T12:33:43.552Z",
+  "updatedAt": "2026-10-13T12:33:50.116Z",
   "posts": [
     {
       "type": "tv",
@@ -51,15 +51,15 @@
       "seoTitle": "Kalpana Aur Yatharth (2026) [Hollywood] | MoviMoon",
       "year": "2026",
       "rating": "N/A",
-      "genres": "Mystery, Drama",
+      "genres": "Mystery, Drama, Thriller",
       "category": "Hollywood",
-      "image": "",
-      "poster": "",
-      "backdrop": "",
+      "image": "https://image.tmdb.org/t/p/w342/zQhW5jlLz6AQOlRzCtdKaeXTkw1.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/zQhW5jlLz6AQOlRzCtdKaeXTkw1.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/xAp1fxdQFSZM24hsY2NPhJFxvkY.jpg",
       "url": "https://movimoon.online/blog/movie-posts/kalpana-aur-yatharth-2026-1794745",
       "watchUrl": "https://movimoon.online/movie/1794745-kalpana-aur-yatharth",
       "publishedAt": "2026-10-13T00:50:41.391Z",
-      "updatedAt": "2026-10-13T00:50:41.391Z",
+      "updatedAt": "2026-10-13T12:33:48.812Z",
       "overview": "The story of the film originated from real and fictional events revolves around the unreal world, through which a man embarks on an endless journey for his wife who left him."
     },
     {
