@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-13T14:44:50.942Z",
+  "updatedAt": "2026-10-13T14:44:58.475Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1187326",
+      "slug": "tad-and-the-magic-lamp-2026-1187326",
+      "title": "Tad and The Magic Lamp (2026) [Hollywood]",
+      "displayTitle": "Tad and The Magic Lamp (2026)",
+      "seoTitle": "Tad and The Magic Lamp (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "6.6",
+      "genres": "Animation, Comedy, Family",
+      "category": "Hollywood",
+      "image": "https://image.tmdb.org/t/p/w342/AdDxZgNmRYgDuweY8899buyVqlr.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/AdDxZgNmRYgDuweY8899buyVqlr.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/zbpimMxf6Ms96v3Zypuv8WltMSO.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/tad-and-the-magic-lamp-2026-1187326",
+      "watchUrl": "https://movimoon.online/movie/1187326-tad-and-the-magic-lamp",
+      "publishedAt": "2026-10-13T14:44:57.193Z",
+      "updatedAt": "2026-10-13T14:44:57.193Z",
+      "overview": "Tadeo, his girlfriend Sara, and his friends Momia, Jeff, and Belzoni embark on an adventure after Tadeo accidentally unleashes an ancient spell."
+    },
     {
       "type": "movie",
       "tmdbId": "1355228",
