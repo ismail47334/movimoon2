@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-13T18:06:43.551Z",
+  "updatedAt": "2026-10-13T18:06:54.528Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "65682",
+      "slug": "bhabiji-ghar-par-hain-2015-65682",
+      "title": "Bhabiji Ghar Par Hain (2015) [Hindi TV]",
+      "displayTitle": "Bhabiji Ghar Par Hain (2015)",
+      "seoTitle": "Bhabiji Ghar Par Hain (2015) [Hindi TV] | MoviMoon",
+      "year": "2015",
+      "rating": "5.6",
+      "genres": "Comedy, Drama, Family, Soap",
+      "category": "Hindi TV",
+      "image": "https://image.tmdb.org/t/p/w342/2lkV7WWu1QbXV3PYqqslgGZMLNq.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/2lkV7WWu1QbXV3PYqqslgGZMLNq.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/4xaxxKraFpDOEgWXHiqxwn0taEv.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/bhabiji-ghar-par-hain-2015-65682",
+      "watchUrl": "https://movimoon.online/tv/65682-bhabiji-ghar-par-hain",
+      "publishedAt": "2026-10-13T18:06:52.349Z",
+      "updatedAt": "2026-10-13T18:06:52.349Z",
+      "overview": "\"Bhabiji Ghar Par Hain!\" is a popular Hindi sitcom that premiered in 2015 on And TV and is available on ZEE5. Produced by Binaifer Kohli, the show follows two neighboring couples—the Mishras and the Tiwaris. The husbands, Vibhuti Narayan Mishra and Manmohan Tiwari are dissatisfied in their marriages and secretly admire each other's wives. Manmohan, a successful undergarment businessman, is married to Angoori, a simple and naive housewife. Vibhuti, an unemployed former insurance agent, is married to Anita, a confident and modern woman who runs grooming classes. Their constant scheming to impress each other's wives leads to comedic conflicts and chaotic situations, mostly taking place in their homes. The show, inspired by the 1990s sitcom Shrimaan Shrimati, has been well received by both critics and audiences for its humor and engaging storyline."
+    },
     {
       "type": "tv",
       "tmdbId": "66465",
