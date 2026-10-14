@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-13T18:07:02.756Z",
+  "updatedAt": "2026-10-14T00:50:32.565Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1796645",
+      "slug": "together-as-one-na-noda-duavata-2026-1796645",
+      "title": "Together as One (Na Noda Duavata) (2026) [Hollywood]",
+      "displayTitle": "Together as One (Na Noda Duavata) (2026)",
+      "seoTitle": "Together as One (Na Noda Duavata) (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "",
+      "category": "Hollywood",
+      "image": "",
+      "poster": "",
+      "backdrop": "",
+      "url": "https://movimoon.online/blog/movie-posts/together-as-one-na-noda-duavata-2026-1796645",
+      "watchUrl": "https://movimoon.online/movie/1796645-together-as-one-na-noda-duavata",
+      "publishedAt": "2026-10-14T00:50:30.814Z",
+      "updatedAt": "2026-10-14T00:50:30.814Z",
+      "overview": ""
+    },
     {
       "type": "tv",
       "tmdbId": "40382",
