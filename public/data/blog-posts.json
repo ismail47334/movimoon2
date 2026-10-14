@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-14T00:50:39.530Z",
+  "updatedAt": "2026-10-14T00:50:46.993Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "337991",
+      "slug": "brennpunkt-foxtrot-p-gutterommet-2026-337991",
+      "title": "Brennpunkt: Foxtrot på gutterommet (2026) [Hollywood TV]",
+      "displayTitle": "Brennpunkt: Foxtrot på gutterommet (2026)",
+      "seoTitle": "Brennpunkt: Foxtrot på gutterommet (2026) [Hollywood TV] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "Documentary",
+      "category": "Hollywood TV",
+      "image": "https://image.tmdb.org/t/p/w342/pKMZvOoJ85eZBXUjlDuFPSEQMQl.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/pKMZvOoJ85eZBXUjlDuFPSEQMQl.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/68hQOAli9FqEFj4fkQVhrTDgFse.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/brennpunkt-foxtrot-p-gutterommet-2026-337991",
+      "watchUrl": "https://movimoon.online/tv/337991-brennpunkt-foxtrot-p-gutterommet",
+      "publishedAt": "2026-10-14T00:50:45.535Z",
+      "updatedAt": "2026-10-14T00:50:45.535Z",
+      "overview": ""
+    },
     {
       "type": "movie",
       "tmdbId": "1795841",
