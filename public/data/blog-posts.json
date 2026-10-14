@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-14T10:09:38.738Z",
+  "updatedAt": "2026-10-14T10:09:46.500Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "289892",
+      "slug": "helluva-boss-2020-289892",
+      "title": "Helluva Boss (2020) [Hollywood TV]",
+      "displayTitle": "Helluva Boss (2020)",
+      "seoTitle": "Helluva Boss (2020) [Hollywood TV] | MoviMoon",
+      "year": "2020",
+      "rating": "7.5",
+      "genres": "Animation, Comedy, Drama, Sci-Fi & Fantasy",
+      "category": "Hollywood TV",
+      "image": "https://image.tmdb.org/t/p/w342/bcrp2ovxirKH81XSMYQZ7eEunzX.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/bcrp2ovxirKH81XSMYQZ7eEunzX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/20OP4f0xDbPttORm9OyIbNu3cNN.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/helluva-boss-2020-289892",
+      "watchUrl": "https://movimoon.online/tv/289892-helluva-boss",
+      "publishedAt": "2026-10-14T10:09:45.088Z",
+      "updatedAt": "2026-10-14T10:09:45.088Z",
+      "overview": "In Hell, imp Blitzø (the 'o' is silent) runs an assassin business targeting the world of the living, using a spell book borrowed from a prince of the underworld. With employees Moxxie, Millie, and Loona, they attempt to survive each other while keeping business afloat."
+    },
     {
       "type": "movie",
       "tmdbId": "1058424",
