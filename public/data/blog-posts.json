@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-14T18:06:43.900Z",
+  "updatedAt": "2026-10-14T18:06:52.602Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "312359",
+      "slug": "dragon-ball-super-beerus-2026-312359",
+      "title": "Dragon Ball Super: Beerus (2026) [Hollywood TV]",
+      "displayTitle": "Dragon Ball Super: Beerus (2026)",
+      "seoTitle": "Dragon Ball Super: Beerus (2026) [Hollywood TV] | MoviMoon",
+      "year": "2026",
+      "rating": "9.8",
+      "genres": "Animation, Action & Adventure, Sci-Fi & Fantasy",
+      "category": "Hollywood TV",
+      "image": "https://image.tmdb.org/t/p/w342/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/dragon-ball-super-beerus-2026-312359",
+      "watchUrl": "https://movimoon.online/tv/312359-dragon-ball-super-beerus",
+      "publishedAt": "2026-10-14T18:06:51.124Z",
+      "updatedAt": "2026-10-14T18:06:51.124Z",
+      "overview": "When Beerus, the God of Destruction, awakens in search of a worthy rival, Goku and his friends face an epic battle to stop him from destroying Earth.\n\nRemastered and re-edited version of Dragon Ball Super."
+    },
     {
       "type": "tv",
       "tmdbId": "288673",
