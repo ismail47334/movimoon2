@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-14T18:06:18.356Z",
+  "updatedAt": "2026-10-14T18:06:26.084Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1465943",
+      "slug": "mandaadi-2026-1465943",
+      "title": "Mandaadi (2026) [Kollywood]",
+      "displayTitle": "Mandaadi (2026)",
+      "seoTitle": "Mandaadi (2026) [Kollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "7.8",
+      "genres": "Action, Drama",
+      "category": "Kollywood",
+      "image": "https://image.tmdb.org/t/p/w342/jLVMvJAmnVRo2lzbqtGiecLzPLy.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/jLVMvJAmnVRo2lzbqtGiecLzPLy.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/dJ4sqrmX2KviF8HBKlLrDedUhnh.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/mandaadi-2026-1465943",
+      "watchUrl": "https://movimoon.online/movie/1465943-mandaadi",
+      "publishedAt": "2026-10-14T18:06:24.535Z",
+      "updatedAt": "2026-10-14T18:06:24.535Z",
+      "overview": "A fishing captain applies his maritime knowledge in a traditional boat race along Tamil Nadu's coast during a festival, leading a six-person team against other crews."
+    },
     {
       "type": "movie",
       "tmdbId": "1355228",
