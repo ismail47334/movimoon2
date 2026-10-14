@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-14T18:06:11.124Z",
+  "updatedAt": "2026-10-14T18:06:18.356Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1355228",
+      "slug": "gandhari-2026-1355228",
+      "title": "Gandhari (2026) [Bollywood]",
+      "displayTitle": "Gandhari (2026)",
+      "seoTitle": "Gandhari (2026) [Bollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "7.4",
+      "genres": "Action, Drama, Thriller",
+      "category": "Bollywood",
+      "image": "https://image.tmdb.org/t/p/w342/hCHei97aPYCCsh4vicz9X0wmdFV.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/hCHei97aPYCCsh4vicz9X0wmdFV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/sT5WVT8LzvDwIbfy9BGXK0fvf3s.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/gandhari-2026-1355228",
+      "watchUrl": "https://movimoon.online/movie/1355228-gandhari",
+      "publishedAt": "2026-10-14T18:06:16.707Z",
+      "updatedAt": "2026-10-14T18:06:16.707Z",
+      "overview": "When a mother loses her eyesight and her daughter in a kidnapping, she takes matters into her own hands to hunt down those responsible."
+    },
     {
       "type": "movie",
       "tmdbId": "1269325",
