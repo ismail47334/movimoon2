@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-14T00:50:32.565Z",
+  "updatedAt": "2026-10-14T00:50:39.530Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1795841",
+      "slug": "a-day-in-the-life-of-a-boy-2026-1795841",
+      "title": "A Day in the Life of a Boy (2026) [Hollywood]",
+      "displayTitle": "A Day in the Life of a Boy (2026)",
+      "seoTitle": "A Day in the Life of a Boy (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "Drama, Documentary",
+      "category": "Hollywood",
+      "image": "https://image.tmdb.org/t/p/w342/xt8BWWqNffZOgjTjVTT8wX6L5gm.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/xt8BWWqNffZOgjTjVTT8wX6L5gm.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/3GOtviJKiCanks3LHaAGQKDfLVq.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/a-day-in-the-life-of-a-boy-2026-1795841",
+      "watchUrl": "https://movimoon.online/movie/1795841-a-day-in-the-life-of-a-boy",
+      "publishedAt": "2026-10-14T00:50:38.114Z",
+      "updatedAt": "2026-10-14T00:50:38.114Z",
+      "overview": "A young man is going through something."
+    },
     {
       "type": "movie",
       "tmdbId": "1796645",
