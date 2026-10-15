@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-15T18:06:33.235Z",
+  "updatedAt": "2026-10-15T18:06:48.627Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1389379",
+      "slug": "ranabaali-2026-1389379",
+      "title": "Ranabaali (2026) [Tollywood]",
+      "displayTitle": "Ranabaali (2026)",
+      "seoTitle": "Ranabaali (2026) [Tollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "Action, Drama, History",
+      "category": "Tollywood",
+      "image": "https://image.tmdb.org/t/p/w342/aIzU9bVUvqphq8rPnvAS5N1Zd5o.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/aIzU9bVUvqphq8rPnvAS5N1Zd5o.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/xpImgnsxuqb3VOp0QRtXTS5uBRi.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/ranabaali-2026-1389379",
+      "watchUrl": "https://movimoon.online/movie/1389379-ranabaali",
+      "publishedAt": "2026-10-15T18:06:45.776Z",
+      "updatedAt": "2026-10-15T18:06:45.776Z",
+      "overview": "Set in 19th-century British India, a fierce leader rises from a drought-stricken land to fight colonial oppression and atrocities."
+    },
     {
       "type": "movie",
       "tmdbId": "1496785",
