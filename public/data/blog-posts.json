@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-15T18:06:12.984Z",
+  "updatedAt": "2026-10-15T18:06:22.621Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1241634",
+      "slug": "saiyaara-2025-1241634",
+      "title": "Saiyaara (2025) [Bollywood]",
+      "displayTitle": "Saiyaara (2025)",
+      "seoTitle": "Saiyaara (2025) [Bollywood] | MoviMoon",
+      "year": "2025",
+      "rating": "6.4",
+      "genres": "Romance, Drama, Music",
+      "category": "Bollywood",
+      "image": "https://image.tmdb.org/t/p/w342/hQBIsi3ZfBYEayMc3GhcEmJVkss.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/hQBIsi3ZfBYEayMc3GhcEmJVkss.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/mguy0nefEUY7NKruffpLO3Stj3d.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/saiyaara-2025-1241634",
+      "watchUrl": "https://movimoon.online/movie/1241634-saiyaara",
+      "publishedAt": "2026-10-15T18:06:20.542Z",
+      "updatedAt": "2026-10-15T18:06:20.542Z",
+      "overview": "Two artistic souls find harmony through music despite their contrasting worlds. As feelings deepen, age and circumstances challenge their undeniable bond."
+    },
     {
       "type": "movie",
       "tmdbId": "656908",
