@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-14T18:06:59.413Z",
+  "updatedAt": "2026-10-15T00:50:31.720Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1797425",
+      "slug": "terugweg-2026-1797425",
+      "title": "Terugweg (2026) [Hollywood]",
+      "displayTitle": "Terugweg (2026)",
+      "seoTitle": "Terugweg (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "",
+      "category": "Hollywood",
+      "image": "",
+      "poster": "",
+      "backdrop": "",
+      "url": "https://movimoon.online/blog/movie-posts/terugweg-2026-1797425",
+      "watchUrl": "https://movimoon.online/movie/1797425-terugweg",
+      "publishedAt": "2026-10-15T00:50:30.300Z",
+      "updatedAt": "2026-10-15T00:50:30.300Z",
+      "overview": "The experience of going home drunk, realising you're sobering up, getting ready to sleep alone."
+    },
     {
       "type": "tv",
       "tmdbId": "322846",
