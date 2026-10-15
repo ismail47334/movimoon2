@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-15T12:34:05.874Z",
+  "updatedAt": "2026-10-15T12:34:16.948Z",
   "posts": [
     {
       "type": "tv",
@@ -71,16 +71,16 @@
       "seoTitle": "Terugweg (2026) [Hollywood] | MoviMoon",
       "year": "2026",
       "rating": "N/A",
-      "genres": "",
+      "genres": "Horror",
       "category": "Hollywood",
-      "image": "",
-      "poster": "",
-      "backdrop": "",
+      "image": "https://image.tmdb.org/t/p/w342/3RhTq8LJeJ6ClHPKJUakoeVHqgR.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/3RhTq8LJeJ6ClHPKJUakoeVHqgR.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w342/3RhTq8LJeJ6ClHPKJUakoeVHqgR.jpg",
       "url": "https://movimoon.online/blog/movie-posts/terugweg-2026-1797425",
       "watchUrl": "https://movimoon.online/movie/1797425-terugweg",
       "publishedAt": "2026-10-15T00:50:30.300Z",
-      "updatedAt": "2026-10-15T00:50:30.300Z",
-      "overview": "The experience of going home drunk, realising you're sobering up, getting ready to sleep alone."
+      "updatedAt": "2026-10-15T12:34:14.435Z",
+      "overview": "The sensation of going home alone intoxicated, slowly sobering up and getting ready to sleep"
     },
     {
       "type": "tv",
