@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-15T12:33:40.623Z",
+  "updatedAt": "2026-10-15T12:33:52.753Z",
   "posts": [
     {
       "type": "tv",
@@ -26,20 +26,20 @@
       "type": "tv",
       "tmdbId": "338554",
       "slug": "-2026-338554",
-      "title": "엔하이픈 월드 - 스토리 필름 (2026) [Hollywood TV]",
-      "displayTitle": "엔하이픈 월드 - 스토리 필름 (2026)",
-      "seoTitle": "엔하이픈 월드 - 스토리 필름 (2026) [Hollywood TV] | MoviMoon",
+      "title": "ENHYPEN WORLD - STORY FILM (2026) [Hollywood TV]",
+      "displayTitle": "ENHYPEN WORLD - STORY FILM (2026)",
+      "seoTitle": "ENHYPEN WORLD - STORY FILM (2026) [Hollywood TV] | MoviMoon",
       "year": "2026",
       "rating": "N/A",
-      "genres": "",
+      "genres": "Sci-Fi & Fantasy",
       "category": "Hollywood TV",
-      "image": "",
-      "poster": "",
-      "backdrop": "",
+      "image": "https://image.tmdb.org/t/p/w342/x9ZSUvrXNl9NuTvxpPXn6vZBl6x.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/x9ZSUvrXNl9NuTvxpPXn6vZBl6x.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/3igBltVlZhGcXfZHKqzkYPMNEIb.jpg",
       "url": "https://movimoon.online/blog/tv-series-posts/-2026-338554",
-      "watchUrl": "https://movimoon.online/tv/338554-",
+      "watchUrl": "https://movimoon.online/tv/338554-enhypen-world-story-film",
       "publishedAt": "2026-10-15T00:50:46.181Z",
-      "updatedAt": "2026-10-15T00:50:46.181Z",
+      "updatedAt": "2026-10-15T12:33:50.784Z",
       "overview": "Trapped in a day from memories that repeats endlessly, ENHYPEN are slowly forgetting even each other’s names. I am the only one who remembers them. A journey begins to piece together the torn fragments of the past and reclaim the memories they’ve lost."
     },
     {
