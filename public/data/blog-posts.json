@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-16T00:50:50.170Z",
+  "updatedAt": "2026-10-16T00:50:57.938Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "338249",
+      "slug": "2-2026-338249",
+      "title": "アリタチャンピオン2 (2026) [Hollywood TV]",
+      "displayTitle": "アリタチャンピオン2 (2026)",
+      "seoTitle": "アリタチャンピオン2 (2026) [Hollywood TV] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "",
+      "category": "Hollywood TV",
+      "image": "https://image.tmdb.org/t/p/w342/oDR7qJytZdPT0gmMnpUDFd4We7f.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/oDR7qJytZdPT0gmMnpUDFd4We7f.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/yDkULsxuk4H94oPrJ12Eqt9abo.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/2-2026-338249",
+      "watchUrl": "https://movimoon.online/tv/338249-2",
+      "publishedAt": "2026-10-16T00:50:56.125Z",
+      "updatedAt": "2026-10-16T00:50:56.125Z",
+      "overview": ""
+    },
     {
       "type": "tv",
       "tmdbId": "338456",
