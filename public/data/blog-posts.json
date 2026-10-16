@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-16T00:50:41.842Z",
+  "updatedAt": "2026-10-16T00:50:50.170Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "338456",
+      "slug": "prince-s-first-love-2026-338456",
+      "title": "Prince's First Love (2026) [Hollywood TV]",
+      "displayTitle": "Prince's First Love (2026)",
+      "seoTitle": "Prince's First Love (2026) [Hollywood TV] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "Drama",
+      "category": "Hollywood TV",
+      "image": "https://image.tmdb.org/t/p/w342/eXUNsUojme1XLAgO5g4uPH3UKDo.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/eXUNsUojme1XLAgO5g4uPH3UKDo.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/malMM4oj2hk0ZBt7Ep09SWUd9DX.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/prince-s-first-love-2026-338456",
+      "watchUrl": "https://movimoon.online/tv/338456-prince-s-first-love",
+      "publishedAt": "2026-10-16T00:50:48.493Z",
+      "updatedAt": "2026-10-16T00:50:48.493Z",
+      "overview": ""
+    },
     {
       "type": "movie",
       "tmdbId": "1798295",
