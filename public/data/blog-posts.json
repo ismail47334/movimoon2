@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-16T18:06:34.424Z",
+  "updatedAt": "2026-10-16T18:06:42.217Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "247718",
+      "slug": "mobland-2025-247718",
+      "title": "MobLand (2025) [Hollywood TV]",
+      "displayTitle": "MobLand (2025)",
+      "seoTitle": "MobLand (2025) [Hollywood TV] | MoviMoon",
+      "year": "2025",
+      "rating": "8.5",
+      "genres": "Crime, Drama",
+      "category": "Hollywood TV",
+      "image": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/mobland-2025-247718",
+      "watchUrl": "https://movimoon.online/tv/247718-mobland",
+      "publishedAt": "2026-10-16T18:06:40.630Z",
+      "updatedAt": "2026-10-16T18:06:40.630Z",
+      "overview": "Two mob families clash in a war that threatens to topple empires and lives."
+    },
     {
       "type": "movie",
       "tmdbId": "1709391",
