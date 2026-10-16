@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-16T18:06:50.754Z",
+  "updatedAt": "2026-10-16T18:06:59.617Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "196322",
+      "slug": "dark-matter-2024-196322",
+      "title": "Dark Matter (2024) [Hollywood TV]",
+      "displayTitle": "Dark Matter (2024)",
+      "seoTitle": "Dark Matter (2024) [Hollywood TV] | MoviMoon",
+      "year": "2024",
+      "rating": "7.8",
+      "genres": "Sci-Fi & Fantasy, Drama",
+      "category": "Hollywood TV",
+      "image": "https://image.tmdb.org/t/p/w342/2DPmTlv8F0V1TQBPmlsGOVOhtWk.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/2DPmTlv8F0V1TQBPmlsGOVOhtWk.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/wFEAy4xRes1eeclsu7Z73Vzz7ET.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/dark-matter-2024-196322",
+      "watchUrl": "https://movimoon.online/tv/196322-dark-matter",
+      "publishedAt": "2026-10-16T18:06:58.148Z",
+      "updatedAt": "2026-10-16T18:06:58.148Z",
+      "overview": "Jason Dessen is abducted into an alternate version of his life. To get back to his real family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself."
+    },
     {
       "type": "tv",
       "tmdbId": "85879",
