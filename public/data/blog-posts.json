@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-16T18:06:42.217Z",
+  "updatedAt": "2026-10-16T18:06:50.754Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "85879",
+      "slug": "patiala-babes-2018-85879",
+      "title": "Patiala Babes (2018) [Hindi TV]",
+      "displayTitle": "Patiala Babes (2018)",
+      "seoTitle": "Patiala Babes (2018) [Hindi TV] | MoviMoon",
+      "year": "2018",
+      "rating": "7.0",
+      "genres": "Drama",
+      "category": "Hindi TV",
+      "image": "https://image.tmdb.org/t/p/w342/tqUw97o2fPLTWMHV6k6BS5pugBm.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/tqUw97o2fPLTWMHV6k6BS5pugBm.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/uJfUa0aQ7LcSMVTaS7k3sukZrGf.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/patiala-babes-2018-85879",
+      "watchUrl": "https://movimoon.online/tv/85879-patiala-babes",
+      "publishedAt": "2026-10-16T18:06:48.689Z",
+      "updatedAt": "2026-10-16T18:06:48.689Z",
+      "overview": "Mini, a young girl, encourages her traditional mother, Babita, to realise her worth and fulfil her dreams."
+    },
     {
       "type": "tv",
       "tmdbId": "247718",
