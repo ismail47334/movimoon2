@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-15T18:07:25.582Z",
+  "updatedAt": "2026-10-16T00:50:34.005Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1798357",
+      "slug": "the-brandos-2026-1798357",
+      "title": "THE BRANDOS (2026) [Hollywood]",
+      "displayTitle": "THE BRANDOS (2026)",
+      "seoTitle": "THE BRANDOS (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "",
+      "category": "Hollywood",
+      "image": "",
+      "poster": "",
+      "backdrop": "",
+      "url": "https://movimoon.online/blog/movie-posts/the-brandos-2026-1798357",
+      "watchUrl": "https://movimoon.online/movie/1798357-the-brandos",
+      "publishedAt": "2026-10-16T00:50:32.736Z",
+      "updatedAt": "2026-10-16T00:50:32.736Z",
+      "overview": "Four sons reunite after their father's death, facing the question of who will continue his legacy. But the real question is… should they continue it at all?"
+    },
     {
       "type": "tv",
       "tmdbId": "317964",
