@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-17T00:50:43.957Z",
+  "updatedAt": "2026-10-17T00:50:50.233Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "333815",
+      "slug": "cambodia-s-finest-voice-2026-333815",
+      "title": "Cambodia’s Finest Voice (2026) [Hollywood TV]",
+      "displayTitle": "Cambodia’s Finest Voice (2026)",
+      "seoTitle": "Cambodia’s Finest Voice (2026) [Hollywood TV] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "Family, Reality, Talk",
+      "category": "Hollywood TV",
+      "image": "https://image.tmdb.org/t/p/w342/al4kE5C8ZhY7lownkUvvHfIJ0LD.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/al4kE5C8ZhY7lownkUvvHfIJ0LD.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/aAhTcFqqPmZ3Lbw0rGY1ZSpUkNR.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/cambodia-s-finest-voice-2026-333815",
+      "watchUrl": "https://movimoon.online/tv/333815-cambodia-s-finest-voice",
+      "publishedAt": "2026-10-17T00:50:48.889Z",
+      "updatedAt": "2026-10-17T00:50:48.889Z",
+      "overview": "Cambodia’s Finest Voice is heading to Eurovision Song Contest Asia 🇰🇭\n\nAnd you’re invited to watch! You’ll be able to stream Cambodia’s National Selection Show on Saturday 17 October, via the Eurovision Song Contest YouTube channel 🎤\n\nRemember you can vote in all #EurovisionAsia pre-selections at eurovisionasia.com/vote 🏆"
+    },
     {
       "type": "tv",
       "tmdbId": "338605",
