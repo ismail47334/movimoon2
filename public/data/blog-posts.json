@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-17T00:50:30.155Z",
+  "updatedAt": "2026-10-17T00:50:37.062Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1798510",
+      "slug": "tras-la-pantalla-2026-1798510",
+      "title": "Tras La Pantalla (2026) [Hollywood]",
+      "displayTitle": "Tras La Pantalla (2026)",
+      "seoTitle": "Tras La Pantalla (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "Drama",
+      "category": "Hollywood",
+      "image": "https://image.tmdb.org/t/p/w342/zNZh18Nf7gdE7INuxkygi3h7ZNO.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/zNZh18Nf7gdE7INuxkygi3h7ZNO.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w342/zNZh18Nf7gdE7INuxkygi3h7ZNO.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/tras-la-pantalla-2026-1798510",
+      "watchUrl": "https://movimoon.online/movie/1798510-tras-la-pantalla",
+      "publishedAt": "2026-10-17T00:50:35.652Z",
+      "updatedAt": "2026-10-17T00:50:35.652Z",
+      "overview": ""
+    },
     {
       "type": "movie",
       "tmdbId": "1798933",
