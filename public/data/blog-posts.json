@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-16T18:06:59.617Z",
+  "updatedAt": "2026-10-17T00:50:30.155Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1798933",
+      "slug": "dioscuri-2026-1798933",
+      "title": "Dioscuri (2026) [Hollywood]",
+      "displayTitle": "Dioscuri (2026)",
+      "seoTitle": "Dioscuri (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "Drama",
+      "category": "Hollywood",
+      "image": "https://image.tmdb.org/t/p/w342/xIBkCREE4G0eaMHaeDMc4gv7MU5.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/xIBkCREE4G0eaMHaeDMc4gv7MU5.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/tJjxt63hW0Jjjejmd1jbsJRrv7j.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/dioscuri-2026-1798933",
+      "watchUrl": "https://movimoon.online/movie/1798933-dioscuri",
+      "publishedAt": "2026-10-17T00:50:28.656Z",
+      "updatedAt": "2026-10-17T00:50:28.656Z",
+      "overview": "A guy from the provinces searches for his place between the old world and marginal freedom but rejected by both faces a decisive choice."
+    },
     {
       "type": "tv",
       "tmdbId": "196322",
