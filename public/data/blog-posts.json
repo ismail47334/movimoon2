@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-17T18:06:11.309Z",
+  "updatedAt": "2026-10-17T18:06:20.190Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1226572",
+      "slug": "superboys-of-malegaon-2025-1226572",
+      "title": "Superboys of Malegaon (2025) [Bollywood]",
+      "displayTitle": "Superboys of Malegaon (2025)",
+      "seoTitle": "Superboys of Malegaon (2025) [Bollywood] | MoviMoon",
+      "year": "2025",
+      "rating": "7.6",
+      "genres": "Comedy, Drama",
+      "category": "Bollywood",
+      "image": "https://image.tmdb.org/t/p/w342/kLMLaZa0Mu4BqPhA2eYbduFjcD0.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/kLMLaZa0Mu4BqPhA2eYbduFjcD0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/kQ35sVT8EBlsX9yilHi1zP4jd3l.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/superboys-of-malegaon-2025-1226572",
+      "watchUrl": "https://movimoon.online/movie/1226572-superboys-of-malegaon",
+      "publishedAt": "2026-10-17T18:06:18.760Z",
+      "updatedAt": "2026-10-17T18:06:18.760Z",
+      "overview": "The residents of Malegaon look to Bollywood cinema for a much-needed escape from daily drudgery. Amateur filmmaker Nasir Shaikh gets inspired to make a film for the people of Malegaon, by the people of Malegaon. He bands together his ragtag group of friends to bring his vision to life, thereby bringing a fresh lease of life into the town."
+    },
     {
       "type": "movie",
       "tmdbId": "1291608",
