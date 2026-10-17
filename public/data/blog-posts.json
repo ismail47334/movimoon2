@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-17T18:06:43.582Z",
+  "updatedAt": "2026-10-17T18:06:51.347Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "213562",
+      "slug": "crystal-lake-2026-213562",
+      "title": "Crystal Lake (2026) [Hollywood TV]",
+      "displayTitle": "Crystal Lake (2026)",
+      "seoTitle": "Crystal Lake (2026) [Hollywood TV] | MoviMoon",
+      "year": "2026",
+      "rating": "8.2",
+      "genres": "Mystery, Drama",
+      "category": "Hollywood TV",
+      "image": "https://image.tmdb.org/t/p/w342/sIj9WcA1LkcjGbYjrbfV3pGegbF.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/sIj9WcA1LkcjGbYjrbfV3pGegbF.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/wxiBsKFEOOFK8eQStWOykNORlXY.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/crystal-lake-2026-213562",
+      "watchUrl": "https://movimoon.online/tv/213562-crystal-lake",
+      "publishedAt": "2026-10-17T18:06:50.262Z",
+      "updatedAt": "2026-10-17T18:06:50.262Z",
+      "overview": "Single mother Pam Voorhees has been unable to shake her grief after her young, sickly son Jason tragically drowned in the town lake almost a year before. When two strangers arrive at Pam's door digging into her past, a disturbing chain of events is set into motion, leaving the townspeople of Crystal Lake wondering: just who is Pam Voorhees?"
+    },
     {
       "type": "tv",
       "tmdbId": "66465",
