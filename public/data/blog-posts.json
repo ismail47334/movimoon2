@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-17T18:06:28.633Z",
+  "updatedAt": "2026-10-17T18:06:35.630Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1759264",
+      "slug": "the-critique-2026-1759264",
+      "title": "The Critique (2026) [Bollywood]",
+      "displayTitle": "The Critique (2026)",
+      "seoTitle": "The Critique (2026) [Bollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "10.0",
+      "genres": "Action, Comedy, Western, Crime",
+      "category": "Bollywood",
+      "image": "https://image.tmdb.org/t/p/w342/mdNfRFNMqhSnS0UMx8Wbk9aajFv.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/mdNfRFNMqhSnS0UMx8Wbk9aajFv.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/7C03OuQPCW214MuU9TeOqgUWSIz.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/the-critique-2026-1759264",
+      "watchUrl": "https://movimoon.online/movie/1759264-the-critique",
+      "publishedAt": "2026-10-17T18:06:34.295Z",
+      "updatedAt": "2026-10-17T18:06:34.295Z",
+      "overview": "A simple surveillance gig goes sideways when two petty hustlers paid to investigate a hotel guest realize someone else has their sights set on the target. Genre:  Satire | Dark Comedy | Short-Film | Crime | Neo-Noir"
+    },
     {
       "type": "movie",
       "tmdbId": "1618200",
