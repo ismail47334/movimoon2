@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-18T00:50:35.554Z",
+  "updatedAt": "2026-10-18T00:51:56.843Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "338974",
+      "slug": "amanush-2026-338974",
+      "title": "Amanush (2026) [Hollywood TV]",
+      "displayTitle": "Amanush (2026)",
+      "seoTitle": "Amanush (2026) [Hollywood TV] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "",
+      "category": "Hollywood TV",
+      "image": "",
+      "poster": "",
+      "backdrop": "",
+      "url": "https://movimoon.online/blog/tv-series-posts/amanush-2026-338974",
+      "watchUrl": "https://movimoon.online/tv/338974-amanush",
+      "publishedAt": "2026-10-18T00:51:55.618Z",
+      "updatedAt": "2026-10-18T00:51:55.618Z",
+      "overview": ""
+    },
     {
       "type": "movie",
       "tmdbId": "1799847",
