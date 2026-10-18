@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-18T00:50:29.420Z",
+  "updatedAt": "2026-10-18T00:50:35.554Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1799847",
+      "slug": "kirkasta-valoa-2026-1799847",
+      "title": "Kirkasta Valoa (2026) [Hollywood]",
+      "displayTitle": "Kirkasta Valoa (2026)",
+      "seoTitle": "Kirkasta Valoa (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "8.0",
+      "genres": "Drama",
+      "category": "Hollywood",
+      "image": "https://image.tmdb.org/t/p/w342/uWmVA5yAuSvD4GyP4WnI42kZSJL.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/uWmVA5yAuSvD4GyP4WnI42kZSJL.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/fvAkHdEO1FCu7qHlBW1eT5BgO8L.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/kirkasta-valoa-2026-1799847",
+      "watchUrl": "https://movimoon.online/movie/1799847-kirkasta-valoa",
+      "publishedAt": "2026-10-18T00:50:34.503Z",
+      "updatedAt": "2026-10-18T00:50:34.503Z",
+      "overview": "A young criminal's dreams of a big deal go south as he goes on a surreal voyage through life and death."
+    },
     {
       "type": "movie",
       "tmdbId": "1800378",
