@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-18T12:33:42.246Z",
+  "updatedAt": "2026-10-18T12:33:48.760Z",
   "posts": [
     {
       "type": "tv",
@@ -71,16 +71,16 @@
       "seoTitle": "Autumns Decay (2026) [Hollywood] | MoviMoon",
       "year": "2026",
       "rating": "N/A",
-      "genres": "",
+      "genres": "Documentary, Horror, Animation",
       "category": "Hollywood",
-      "image": "",
-      "poster": "",
-      "backdrop": "",
+      "image": "https://image.tmdb.org/t/p/w342/6GeDlUpGo1nRY2OOypVGTooJthP.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/6GeDlUpGo1nRY2OOypVGTooJthP.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w342/6GeDlUpGo1nRY2OOypVGTooJthP.jpg",
       "url": "https://movimoon.online/blog/movie-posts/autumns-decay-2026-1800378",
       "watchUrl": "https://movimoon.online/movie/1800378-autumns-decay",
       "publishedAt": "2026-10-18T00:50:28.161Z",
-      "updatedAt": "2026-10-18T00:50:28.161Z",
-      "overview": ""
+      "updatedAt": "2026-10-18T12:33:47.454Z",
+      "overview": "Autumns Decay is a two-minute experimental film, shot on 16mm and incorporating double-frame exposures and single-frame stop-motion, that explores the fragility of life and the human body through fallen leaves coming apart."
     },
     {
       "type": "tv",
