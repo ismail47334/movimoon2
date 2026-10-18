@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-18T00:51:56.843Z",
+  "updatedAt": "2026-10-18T00:52:02.770Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "338973",
+      "slug": "alas-roban-the-series-2026-338973",
+      "title": "Alas Roban: The Series (2026) [Hollywood TV]",
+      "displayTitle": "Alas Roban: The Series (2026)",
+      "seoTitle": "Alas Roban: The Series (2026) [Hollywood TV] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "",
+      "category": "Hollywood TV",
+      "image": "",
+      "poster": "",
+      "backdrop": "",
+      "url": "https://movimoon.online/blog/tv-series-posts/alas-roban-the-series-2026-338973",
+      "watchUrl": "https://movimoon.online/tv/338973-alas-roban-the-series",
+      "publishedAt": "2026-10-18T00:52:01.599Z",
+      "updatedAt": "2026-10-18T00:52:01.599Z",
+      "overview": "When her husband vanishes on a perilous road, a mortuary worker uncovers a sinister pattern of deaths while working to secure her daughter's eye surgery."
+    },
     {
       "type": "tv",
       "tmdbId": "338974",
