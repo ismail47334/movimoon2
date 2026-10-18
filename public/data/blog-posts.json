@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-18T12:34:00.897Z",
+  "updatedAt": "2026-10-18T18:06:11.242Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1255833",
+      "slug": "whalefall-2026-1255833",
+      "title": "Whalefall (2026) [Hollywood]",
+      "displayTitle": "Whalefall (2026)",
+      "seoTitle": "Whalefall (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "6.8",
+      "genres": "Thriller, Adventure, Drama",
+      "category": "Hollywood",
+      "image": "https://image.tmdb.org/t/p/w342/vjTYUTgh9nO88i6HZ4YPRhiFL05.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/vjTYUTgh9nO88i6HZ4YPRhiFL05.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/shW2jHkQLZVv4Fko2rJDqTGU0gx.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/whalefall-2026-1255833",
+      "watchUrl": "https://movimoon.online/movie/1255833-whalefall",
+      "publishedAt": "2026-10-18T18:06:09.301Z",
+      "updatedAt": "2026-10-18T18:06:09.301Z",
+      "overview": "Following the death of his father, Jay Gardiner goes diving off the central Coast of California in search of his remains, but is swallowed by a massive sperm whale. While trapped inside its belly with only one hour of oxygen left, Jay comes to realize that the hard-earned lessons his father imparted may be the key to his escape."
+    },
     {
       "type": "tv",
       "tmdbId": "338973",
