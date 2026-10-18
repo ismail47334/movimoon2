@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-17T18:06:58.101Z",
+  "updatedAt": "2026-10-18T00:50:29.420Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1800378",
+      "slug": "autumns-decay-2026-1800378",
+      "title": "Autumns Decay (2026) [Hollywood]",
+      "displayTitle": "Autumns Decay (2026)",
+      "seoTitle": "Autumns Decay (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "",
+      "category": "Hollywood",
+      "image": "",
+      "poster": "",
+      "backdrop": "",
+      "url": "https://movimoon.online/blog/movie-posts/autumns-decay-2026-1800378",
+      "watchUrl": "https://movimoon.online/movie/1800378-autumns-decay",
+      "publishedAt": "2026-10-18T00:50:28.161Z",
+      "updatedAt": "2026-10-18T00:50:28.161Z",
+      "overview": ""
+    },
     {
       "type": "tv",
       "tmdbId": "37854",
