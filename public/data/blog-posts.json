@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-18T12:33:35.955Z",
+  "updatedAt": "2026-10-18T12:33:42.246Z",
   "posts": [
     {
       "type": "tv",
@@ -33,14 +33,14 @@
       "rating": "N/A",
       "genres": "",
       "category": "Hollywood TV",
-      "image": "",
-      "poster": "",
-      "backdrop": "",
+      "image": "https://image.tmdb.org/t/p/w342/atHIYGaFFxc9Eg70m4AGI1OLZDE.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/atHIYGaFFxc9Eg70m4AGI1OLZDE.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/zRVXqgVurqDI6NaoUIgvU6b2gbS.jpg",
       "url": "https://movimoon.online/blog/tv-series-posts/amanush-2026-338974",
       "watchUrl": "https://movimoon.online/tv/338974-amanush",
       "publishedAt": "2026-10-18T00:51:55.618Z",
-      "updatedAt": "2026-10-18T00:51:55.618Z",
-      "overview": ""
+      "updatedAt": "2026-10-18T12:33:41.095Z",
+      "overview": "Amanush new klikk series"
     },
     {
       "type": "movie",
