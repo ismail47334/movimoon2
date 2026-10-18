@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-18T18:06:43.805Z",
+  "updatedAt": "2026-10-18T18:06:51.338Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "44053",
+      "slug": "amrit-manthan-2012-44053",
+      "title": "Amrit Manthan (2012) [Hindi TV]",
+      "displayTitle": "Amrit Manthan (2012)",
+      "seoTitle": "Amrit Manthan (2012) [Hindi TV] | MoviMoon",
+      "year": "2012",
+      "rating": "N/A",
+      "genres": "Drama, Soap",
+      "category": "Hindi TV",
+      "image": "https://image.tmdb.org/t/p/w342/A42W4oBjbIV2aVDLa1vD4m1bpDB.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/A42W4oBjbIV2aVDLa1vD4m1bpDB.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/5KMsms9NDly0pSzHww7lvgKYJgb.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/amrit-manthan-2012-44053",
+      "watchUrl": "https://movimoon.online/tv/44053-amrit-manthan",
+      "publishedAt": "2026-10-18T18:06:50.018Z",
+      "updatedAt": "2026-10-18T18:06:50.018Z",
+      "overview": "Amrit Manthan is an Indian television soap opera, which premiered on 26 February 2012. It airs on Life OK Monday through Friday. It is the story of two sisters who become each other's enemies. At first, it was about the bond between two sisters, Nimrit and Amrit. Now, it shows the bond between another pair of sisters, Gurbani and Jyoti. The show will air its last episode on Friday, 2 August 2013 and be replaced by a new show called Gustakh Dil"
+    },
     {
       "type": "tv",
       "tmdbId": "300146",
