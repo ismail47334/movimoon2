@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-19T18:06:56.309Z",
+  "updatedAt": "2026-10-19T18:07:04.721Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "456",
+      "slug": "the-simpsons-1989-456",
+      "title": "The Simpsons (1989) [Hollywood TV]",
+      "displayTitle": "The Simpsons (1989)",
+      "seoTitle": "The Simpsons (1989) [Hollywood TV] | MoviMoon",
+      "year": "1989",
+      "rating": "8.0",
+      "genres": "Animation, Comedy",
+      "category": "Hollywood TV",
+      "image": "https://image.tmdb.org/t/p/w342/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/the-simpsons-1989-456",
+      "watchUrl": "https://movimoon.online/tv/456-the-simpsons",
+      "publishedAt": "2026-10-19T18:07:02.852Z",
+      "updatedAt": "2026-10-19T18:07:02.852Z",
+      "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general."
+    },
     {
       "type": "movie",
       "tmdbId": "1654581",
