@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-19T00:50:36.296Z",
+  "updatedAt": "2026-10-19T00:50:42.641Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "338958",
+      "slug": "delivery-boi-2026-338958",
+      "title": "Delivery Boi (2026) [Hollywood TV]",
+      "displayTitle": "Delivery Boi (2026)",
+      "seoTitle": "Delivery Boi (2026) [Hollywood TV] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "",
+      "category": "Hollywood TV",
+      "image": "https://image.tmdb.org/t/p/w342/zA3r3uJzKaIQXhfmZmpyKcCKQ7w.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/zA3r3uJzKaIQXhfmZmpyKcCKQ7w.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w342/zA3r3uJzKaIQXhfmZmpyKcCKQ7w.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/delivery-boi-2026-338958",
+      "watchUrl": "https://movimoon.online/tv/338958-delivery-boi",
+      "publishedAt": "2026-10-19T00:50:41.336Z",
+      "updatedAt": "2026-10-19T00:50:41.336Z",
+      "overview": "Just like every Filipino worker, Boi faces daily struggles as a delivery rider but must endure them to provide for his loved ones. On the other hand, Boi also takes the role of one of the modern heroes today, delivering convenience and service to customers. Through his noble job, Boi learns a thing or two from the people he meets on the road. Because of his loving personality, positive outlook, and warmth to everyone around him, Boi unexpectedly changes their lives, too. And despite the struggles caused by the enemies he didn't make, Boi continues fighting for his goals with one big wish in his heart—to finally get to know his biological father someday."
+    },
     {
       "type": "movie",
       "tmdbId": "1800434",
