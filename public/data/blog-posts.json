@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-19T18:06:47.429Z",
+  "updatedAt": "2026-10-19T18:06:56.309Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1654581",
+      "slug": "nayyi-navelli-2026-1654581",
+      "title": "Nayyi Navelli (2026) [Bollywood]",
+      "displayTitle": "Nayyi Navelli (2026)",
+      "seoTitle": "Nayyi Navelli (2026) [Bollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "3.0",
+      "genres": "Adventure, Fantasy, Comedy, Drama",
+      "category": "Bollywood",
+      "image": "https://image.tmdb.org/t/p/w342/aZEKuzGt7ObqoKjTM4kcMd0klYy.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/aZEKuzGt7ObqoKjTM4kcMd0klYy.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/3aXMkyp0Pv2WGyvm2NUdtMXwY2P.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/nayyi-navelli-2026-1654581",
+      "watchUrl": "https://movimoon.online/movie/1654581-nayyi-navelli",
+      "publishedAt": "2026-10-19T18:06:54.171Z",
+      "updatedAt": "2026-10-19T18:06:54.171Z",
+      "overview": "A new bride's arrival turns a turbulent household in Meerut into a picture of domestic harmony, until her brother-in-law grows convinced that his seemingly perfect sister-in-law is secretly a witch."
+    },
     {
       "type": "movie",
       "tmdbId": "1153576",
