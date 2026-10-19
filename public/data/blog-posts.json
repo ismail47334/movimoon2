@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-19T12:34:02.430Z",
+  "updatedAt": "2026-10-19T18:06:25.229Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1400940",
+      "slug": "clayface-2026-1400940",
+      "title": "Clayface (2026) [Hollywood]",
+      "displayTitle": "Clayface (2026)",
+      "seoTitle": "Clayface (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "8.3",
+      "genres": "Horror, Thriller, Science Fiction",
+      "category": "Hollywood",
+      "image": "https://image.tmdb.org/t/p/w342/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/kVtOcoUJ68chBD2tmERkdWz7lK5.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/clayface-2026-1400940",
+      "watchUrl": "https://movimoon.online/movie/1400940-clayface",
+      "publishedAt": "2026-10-19T18:06:22.125Z",
+      "updatedAt": "2026-10-19T18:06:22.227Z",
+      "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self… but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge."
+    },
     {
       "type": "tv",
       "tmdbId": "338848",
