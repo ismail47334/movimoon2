@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-18T18:06:58.493Z",
+  "updatedAt": "2026-10-19T00:50:29.886Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1800813",
+      "slug": "posers-2026-1800813",
+      "title": "Posers (2026) [Hollywood]",
+      "displayTitle": "Posers (2026)",
+      "seoTitle": "Posers (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "Comedy",
+      "category": "Hollywood",
+      "image": "https://image.tmdb.org/t/p/w342/dJ0Xb0ZYjjm14JBz9TgqrP2LTYt.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/dJ0Xb0ZYjjm14JBz9TgqrP2LTYt.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/8vxmmSSQFc5JTVUuZn7k19XY7S3.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/posers-2026-1800813",
+      "watchUrl": "https://movimoon.online/movie/1800813-posers",
+      "publishedAt": "2026-10-19T00:50:28.569Z",
+      "updatedAt": "2026-10-19T00:50:28.569Z",
+      "overview": "A 'brainrot comedy' following the members of a chaotic, cluttered Naarm sharehouse."
+    },
     {
       "type": "tv",
       "tmdbId": "123542",
