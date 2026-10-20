@@ -11,7 +11,7 @@
     'vidapi.xyz','vidsrc.to','vidsrc.xyz','2embed.cc',
     'fonts.googleapis.com','fonts.gstatic.com',
     'cdnjs.cloudflare.com','image.tmdb.org',
-    'profitableratecpm.com','profitableratecpmnetwork.com','highperformancegate.com','highperformanceformat.com','monetag.com','5gvci.com','n6wxm.com','highrevenueformat.com'];
+    'profitableratecpm.com','profitableratecpmnetwork.com','highperformancegate.com','highperformanceformat.com','monetag.com','5gvci.com','n6wxm.com','highrevenueformat.com','vidvault.to','nxsha.space','nhdapi.com'];
 
   var AD_PATTERNS = ['popads','popcash','adnxs','doubleclick',
     'googlesyndication','adservice','pagead2','propellerads',
