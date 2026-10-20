@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-20T18:06:33.029Z",
+  "updatedAt": "2026-10-20T18:06:40.751Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "303911",
+      "slug": "meri-zindagi-hai-tu-2025-303911",
+      "title": "Meri Zindagi Hai Tu (2025) [Pakistani TV]",
+      "displayTitle": "Meri Zindagi Hai Tu (2025)",
+      "seoTitle": "Meri Zindagi Hai Tu (2025) [Pakistani TV] | MoviMoon",
+      "year": "2025",
+      "rating": "8.3",
+      "genres": "Drama, Family",
+      "category": "Pakistani TV",
+      "image": "https://image.tmdb.org/t/p/w342/8b03VAX3nKe4MLDaUoxDlofE85b.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/8b03VAX3nKe4MLDaUoxDlofE85b.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/9HAn2qQtnwaYXCMcpKFEz8M0PXq.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/meri-zindagi-hai-tu-2025-303911",
+      "watchUrl": "https://movimoon.online/tv/303911-meri-zindagi-hai-tu",
+      "publishedAt": "2026-10-20T18:06:39.256Z",
+      "updatedAt": "2026-10-20T18:06:39.256Z",
+      "overview": "Kamyar, a charming yet impulsive man, and Ayra, a principled girl with a pure heart. What begins as a sweet connection turns into a storm of emotions, deception, and longing, testing the strength of love and trust."
+    },
     {
       "type": "movie",
       "tmdbId": "1081010",
