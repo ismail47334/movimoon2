@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-20T18:06:40.751Z",
+  "updatedAt": "2026-10-20T18:06:48.733Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "286298",
+      "slug": "mangal-lakshmi-2024-286298",
+      "title": "Mangal Lakshmi (2024) [Hindi TV]",
+      "displayTitle": "Mangal Lakshmi (2024)",
+      "seoTitle": "Mangal Lakshmi (2024) [Hindi TV] | MoviMoon",
+      "year": "2024",
+      "rating": "N/A",
+      "genres": "Family",
+      "category": "Hindi TV",
+      "image": "https://image.tmdb.org/t/p/w342/nYS9kE2CZt9wUn4wj6cUSkKHN4E.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/nYS9kE2CZt9wUn4wj6cUSkKHN4E.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/ouKzNkVMah05Vaz1rOcUUKUwsfV.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/mangal-lakshmi-2024-286298",
+      "watchUrl": "https://movimoon.online/tv/286298-mangal-lakshmi",
+      "publishedAt": "2026-10-20T18:06:46.987Z",
+      "updatedAt": "2026-10-20T18:06:46.987Z",
+      "overview": "Mangal journeys to find an ideal husband for beloved Lakshmi. Despite obstacles, Mangal persists, revealing the power of sisterhood and predestined connections."
+    },
     {
       "type": "tv",
       "tmdbId": "303911",
