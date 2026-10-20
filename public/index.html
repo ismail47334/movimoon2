@@ -324,30 +324,7 @@
   <!-- ============================================================
        FOOTER
   ============================================================ -->
-  
-  <!-- DOWNLOAD PROVIDER PAGE -->
-  <div class="cv-page" id="page-download">
-    <div class="cv-container">
-      <button class="back-btn" onclick="Download.goBack()"><i class="fas fa-arrow-left"></i> Back</button>
-      <div class="dl-header" style="text-align:center;padding:24px 0 12px;">
-        <div style="font-size:11px;letter-spacing:2px;opacity:.6;text-transform:uppercase;">SELECT PROVIDER</div>
-        <h1 style="margin:10px 0 6px;">Select A Provider From Below Provider List</h1>
-        <div class="dl-subtitle" id="mm-dl-subtitle" style="opacity:.7;">Movie</div>
-      </div>
-      <div class="dl-content" style="padding:18px;">
-        <h3>Available Providers</h3>
-        <p style="opacity:.7;font-size:14px;">Please select any one from the below providers list to continue. Tap on the provider box you want to use.</p>
-        <div class="mm-dl-grid" id="mm-dl-grid" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:16px;margin:18px 0;"></div>
-        <div style="background:rgba(255,255,255,0.06);border-left:3px solid #ff8c00;border-radius:8px;padding:12px 16px;margin-top:12px;">
-          <span style="font-weight:600;">Tip:</span> if one provider does not load, come back to this tab and try another one.
-        </div>
-        <div id="mm-dl-toast" style="margin-top:12px;opacity:.7;font-size:13px;"></div>
-      </div>
-    </div>
-  </div>
-
   <footer class="cv-footer">
-
     <div class="cv-container">
       <div class="footer-grid">
         <div class="footer-brand">
@@ -543,7 +520,7 @@
     </div>
   </div>
 <div class="qv-modal" id="qv-modal"><div class="qv-top"><img alt="backdrop" class="qv-backdrop" id="qv-backdrop" src=""><div class="qv-top-grad"></div><button class="qv-close" onclick="Modal.closeAll()"><i class="fas fa-times"></i></button><div class="qv-play-big" onclick="Modal.upgradeToFull()"><i class="fas fa-play"></i></div></div><div class="qv-body"><div class="qv-title" id="qv-title"></div><div class="qv-meta"><div class="qv-meta-item"><i class="fas fa-star"></i><span id="qv-rating">—</span></div><div class="qv-meta-item"><i class="fas fa-calendar"></i><span id="qv-year">—</span></div><div class="qv-meta-item"><i class="fas fa-clock"></i><span id="qv-runtime">—</span></div><div class="qv-meta-item"><i class="fas fa-language"></i><span id="qv-lang">—</span></div></div><div class="qv-tags" id="qv-tags"></div><div class="qv-desc" id="qv-desc"></div><div class="qv-actions"><button class="btn-qv-play" onclick="Modal.upgradeToFull()"><i class="fas fa-play"></i> Watch Now</button><button class="btn-qv-detail" onclick="Modal.upgradeToFull()"><i class="fas fa-info-circle"></i> More Details</button><button class="btn-qv-wl" id="qv-wl-btn" onclick="Watchlist.toggleCurrent()"><i class="fas fa-heart"></i></button></div></div></div>
-  <div class="fv-modal" id="fv-modal"><div class="fv-hero"><img alt="backdrop" class="fv-backdrop" id="fv-backdrop" src=""><div class="fv-hero-grad"></div><img alt="poster" class="fv-hero-poster" id="fv-poster" src=""><button class="fv-hero-close" onclick="Modal.closeAll()"><i class="fas fa-times"></i></button></div><div class="fv-body"><div class="fv-title-row"><div class="fv-title-main"><div class="fv-title" id="fv-title"></div><div class="fv-meta-row"><span class="fv-meta-badge fv-mb-rating"><i class="fas fa-star"></i> <span id="fv-rating">—</span></span><span class="fv-meta-badge fv-mb-year" id="fv-year">—</span><span class="fv-meta-badge fv-mb-quality">4K HD</span><span class="fv-meta-badge fv-mb-lang" id="fv-lang">EN</span></div></div></div><div class="fv-actions-row"><button class="btn-fv-play" onclick="Player.playMovie()"><i class="fas fa-play"></i> Watch Now</button><div class="ep-row hidden" id="ep-row"><select class="ep-select" id="ep-season" aria-label="Season"></select><select class="ep-select ep-select-episode" id="ep-episode" aria-label="Episode"></select></div><button class="btn-fv-trailer" id="fv-trailer-btn" onclick="Player.playTrailer()" title="Trailer"><i class="fas fa-film"></i> Trailer</button><button class="btn-fv-download" id="fv-download-btn" onclick="Download.open()" title="Download"><i class="fas fa-download"></i> Download</button><button class="btn-fv-icon" id="fv-wl-btn" onclick="Watchlist.toggleCurrent()" title="Watchlist"><i class="fas fa-heart"></i></button><button class="btn-fv-icon" onclick="Share.current()" title="Share"><i class="fas fa-share-alt"></i></button></div><div class="fv-tabs"><div class="fv-tab active" data-tab="overview" onclick='FVTabs.showTab("overview",this)'>Overview</div><div class="fv-tab" data-tab="watch" onclick='FVTabs.showTab("watch",this)'>Watch</div><div class="fv-tab" data-tab="cast" onclick='FVTabs.showTab("cast",this)'>Cast</div><div class="fv-tab" data-tab="related" onclick='FVTabs.showTab("related",this)'>Related</div></div><div class="fv-tab-pane active" id="tab-overview"><div class="fv-overview-grid"><div><p class="fv-desc" id="fv-desc"></p></div><div><div class="fv-info-list"><div class="fv-info-item"><span class="fv-info-key">Director</span><span class="fv-info-val" id="fv-director">—</span></div><div class="fv-info-item"><span class="fv-info-key">Genre</span><span class="fv-info-val" id="fv-genre">—</span></div><div class="fv-info-item"><span class="fv-info-key">Runtime</span><span class="fv-info-val" id="fv-runtime">—</span></div><div class="fv-info-item"><span class="fv-info-key">Language</span><span class="fv-info-val" id="fv-lang-detail">—</span></div><div class="fv-info-item"><span class="fv-info-key">Status</span><span class="fv-info-val" id="fv-status">—</span></div><div class="fv-info-item"><span class="fv-info-key">Votes</span><span class="fv-info-val" id="fv-votes">—</span></div></div></div></div></div><div class="fv-tab-pane" id="tab-watch"><div class="server-notice" id="server-notice" style="display:flex !important;">
+  <div class="fv-modal" id="fv-modal"><div class="fv-hero"><img alt="backdrop" class="fv-backdrop" id="fv-backdrop" src=""><div class="fv-hero-grad"></div><img alt="poster" class="fv-hero-poster" id="fv-poster" src=""><button class="fv-hero-close" onclick="Modal.closeAll()"><i class="fas fa-times"></i></button></div><div class="fv-body"><div class="fv-title-row"><div class="fv-title-main"><div class="fv-title" id="fv-title"></div><div class="fv-meta-row"><span class="fv-meta-badge fv-mb-rating"><i class="fas fa-star"></i> <span id="fv-rating">—</span></span><span class="fv-meta-badge fv-mb-year" id="fv-year">—</span><span class="fv-meta-badge fv-mb-quality">4K HD</span><span class="fv-meta-badge fv-mb-lang" id="fv-lang">EN</span></div></div></div><div class="fv-actions-row"><button class="btn-fv-play" onclick="Player.playMovie()"><i class="fas fa-play"></i> Watch Now</button><div class="ep-row hidden" id="ep-row"><select class="ep-select" id="ep-season" aria-label="Season"></select><select class="ep-select ep-select-episode" id="ep-episode" aria-label="Episode"></select></div><button class="btn-fv-trailer" id="fv-trailer-btn" onclick="Player.playTrailer()" title="Trailer"><i class="fas fa-film"></i> Trailer</button><button class="btn-fv-download" id="fv-download-btn" onclick="Download.open(); return false;" title="Download" style="background:linear-gradient(135deg,#0ea5e9,#6366f1);border:0;color:#fff;padding:11px 18px;border-radius:999px;font-weight:700;font-size:13px;cursor:pointer;display:inline-flex;align-items:center;gap:7px;margin-left:8px;box-shadow:0 6px 20px rgba(14,165,233,0.25);"><i class="fas fa-download"></i> Download</button><button class="btn-fv-icon" id="fv-wl-btn" onclick="Watchlist.toggleCurrent()" title="Watchlist"><i class="fas fa-heart"></i></button><button class="btn-fv-icon" onclick="Share.current()" title="Share"><i class="fas fa-share-alt"></i></button></div><div class="fv-tabs"><div class="fv-tab active" data-tab="overview" onclick='FVTabs.showTab("overview",this)'>Overview</div><div class="fv-tab" data-tab="watch" onclick='FVTabs.showTab("watch",this)'>Watch</div><div class="fv-tab" data-tab="cast" onclick='FVTabs.showTab("cast",this)'>Cast</div><div class="fv-tab" data-tab="related" onclick='FVTabs.showTab("related",this)'>Related</div></div><div class="fv-tab-pane active" id="tab-overview"><div class="fv-overview-grid"><div><p class="fv-desc" id="fv-desc"></p></div><div><div class="fv-info-list"><div class="fv-info-item"><span class="fv-info-key">Director</span><span class="fv-info-val" id="fv-director">—</span></div><div class="fv-info-item"><span class="fv-info-key">Genre</span><span class="fv-info-val" id="fv-genre">—</span></div><div class="fv-info-item"><span class="fv-info-key">Runtime</span><span class="fv-info-val" id="fv-runtime">—</span></div><div class="fv-info-item"><span class="fv-info-key">Language</span><span class="fv-info-val" id="fv-lang-detail">—</span></div><div class="fv-info-item"><span class="fv-info-key">Status</span><span class="fv-info-val" id="fv-status">—</span></div><div class="fv-info-item"><span class="fv-info-key">Votes</span><span class="fv-info-val" id="fv-votes">—</span></div></div></div></div></div><div class="fv-tab-pane" id="tab-watch"><div class="server-notice" id="server-notice" style="display:flex !important;">
   <div class="server-notice-icon"><i class="fas fa-info-circle"></i></div>
   <div class="server-notice-text">please switch to other servers if default server doesnt work</div>
   <button class="server-notice-close" id="server-notice-close" onclick='var n=document.getElementById("server-notice"); if(n){ n.style.display="none"; } return false;' type="button"><span style="pointer-events:none;"><i class="fas fa-times"></i></span></button>
@@ -562,5 +539,21 @@
 <script src="/js/analytics.js?v=35" defer></script>
 <script src="/js/ads.js?v=35" defer></script>
 <script src="/js/app.js?v=35" defer></script>
+<!-- DOWNLOAD PAGE -->
+<div class="cv-page" id="page-download" style="min-height:100vh;background:#0f172a;">
+<div style="background:linear-gradient(135deg,#0f172a 0%,#1e293b 100%);padding:32px 24px;text-align:center;border-bottom:1px solid rgba(255,255,255,0.06);">
+<div style="font-size:11px;letter-spacing:3px;color:#94a3b8;margin-bottom:8px;">SELECT PROVIDER</div>
+<h1 style="font-size:26px;font-weight:800;color:#fff;margin:0;">Select A Provider From Below Provider List</h1>
+<p id="mm-dl-subtitle" style="color:#94a3b8;margin-top:10px;font-size:14px;">Movie</p>
+</div>
+<div style="max-width:1100px;margin:0 auto;padding:28px 24px;">
+<h2 style="color:#fff;font-size:18px;font-weight:700;margin:0 0 6px 0;">Available Providers</h2>
+<p style="color:#94a3b8;font-size:14px;margin:0 0 18px 0;">Please select any one from the below providers list to continue.</p>
+<div id="mm-dl-grid" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:16px;"></div>
+<div style="margin-top:20px;background:rgba(255,255,255,0.06);border-left:3px solid #f59e0b;padding:12px 16px;border-radius:8px;color:#e2e8f0;font-size:14px;">Tip: if one provider does not load, come back to this tab and try another one.</div>
+<p id="mm-dl-status" style="color:#94a3b8;margin-top:12px;font-size:13px;"></p>
+<button onclick="Download.goBack()" style="margin-top:20px;background:rgba(255,255,255,0.08);border:0;color:#fff;padding:10px 18px;border-radius:999px;cursor:pointer;font-weight:600;">Go Back</button>
+</div></div>
+<style>.mm-dl-card{background:rgba(255,255,255,0.04);border:1px solid rgba(255,255,255,0.08);border-radius:16px;padding:18px;cursor:pointer;transition:all .2s;}.mm-dl-card:hover{background:rgba(14,165,233,0.08);border-color:rgba(14,165,233,0.5);transform:translateY(-2px);}.mm-dl-badge{font-size:10px;font-weight:800;letter-spacing:1px;padding:4px 10px;border-radius:999px;background:rgba(14,165,233,0.15);color:#38bdf8;border:1px solid rgba(14,165,233,0.3);}.mm-dl-badge.popular{background:rgba(14,165,233,0.2);color:#7dd3fc;}.mm-dl-badge.new{background:rgba(59,130,246,0.15);color:#60a5fa;}.mm-dl-card h3{color:#fff;margin:12px 0 6px 0;font-size:18px;}.mm-dl-card p{color:#94a3b8;font-size:13px;line-height:1.4;margin:0;}.cv-page{display:none;}.cv-page.active{display:block;}</style>
 </body>
 </html>
