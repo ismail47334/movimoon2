@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-20T00:50:32.209Z",
+  "updatedAt": "2026-10-20T00:50:41.793Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1801244",
+      "slug": "hait-deportation-crisis-2026-1801244",
+      "title": "Haití Deportation Crisis (2026) [Hollywood]",
+      "displayTitle": "Haití Deportation Crisis (2026)",
+      "seoTitle": "Haití Deportation Crisis (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "Documentary",
+      "category": "Hollywood",
+      "image": "https://image.tmdb.org/t/p/w342/4fww5rQSpDm90yaPd022Yj9F4xG.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/4fww5rQSpDm90yaPd022Yj9F4xG.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w342/4fww5rQSpDm90yaPd022Yj9F4xG.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/hait-deportation-crisis-2026-1801244",
+      "watchUrl": "https://movimoon.online/movie/1801244-hait-deportation-crisis",
+      "publishedAt": "2026-10-20T00:50:39.934Z",
+      "updatedAt": "2026-10-20T00:50:39.934Z",
+      "overview": "Earlier this year, the Trump administration ended temporary legal status for hundreds of thousands of Haitians who had fled violence and upheaval for the U.S.\r The administration said Haiti was now safe enough for them to return home. But what is the reality on the ground?"
+    },
     {
       "type": "movie",
       "tmdbId": "1801563",
