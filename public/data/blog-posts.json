@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-20T18:06:24.860Z",
+  "updatedAt": "2026-10-20T18:06:33.029Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1081010",
+      "slug": "prahaar-the-untold-story-of-ujjwal-nikam-2026-1081010",
+      "title": "Prahaar: The Untold Story of Ujjwal Nikam (2026) [Bollywood]",
+      "displayTitle": "Prahaar: The Untold Story of Ujjwal Nikam (2026)",
+      "seoTitle": "Prahaar: The Untold Story of Ujjwal Nikam (2026) [Bollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "7.0",
+      "genres": "Crime, Drama",
+      "category": "Bollywood",
+      "image": "https://image.tmdb.org/t/p/w342/wTrBTNfHHmpPwiB9rpn0tGbSW1m.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/wTrBTNfHHmpPwiB9rpn0tGbSW1m.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/8S2DXdKY23wfYq4v0awYXov4c8g.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/prahaar-the-untold-story-of-ujjwal-nikam-2026-1081010",
+      "watchUrl": "https://movimoon.online/movie/1081010-prahaar-the-untold-story-of-ujjwal-nikam",
+      "publishedAt": "2026-10-20T18:06:31.309Z",
+      "updatedAt": "2026-10-20T18:06:31.309Z",
+      "overview": "Public prosecutor Ujjwal Nikam takes on one of the most high-profile criminal cases in India’s history, leading the prosecution in the trial of Ajmal Kasab following the 26/11 Mumbai terror attacks. As he battles to uncover the truth and secure justice, Nikam must confront the immense personal and professional burden of a case that will define his legacy."
+    },
     {
       "type": "movie",
       "tmdbId": "1227241",
