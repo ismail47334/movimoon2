@@ -897,7 +897,7 @@ var Filter = {
 
 var ViewToggle = { set: function(mode, btn){ State.currentView=mode; document.querySelectorAll('.vt-btn').forEach(function(b){ b.classList.remove('active'); }); if(btn) btn.classList.add('active'); this.applyClass(); }, applyClass: function(){ var grid=document.getElementById('browse-grid'); if(grid) grid.classList.toggle('list-view', State.currentView==='list'); } };
 
-var Modal = { overlay:null, qv:null, fv:null, init: function(){ this.overlay=document.getElementById('modal-overlay'); this.qv=document.getElementById('qv-modal'); this.fv=document.getElementById('fv-modal'); }, overlayClick: function(e){ return; }, closeAll: function(){ if(this.overlay) this.overlay.classList.remove('open'); document.body.style.overflow=''; var player=document.getElementById('main-player'); if(player) player.src=''; if(this.fv) this.fv.classList.remove('open'); }, open: function(){ if(this.overlay) this.overlay.classList.add('open'); document.body.style.overflow='hidden'; }, openQuick: function(id, type){ State.activeId=id; State.activeType=type; Prog.start(); API.detail(id, type).then(function(data){ if(!data){ Prog.done(); return; } State.activeData=data; var title=data.title||data.name||''; try{ console.log('[openQuick] pushing', id, type, title); Router.push(id, type, title); }catch(e){}  var year=Utils.year(data.release_date||data.first_air_date); var rating=data.vote_average?data.vote_average.toFixed(1):'N/A'; var runtime=type==='movie'?Utils.runtime(data.runtime):((data.number_of_seasons||1)+' Season(s)'); var lang=Utils.langName(data.original_language); var genres=(data.genres||[]).map(function(g){ return g.name; }).join(' &middot; '); var desc=Utils.clamp(data.overview,200); var backdrop=data.backdrop_path?CFG.IMG780+data.backdrop_path:Utils.placeholder(); var set=function(id,v){ var el=document.getElementById(id); if(el) el.textContent=v; }; document.getElementById('qv-backdrop').src=backdrop; set('qv-title', title); set('qv-rating', rating); set('qv-year', year); set('qv-runtime',runtime); set('qv-lang', lang); set('qv-desc', data.overview||''); var tagsEl=document.getElementById('qv-tags'); if(tagsEl) tagsEl.innerHTML=genres.split(' &middot; ').map(function(g){ return '<span class="qv-tag">'+g+'</span>'; }).join(''); var isWL=State.watchlist.some(function(w){ return w.id===id; }); var wlBtn=document.getElementById('qv-wl-btn'); if(wlBtn){ wlBtn.classList.toggle('in-list',isWL); wlBtn.querySelector('i').className='fas fa-'+(isWL?'check':'heart'); } if(Modal.fv) Modal.fv.classList.remove('open'); if(Modal.qv) Modal.qv.style.display='flex'; if(Modal.fv) Modal.fv.style.display='none'; Modal.open(); Prog.done(); }); }, upgradeToFull: function(){ if(State.activeId) this.openFull(State.activeId, State.activeType); }, openFull: function(id, type){ State.activeId=id; State.activeType=type; Prog.start(); API.detail(id, type).then(function(data){ if(!data){ Prog.done(); Toast.show('Failed to load details. Check API key.','error'); return; } State.activeData=data; var title=data.title||data.name||''; try{ console.log('[openFull] pushing title', id, type, title); Router.push(id, type, title); }catch(e){}  var year=Utils.year(data.release_date||data.first_air_date); var rating=data.vote_average?data.vote_average.toFixed(1):'N/A'; var runtime=type==='movie'?Utils.runtime(data.runtime):((data.number_of_seasons||1)+' Season(s)'); var lang=Utils.langName(data.original_language); var genres=(data.genres||[]).map(function(g){ return g.name; }).join(', '); var director=''; var crew=(data.credits&&data.credits.crew)||[]; for(var i=0;i<crew.length;i++){ if(crew[i].job==='Director'){ director=crew[i].name; break; } } var votes=Utils.fmt(data.vote_count); var poster=data.poster_path?CFG.IMG342+data.poster_path:Utils.placeholder(); var backdrop=data.backdrop_path?CFG.ORIG+data.backdrop_path:Utils.placeholder(); document.getElementById('fv-backdrop').src=backdrop; document.getElementById('fv-poster').src=poster; var set=function(id,v){ var el=document.getElementById(id); if(el) el.textContent=v; }; set('fv-title', title); set('fv-rating', rating); set('fv-year', year); set('fv-lang', lang.toUpperCase().slice(0,2)); set('fv-desc', data.overview||''); set('fv-director', director||'N/A'); set('fv-genre', genres||'N/A'); set('fv-runtime', runtime); set('fv-lang-detail',lang); set('fv-status', data.status||'N/A'); set('fv-votes', votes); var isWL=State.watchlist.some(function(w){ return w.id===id; }); var wlBtn=document.getElementById('fv-wl-btn'); if(wlBtn){ wlBtn.classList.toggle('active-wl',isWL); wlBtn.querySelector('i').className='fas fa-'+(isWL?'check':'heart'); } var cast=((data.credits&&data.credits.cast)||[]).slice(0,20); var castHtml=''; for(var c=0;c<cast.length;c++){ var cm=cast[c]; var cimg=cm.profile_path?CFG.IMG185+cm.profile_path:Utils.placeholder(); castHtml+='<div class="cast-card"><img class="cast-avatar" src="'+cimg+'" alt="'+Utils.escape(cm.name)+'" loading="lazy" onerror="this.src=\''+Utils.placeholder()+'\'"/><div class="cast-name" title="'+Utils.escape(cm.name)+'">'+cm.name+'</div><div class="cast-role" title="'+Utils.escape(cm.character||'Actor')+'">'+(cm.character||'Actor')+'</div></div>'; } var castEl=document.getElementById('fv-cast'); if(castEl) castEl.innerHTML=castHtml; var related=((data.similar&&data.similar.results)||[]); if(!related.length) related=((data.recommendations&&data.recommendations.results)||[]); related=related.filter(function(r){ return r.poster_path; }).slice(0,12); var relHtml=''; for(var r=0;r<related.length;r++){ var ri=related[r]; relHtml+='<div class="fv-related-card" onclick="Modal.openFull('+ri.id+',\''+type+'\')"><img src="'+CFG.IMG342+ri.poster_path+'" alt="'+Utils.escape(ri.title||ri.name||'')+'" loading="lazy"/><div class="fv-related-title">'+(ri.title||ri.name||'')+'</div></div>'; } var relEl=document.getElementById('fv-related'); if(relEl) relEl.innerHTML=relHtml; Player.initServers(); Player.initEpisodeSelectors(data); FVTabs.showTab('overview', document.querySelector('[data-tab="overview"]')); History.add(id, type, title, data.poster_path, year); if(Modal.qv) Modal.qv.style.display='none'; if(Modal.fv){ Modal.fv.style.display='block'; Modal.fv.classList.add('open'); Modal.fv.scrollTop=0; } Modal.open(); Prog.done(); }); } };
+var Modal = { overlay:null, qv:null, fv:null, init: function(){ this.overlay=document.getElementById('modal-overlay'); this.qv=document.getElementById('qv-modal'); this.fv=document.getElementById('fv-modal'); }, overlayClick: function(e){ return; /* FIXED DISABLED */ }, closeAll: function(){ if(this.overlay) this.overlay.classList.remove('open'); document.body.style.overflow=''; var player=document.getElementById('main-player'); if(player) player.src=''; if(this.fv) this.fv.classList.remove('open'); }, open: function(){ if(this.overlay) this.overlay.classList.add('open'); document.body.style.overflow='hidden'; }, openQuick: function(id, type){ State.activeId=id; State.activeType=type; Prog.start(); API.detail(id, type).then(function(data){ if(!data){ Prog.done(); return; } State.activeData=data; var title=data.title||data.name||''; try{ console.log('[openQuick] pushing', id, type, title); Router.push(id, type, title); }catch(e){}  var year=Utils.year(data.release_date||data.first_air_date); var rating=data.vote_average?data.vote_average.toFixed(1):'N/A'; var runtime=type==='movie'?Utils.runtime(data.runtime):((data.number_of_seasons||1)+' Season(s)'); var lang=Utils.langName(data.original_language); var genres=(data.genres||[]).map(function(g){ return g.name; }).join(' &middot; '); var desc=Utils.clamp(data.overview,200); var backdrop=data.backdrop_path?CFG.IMG780+data.backdrop_path:Utils.placeholder(); var set=function(id,v){ var el=document.getElementById(id); if(el) el.textContent=v; }; document.getElementById('qv-backdrop').src=backdrop; set('qv-title', title); set('qv-rating', rating); set('qv-year', year); set('qv-runtime',runtime); set('qv-lang', lang); set('qv-desc', data.overview||''); var tagsEl=document.getElementById('qv-tags'); if(tagsEl) tagsEl.innerHTML=genres.split(' &middot; ').map(function(g){ return '<span class="qv-tag">'+g+'</span>'; }).join(''); var isWL=State.watchlist.some(function(w){ return w.id===id; }); var wlBtn=document.getElementById('qv-wl-btn'); if(wlBtn){ wlBtn.classList.toggle('in-list',isWL); wlBtn.querySelector('i').className='fas fa-'+(isWL?'check':'heart'); } if(Modal.fv) Modal.fv.classList.remove('open'); if(Modal.qv) Modal.qv.style.display='flex'; if(Modal.fv) Modal.fv.style.display='none'; Modal.open(); Prog.done(); }); }, upgradeToFull: function(){ if(State.activeId) this.openFull(State.activeId, State.activeType); }, openFull: function(id, type){ State.activeId=id; State.activeType=type; Prog.start(); API.detail(id, type).then(function(data){ if(!data){ Prog.done(); Toast.show('Failed to load details. Check API key.','error'); return; } State.activeData=data; var title=data.title||data.name||''; try{ console.log('[openFull] pushing title', id, type, title); Router.push(id, type, title); }catch(e){}  var year=Utils.year(data.release_date||data.first_air_date); var rating=data.vote_average?data.vote_average.toFixed(1):'N/A'; var runtime=type==='movie'?Utils.runtime(data.runtime):((data.number_of_seasons||1)+' Season(s)'); var lang=Utils.langName(data.original_language); var genres=(data.genres||[]).map(function(g){ return g.name; }).join(', '); var director=''; var crew=(data.credits&&data.credits.crew)||[]; for(var i=0;i<crew.length;i++){ if(crew[i].job==='Director'){ director=crew[i].name; break; } } var votes=Utils.fmt(data.vote_count); var poster=data.poster_path?CFG.IMG342+data.poster_path:Utils.placeholder(); var backdrop=data.backdrop_path?CFG.ORIG+data.backdrop_path:Utils.placeholder(); document.getElementById('fv-backdrop').src=backdrop; document.getElementById('fv-poster').src=poster; var set=function(id,v){ var el=document.getElementById(id); if(el) el.textContent=v; }; set('fv-title', title); set('fv-rating', rating); set('fv-year', year); set('fv-lang', lang.toUpperCase().slice(0,2)); set('fv-desc', data.overview||''); set('fv-director', director||'N/A'); set('fv-genre', genres||'N/A'); set('fv-runtime', runtime); set('fv-lang-detail',lang); set('fv-status', data.status||'N/A'); set('fv-votes', votes); var isWL=State.watchlist.some(function(w){ return w.id===id; }); var wlBtn=document.getElementById('fv-wl-btn'); if(wlBtn){ wlBtn.classList.toggle('active-wl',isWL); wlBtn.querySelector('i').className='fas fa-'+(isWL?'check':'heart'); } var cast=((data.credits&&data.credits.cast)||[]).slice(0,20); var castHtml=''; for(var c=0;c<cast.length;c++){ var cm=cast[c]; var cimg=cm.profile_path?CFG.IMG185+cm.profile_path:Utils.placeholder(); castHtml+='<div class="cast-card"><img class="cast-avatar" src="'+cimg+'" alt="'+Utils.escape(cm.name)+'" loading="lazy" onerror="this.src=\''+Utils.placeholder()+'\'"/><div class="cast-name" title="'+Utils.escape(cm.name)+'">'+cm.name+'</div><div class="cast-role" title="'+Utils.escape(cm.character||'Actor')+'">'+(cm.character||'Actor')+'</div></div>'; } var castEl=document.getElementById('fv-cast'); if(castEl) castEl.innerHTML=castHtml; var related=((data.similar&&data.similar.results)||[]); if(!related.length) related=((data.recommendations&&data.recommendations.results)||[]); related=related.filter(function(r){ return r.poster_path; }).slice(0,12); var relHtml=''; for(var r=0;r<related.length;r++){ var ri=related[r]; relHtml+='<div class="fv-related-card" onclick="Modal.openFull('+ri.id+',\''+type+'\')"><img src="'+CFG.IMG342+ri.poster_path+'" alt="'+Utils.escape(ri.title||ri.name||'')+'" loading="lazy"/><div class="fv-related-title">'+(ri.title||ri.name||'')+'</div></div>'; } var relEl=document.getElementById('fv-related'); if(relEl) relEl.innerHTML=relHtml; Player.initServers(); Player.initEpisodeSelectors(data); FVTabs.showTab('overview', document.querySelector('[data-tab="overview"]')); History.add(id, type, title, data.poster_path, year); if(Modal.qv) Modal.qv.style.display='none'; if(Modal.fv){ Modal.fv.style.display='block'; Modal.fv.classList.add('open'); Modal.fv.scrollTop=0; } Modal.open(); Prog.done(); }); } };
 
 var FVTabs = { showTab: function(tabName, el, skipAutoLoad){
   document.querySelectorAll('.fv-tab').forEach(function(t){ t.classList.remove('active'); });
@@ -1181,46 +1181,72 @@ var Share = { current: function(){ var data=State.activeData; if(!data) return; 
 
 var Download = {
   _prev: null,
+  _prevScroll: 0,
   open: function(){
     try{
       if(!State.activeId){ Toast.show('No movie selected','error'); return; }
-      this._prev = {id: State.activeId, type: State.activeType};
+      this._prev = {id: State.activeId, type: State.activeType, data: State.activeData};
+      this._prevScroll = window.scrollY || 0;
       var overlay = document.getElementById('modal-overlay');
-      if(overlay) overlay.classList.remove('open');
+      if(overlay) overlay.classList.add('open');
       var fv = document.getElementById('fv-modal');
       if(fv){ fv.classList.remove('open'); fv.style.display='none'; }
       var qv = document.getElementById('qv-modal');
       if(qv) qv.style.display='none';
-      document.body.style.overflow='';
-      document.querySelectorAll('.cv-page').forEach(function(p){ p.classList.remove('active'); });
-      var dl = document.getElementById('page-download');
-      if(dl) dl.classList.add('active');
-      window.scrollTo(0,0);
+      var player = document.getElementById('fv-player-modal');
+      if(player) player.style.display='none';
+      document.body.style.overflow='hidden';
+      var dl = document.getElementById('download-modal');
+      if(dl){ dl.style.display='block'; dl.classList.remove('open'); void dl.offsetWidth; dl.classList.add('open'); }
       var title = (State.activeData && (State.activeData.title || State.activeData.name)) || 'Title';
       var sub = document.getElementById('mm-dl-subtitle');
       if(sub) sub.textContent = title + ' \u00b7 ' + (State.activeType==='tv'?'TV Series':'Movie');
       this.render();
-      try{ history.pushState(null,'','/download/'+State.activeType+'/'+State.activeId); }catch(e){}
-    }catch(e){ console.error(e); }
+      try{ history.pushState({download:true,id:State.activeId,type:State.activeType}, '', '/download/'+State.activeType+'/'+State.activeId); }catch(e){}
+    }catch(e){ console.error('[Download.open]', e); Toast.show('Failed to open download','error'); }
   },
   goBack: function(){
     try{
-      var dl = document.getElementById('page-download');
-      if(dl) dl.classList.remove('active');
-      if(this._prev && State.activeData){
+      var dl = document.getElementById('download-modal');
+      if(dl){ dl.classList.remove('open'); setTimeout(function(){ dl.style.display='none'; }, 180); }
+      if(this._prev && this._prev.data){
         var overlay = document.getElementById('modal-overlay');
         if(overlay) overlay.classList.add('open');
         var fv = document.getElementById('fv-modal');
-        if(fv){ fv.style.display='block'; fv.classList.add('open'); }
+        if(fv){ fv.style.display='block'; setTimeout(function(){ fv.classList.add('open'); }, 10); }
         document.body.style.overflow='hidden';
-        try{ var t = State.activeData.title||State.activeData.name||''; var slug = (window.Utils && Utils.slug) ? Utils.slug(t) : ''; history.pushState(null,'','/movie/'+State.activeId + (slug?'-'+slug:'')); }catch(e){}
-      } else { if(window.App && App.goHome) App.goHome(); }
-    }catch(e){}
+        try{ var t = this._prev.data.title||this._prev.data.name||''; var slug = (window.Utils && Utils.slug) ? Utils.slug(t) : ''; history.pushState({id:this._prev.id,type:this._prev.type}, '', '/movie/'+this._prev.id + (slug?'-'+slug:'')); }catch(e){ history.back(); }
+      } else {
+        var overlay2 = document.getElementById('modal-overlay');
+        if(overlay2) overlay2.classList.remove('open');
+        document.body.style.overflow='';
+        try{ history.pushState({}, '', '/'); }catch(e){}
+      }
+    }catch(e){ console.error('[Download.goBack]', e); }
   },
   getSeasonEpisode: function(){ var s=1,e=1; try{ var sEl=document.getElementById('ep-season'); var eEl=document.getElementById('ep-episode'); if(sEl&&sEl.value) s=parseInt(sEl.value)||1; if(eEl&&eEl.value) e=parseInt(eEl.value)||1; }catch(err){} return {season:s,episode:e}; },
   getLinks: function(){ var id=State.activeId; var type=State.activeType; var se=this.getSeasonEpisode(); var links=[]; if(type==='movie'){ links=[{url:'https://vidvault.to/movie/'+id,name:'VidVault',badge:'POPULAR',desc:'Fast stream provider for movies and TV episodes.'},{url:'https://nhdapi.com/dl/movie/'+id,name:'NHD',badge:'NEW',desc:'Alternative provider for movies and TV episodes.'},{url:'https://nxsha.space/dl/movie/'+id,name:'Nxsha',badge:'NEW',desc:'Alternative provider for movies and TV episodes.'}]; } else { links=[{url:'https://vidvault.to/tv/'+id+'/'+se.season+'/'+se.episode,name:'VidVault',badge:'POPULAR',desc:'Fast stream provider for movies and TV episodes.'},{url:'https://nhdapi.com/dl/tv/'+id+'/'+se.season+'/'+se.episode,name:'NHD',badge:'NEW',desc:'Alternative provider for movies and TV episodes.'},{url:'https://nxsha.space/dl/tv/'+id+'/'+se.season+'/'+se.episode,name:'Nxsha',badge:'NEW',desc:'Alternative provider for movies and TV episodes.'}]; } return links; },
-  render: function(){ var grid=document.getElementById('mm-dl-grid'); var status=document.getElementById('mm-dl-status'); if(!grid) return; var links=this.getLinks(); var html=''; for(var i=0;i<links.length;i++){ var l=links[i]; html += '<div class="mm-dl-card" onclick="Download.openProvider(\''+l.url+'\',\''+l.name+'\')"><span class="mm-dl-badge '+(l.badge==='POPULAR'?'popular':'new')+'">'+l.badge+'</span><h3>'+l.name+'</h3><p>'+l.desc+'</p></div>'; } grid.innerHTML=html; if(status) status.textContent=''; },
-  openProvider: function(url,name){ try{ window.open(url,'_blank'); var status=document.getElementById('mm-dl-status'); if(status) status.textContent='Opened '+name+' in a new tab.'; }catch(e){} }
+  render: function(){
+    var grid=document.getElementById('mm-dl-grid');
+    var status=document.getElementById('mm-dl-status');
+    if(!grid) { console.warn('dl grid not found'); return; }
+    var links=this.getLinks();
+    var html='';
+    for(var i=0;i<links.length;i++){
+      var l=links[i];
+      var safeUrl = l.url.replace(/'/g, '%27');
+      html += '<a class="dl-card" href="'+safeUrl+'" target="_blank" rel="noopener" onclick="Download.onProviderClick(\''+l.name.replace(/'/g, "\\'")+'\')"><span class="dl-badge '+(l.badge==='POPULAR'?'popular':'new')+'">'+l.badge+'</span><h3>'+l.name+'</h3><p>'+l.desc+'</p></a>';
+    }
+    grid.innerHTML=html;
+    if(status) status.textContent='';
+  },
+  onProviderClick: function(name){
+    try{
+      var status=document.getElementById('mm-dl-status');
+      if(status) status.textContent='Opened '+name+' in a new tab.';
+    }catch(e){}
+  },
+  openProvider: function(url,name){ try{ window.open(url,'_blank','noopener'); this.onProviderClick(name); }catch(e){} }
 };
 
 var Router = {
