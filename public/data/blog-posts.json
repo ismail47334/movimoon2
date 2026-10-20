@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-20T18:06:48.733Z",
+  "updatedAt": "2026-10-20T18:06:57.580Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "303745",
+      "slug": "love-in-disguise-2026-303745",
+      "title": "Love in Disguise (2026) [Hollywood TV]",
+      "displayTitle": "Love in Disguise (2026)",
+      "seoTitle": "Love in Disguise (2026) [Hollywood TV] | MoviMoon",
+      "year": "2026",
+      "rating": "1.0",
+      "genres": "Comedy, Drama, Crime, Action & Adventure",
+      "category": "Hollywood TV",
+      "image": "https://image.tmdb.org/t/p/w342/kSAXIAovLC4z7Wp2Hy8oqLmpkox.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/kSAXIAovLC4z7Wp2Hy8oqLmpkox.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/32g5MD6eHPAZ5NAgkNAURb4eupm.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/love-in-disguise-2026-303745",
+      "watchUrl": "https://movimoon.online/tv/303745-love-in-disguise",
+      "publishedAt": "2026-10-20T18:06:55.847Z",
+      "updatedAt": "2026-10-20T18:06:55.847Z",
+      "overview": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?"
+    },
     {
       "type": "tv",
       "tmdbId": "286298",
