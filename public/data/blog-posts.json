@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-20T18:06:17.033Z",
+  "updatedAt": "2026-10-20T18:06:24.860Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1227241",
+      "slug": "maa-inti-bangaram-2026-1227241",
+      "title": "Maa Inti Bangaram (2026) [Tollywood]",
+      "displayTitle": "Maa Inti Bangaram (2026)",
+      "seoTitle": "Maa Inti Bangaram (2026) [Tollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "6.7",
+      "genres": "Action, Thriller, Drama",
+      "category": "Tollywood",
+      "image": "https://image.tmdb.org/t/p/w342/iSRIxnizjINdc7Dy68HQRkcPSR2.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/iSRIxnizjINdc7Dy68HQRkcPSR2.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/2pA5fvLPZGYR5OukwiRCeliHvNM.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/maa-inti-bangaram-2026-1227241",
+      "watchUrl": "https://movimoon.online/movie/1227241-maa-inti-bangaram",
+      "publishedAt": "2026-10-20T18:06:22.905Z",
+      "updatedAt": "2026-10-20T18:06:22.905Z",
+      "overview": "Through both her moments of fear and bravery, a woman discovers that embracing her vulnerabilities is as vital to her inner strength as facing challenges head-on."
+    },
     {
       "type": "movie",
       "tmdbId": "1057265",
