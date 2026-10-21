@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-21T18:06:56.879Z",
+  "updatedAt": "2026-10-21T18:07:05.534Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "86310",
+      "slug": "radhakrishn-2018-86310",
+      "title": "RadhaKrishn (2018) [Hindi TV]",
+      "displayTitle": "RadhaKrishn (2018)",
+      "seoTitle": "RadhaKrishn (2018) [Hindi TV] | MoviMoon",
+      "year": "2018",
+      "rating": "9.0",
+      "genres": "Drama, Family, Comedy, Action & Adventure, Soap",
+      "category": "Hindi TV",
+      "image": "https://image.tmdb.org/t/p/w342/3SiMmfY0663JmjpAfftmj1h6XGP.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/3SiMmfY0663JmjpAfftmj1h6XGP.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/mP0LywGWY77Qa9rmfWZPJDEGaY2.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/radhakrishn-2018-86310",
+      "watchUrl": "https://movimoon.online/tv/86310-radhakrishn",
+      "publishedAt": "2026-10-21T18:07:03.783Z",
+      "updatedAt": "2026-10-21T18:07:03.783Z",
+      "overview": "The story of Radha and Krishna is the epitome of eternal love, which transcends eras and emotions."
+    },
     {
       "type": "tv",
       "tmdbId": "120911",
