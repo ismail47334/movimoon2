@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-21T18:06:39.903Z",
+  "updatedAt": "2026-10-21T18:06:47.791Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "97072",
+      "slug": "charmsukh-2019-97072",
+      "title": "Charmsukh (2019) [Hindi TV]",
+      "displayTitle": "Charmsukh (2019)",
+      "seoTitle": "Charmsukh (2019) [Hindi TV] | MoviMoon",
+      "year": "2019",
+      "rating": "7.0",
+      "genres": "Drama",
+      "category": "Hindi TV",
+      "image": "https://image.tmdb.org/t/p/w342/6Kt9zIsrtqs1x1XyNFxOeEjlkKB.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/6Kt9zIsrtqs1x1XyNFxOeEjlkKB.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/kgltaSM2QgR5v8ZwjVuHye8peRC.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/charmsukh-2019-97072",
+      "watchUrl": "https://movimoon.online/tv/97072-charmsukh",
+      "publishedAt": "2026-10-21T18:06:46.203Z",
+      "updatedAt": "2026-10-21T18:06:46.203Z",
+      "overview": "Charmsukh is an erotic, drama web-series streamed on ULLU network with each episode having unique storyline."
+    },
     {
       "type": "movie",
       "tmdbId": "1549472",
