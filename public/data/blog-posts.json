@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-21T18:06:13.390Z",
+  "updatedAt": "2026-10-21T18:06:22.351Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1108427",
+      "slug": "moana-2026-1108427",
+      "title": "Moana (2026) [Hollywood]",
+      "displayTitle": "Moana (2026)",
+      "seoTitle": "Moana (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "7.5",
+      "genres": "Family, Fantasy, Comedy, Adventure",
+      "category": "Hollywood",
+      "image": "https://image.tmdb.org/t/p/w342/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/moana-2026-1108427",
+      "watchUrl": "https://movimoon.online/movie/1108427-moana",
+      "publishedAt": "2026-10-21T18:06:20.384Z",
+      "updatedAt": "2026-10-21T18:06:20.384Z",
+      "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people."
+    },
     {
       "type": "movie",
       "tmdbId": "1376856",
