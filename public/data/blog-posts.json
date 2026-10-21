@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-21T12:33:49.243Z",
+  "updatedAt": "2026-10-21T12:33:56.906Z",
   "posts": [
     {
       "type": "tv",
@@ -51,15 +51,15 @@
       "seoTitle": "Knorgel: the movie (2026) [Hollywood] | MoviMoon",
       "year": "2026",
       "rating": "N/A",
-      "genres": "",
+      "genres": "Documentary",
       "category": "Hollywood",
-      "image": "",
-      "poster": "",
-      "backdrop": "",
+      "image": "https://image.tmdb.org/t/p/w342/yY0xzN2AquRQCp03TLU430HIXr8.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/yY0xzN2AquRQCp03TLU430HIXr8.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w342/yY0xzN2AquRQCp03TLU430HIXr8.jpg",
       "url": "https://movimoon.online/blog/movie-posts/knorgel-the-movie-2026-1802743",
       "watchUrl": "https://movimoon.online/movie/1802743-knorgel-the-movie",
       "publishedAt": "2026-10-21T00:50:40.541Z",
-      "updatedAt": "2026-10-21T00:50:40.541Z",
+      "updatedAt": "2026-10-21T12:33:55.409Z",
       "overview": ""
     },
     {
