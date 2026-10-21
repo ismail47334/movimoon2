@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-21T12:34:19.157Z",
+  "updatedAt": "2026-10-21T18:06:13.390Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1376856",
+      "slug": "the-paradise-2026-1376856",
+      "title": "The Paradise (2026) [Tollywood]",
+      "displayTitle": "The Paradise (2026)",
+      "seoTitle": "The Paradise (2026) [Tollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "4.4",
+      "genres": "Action, Drama",
+      "category": "Tollywood",
+      "image": "https://image.tmdb.org/t/p/w342/smghVMoMWSIFi5dgIz4w1UIcEcY.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/smghVMoMWSIFi5dgIz4w1UIcEcY.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/7AcH5TFppoMusNkCBLaQP6UOODp.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/the-paradise-2026-1376856",
+      "watchUrl": "https://movimoon.online/movie/1376856-the-paradise",
+      "publishedAt": "2026-10-21T18:06:10.990Z",
+      "updatedAt": "2026-10-21T18:06:10.990Z",
+      "overview": "In 1980s Secunderabad, a marginalized tribe battles discrimination and fights for citizenship under an unexpected leader's guidance, challenging systemic oppression."
+    },
     {
       "type": "tv",
       "tmdbId": "338649",
