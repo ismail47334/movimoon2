@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-21T18:06:31.374Z",
+  "updatedAt": "2026-10-21T18:06:39.903Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1549472",
+      "slug": "beauty-2025-1549472",
+      "title": "Beauty (2025) [Tollywood]",
+      "displayTitle": "Beauty (2025)",
+      "seoTitle": "Beauty (2025) [Tollywood] | MoviMoon",
+      "year": "2025",
+      "rating": "N/A",
+      "genres": "Family, Romance, Thriller",
+      "category": "Tollywood",
+      "image": "https://image.tmdb.org/t/p/w342/v71YwA416RIqvEMaQYQmY2tCPBV.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/v71YwA416RIqvEMaQYQmY2tCPBV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/rln1AG8C8hBiWvAys8Q0gqMUX7E.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/beauty-2025-1549472",
+      "watchUrl": "https://movimoon.online/movie/1549472-beauty",
+      "publishedAt": "2026-10-21T18:06:38.232Z",
+      "updatedAt": "2026-10-21T18:06:38.232Z",
+      "overview": "A moving and suspenseful tale of a father`s unshakable love. When his daughter suddenly goes missing, his world is turned upside down. What begins as a desperate search soon becomes a gripping journey filled with questions of trust, innocence, and the true meaning of unconditional love. A film that belongs to everyone, Beauty explores a parent`s relentless hope and the lengths they will go to for their child."
+    },
     {
       "type": "movie",
       "tmdbId": "1198654",
