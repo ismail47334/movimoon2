@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-21T00:50:42.403Z",
+  "updatedAt": "2026-10-21T00:50:51.906Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "338818",
+      "slug": "livatino-il-giudice-e-i-suoi-assassini-2026-338818",
+      "title": "Livatino - Il giudice e i suoi assassini (2026) [Hollywood TV]",
+      "displayTitle": "Livatino - Il giudice e i suoi assassini (2026)",
+      "seoTitle": "Livatino - Il giudice e i suoi assassini (2026) [Hollywood TV] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "",
+      "category": "Hollywood TV",
+      "image": "https://image.tmdb.org/t/p/w342/kTBYaXUcWMoXgpOLguOlPBh32xO.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/kTBYaXUcWMoXgpOLguOlPBh32xO.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w342/kTBYaXUcWMoXgpOLguOlPBh32xO.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/livatino-il-giudice-e-i-suoi-assassini-2026-338818",
+      "watchUrl": "https://movimoon.online/tv/338818-livatino-il-giudice-e-i-suoi-assassini",
+      "publishedAt": "2026-10-21T00:50:49.981Z",
+      "updatedAt": "2026-10-21T00:50:49.981Z",
+      "overview": ""
+    },
     {
       "type": "movie",
       "tmdbId": "1802743",
