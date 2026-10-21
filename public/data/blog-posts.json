@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-21T18:06:22.351Z",
+  "updatedAt": "2026-10-21T18:06:31.374Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1198654",
+      "slug": "bad-apples-2026-1198654",
+      "title": "Bad Apples (2026) [Hollywood]",
+      "displayTitle": "Bad Apples (2026)",
+      "seoTitle": "Bad Apples (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "6.5",
+      "genres": "Comedy, Thriller",
+      "category": "Hollywood",
+      "image": "https://image.tmdb.org/t/p/w342/pcPLnxCThCIo9JFQIMFX4kAE5Yz.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/pcPLnxCThCIo9JFQIMFX4kAE5Yz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/ch1g1X6TfezRwbmiBiYRpALTQjN.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/bad-apples-2026-1198654",
+      "watchUrl": "https://movimoon.online/movie/1198654-bad-apples",
+      "publishedAt": "2026-10-21T18:06:29.692Z",
+      "updatedAt": "2026-10-21T18:06:29.692Z",
+      "overview": "A struggling primary school teacher is forced to take drastic action because of a foul-mouthed, violent student, and uncovers how her community will turn a blind eye to the most outrageous events to preserve harmony and their sense of safety."
+    },
     {
       "type": "movie",
       "tmdbId": "1108427",
