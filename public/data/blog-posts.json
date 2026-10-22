@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-22T18:06:59.933Z",
+  "updatedAt": "2026-10-22T18:07:14.074Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1479832",
+      "slug": "dc-2026-1479832",
+      "title": "DC (2026) [Kollywood]",
+      "displayTitle": "DC (2026)",
+      "seoTitle": "DC (2026) [Kollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "7.8",
+      "genres": "Romance, Action, Drama",
+      "category": "Kollywood",
+      "image": "https://image.tmdb.org/t/p/w342/grRYMAxmfk9VHXY30gm6vfiwyoN.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/grRYMAxmfk9VHXY30gm6vfiwyoN.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/v7kqufGRDotShPCw53SM7m8t6oc.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/dc-2026-1479832",
+      "watchUrl": "https://movimoon.online/movie/1479832-dc",
+      "publishedAt": "2026-10-22T18:07:10.893Z",
+      "updatedAt": "2026-10-22T18:07:10.893Z",
+      "overview": "From avenging his mother’s murder to battling police corruption, Das becomes a fugitive after a deadly heist. Amid a trail of bloodshed and loss, he frees Chandra from a life of exploitation, and she gives him a reason to seek a life beyond violence."
+    },
     {
       "type": "movie",
       "tmdbId": "1339713",
