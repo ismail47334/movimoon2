@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-22T18:07:29.789Z",
+  "updatedAt": "2026-10-22T18:07:44.969Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "105248",
+      "slug": "cyberpunk-edgerunners-2022-105248",
+      "title": "Cyberpunk: Edgerunners (2022) [Hollywood TV]",
+      "displayTitle": "Cyberpunk: Edgerunners (2022)",
+      "seoTitle": "Cyberpunk: Edgerunners (2022) [Hollywood TV] | MoviMoon",
+      "year": "2022",
+      "rating": "8.5",
+      "genres": "Animation, Action & Adventure, Sci-Fi & Fantasy, Crime",
+      "category": "Hollywood TV",
+      "image": "https://image.tmdb.org/t/p/w342/v3JuB15WybKmxDeT1hWdK3j6eSJ.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/v3JuB15WybKmxDeT1hWdK3j6eSJ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/3UbHGmu9vIMSC5uNfnGt7DjetqT.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/cyberpunk-edgerunners-2022-105248",
+      "watchUrl": "https://movimoon.online/tv/105248-cyberpunk-edgerunners",
+      "publishedAt": "2026-10-22T18:07:39.863Z",
+      "updatedAt": "2026-10-22T18:07:39.863Z",
+      "overview": "In a dystopia riddled with corruption and cybernetic implants, a talented but reckless street kid strives to become a mercenary outlaw — an edgerunner."
+    },
     {
       "type": "tv",
       "tmdbId": "95480",
