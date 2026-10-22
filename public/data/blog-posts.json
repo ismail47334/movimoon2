@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-22T12:34:09.923Z",
+  "updatedAt": "2026-10-22T18:06:25.642Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1433583",
+      "slug": "the-weight-2026-1433583",
+      "title": "The Weight (2026) [Hollywood]",
+      "displayTitle": "The Weight (2026)",
+      "seoTitle": "The Weight (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "6.8",
+      "genres": "Thriller, Adventure, History, Drama",
+      "category": "Hollywood",
+      "image": "https://image.tmdb.org/t/p/w342/8i5iZV50CoEtmDCFM7RSxCkpE8h.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/8i5iZV50CoEtmDCFM7RSxCkpE8h.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/oQxaPtPdaGEymarp9pVOzwZT11V.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/the-weight-2026-1433583",
+      "watchUrl": "https://movimoon.online/movie/1433583-the-weight",
+      "publishedAt": "2026-10-22T18:06:19.521Z",
+      "updatedAt": "2026-10-22T18:06:19.552Z",
+      "overview": "When Samuel is torn from his daughter and sent to a brutal prison, Warden Clancy offers him a high-stakes proposition: smuggle gold out of a remote mine with a dangerous crew of prisoners and he’ll win his freedom."
+    },
     {
       "type": "tv",
       "tmdbId": "338918",
