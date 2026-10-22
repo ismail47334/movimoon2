@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-22T18:06:44.587Z",
+  "updatedAt": "2026-10-22T18:06:59.933Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1339713",
+      "slug": "obsession-2026-1339713",
+      "title": "Obsession (2026) [Hollywood]",
+      "displayTitle": "Obsession (2026)",
+      "seoTitle": "Obsession (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "8.2",
+      "genres": "Horror, Thriller",
+      "category": "Hollywood",
+      "image": "https://image.tmdb.org/t/p/w342/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/obsession-2026-1339713",
+      "watchUrl": "https://movimoon.online/movie/1339713-obsession",
+      "publishedAt": "2026-10-22T18:06:55.889Z",
+      "updatedAt": "2026-10-22T18:06:55.889Z",
+      "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price."
+    },
     {
       "type": "movie",
       "tmdbId": "1441228",
