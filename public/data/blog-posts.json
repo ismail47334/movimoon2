@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-23T12:33:45.311Z",
+  "updatedAt": "2026-10-23T12:33:52.807Z",
   "posts": [
     {
       "type": "tv",
@@ -51,16 +51,16 @@
       "seoTitle": "The Mentor (2026) [Hollywood] | MoviMoon",
       "year": "2026",
       "rating": "N/A",
-      "genres": "",
+      "genres": "Drama",
       "category": "Hollywood",
-      "image": "",
-      "poster": "",
-      "backdrop": "",
+      "image": "https://image.tmdb.org/t/p/w342/1Jq45obOsTosHGMmFjfwFbT6Gzx.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/1Jq45obOsTosHGMmFjfwFbT6Gzx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/RguBTFp4nhJNX53Go46lS7sZFn.jpg",
       "url": "https://movimoon.online/blog/movie-posts/the-mentor-2026-1804437",
       "watchUrl": "https://movimoon.online/movie/1804437-the-mentor",
       "publishedAt": "2026-10-23T00:50:35.606Z",
-      "updatedAt": "2026-10-23T00:50:35.607Z",
-      "overview": ""
+      "updatedAt": "2026-10-23T12:33:51.232Z",
+      "overview": "She wants to forget her past but her new boss forces her to remember. Krissy, fresh out of prison, gets hired by a strict CEO named Portia. Soon, the mentorship turns into a game of revenge."
     },
     {
       "type": "movie",
