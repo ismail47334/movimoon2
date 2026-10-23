@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-23T18:07:09.734Z",
+  "updatedAt": "2026-10-23T18:08:02.001Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1780005",
+      "slug": "surviving-hurricane-otis-2026-1780005",
+      "title": "Surviving Hurricane Otis (2026) [Hollywood]",
+      "displayTitle": "Surviving Hurricane Otis (2026)",
+      "seoTitle": "Surviving Hurricane Otis (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "Drama",
+      "category": "Hollywood",
+      "image": "https://image.tmdb.org/t/p/w342/tW3etvnzQjRSCnRb8e1fDAvt6S6.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/tW3etvnzQjRSCnRb8e1fDAvt6S6.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/cpNMIRCrDl0sxDL1tHBzfWi0UZC.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/surviving-hurricane-otis-2026-1780005",
+      "watchUrl": "https://movimoon.online/movie/1780005-surviving-hurricane-otis",
+      "publishedAt": "2026-10-23T18:07:52.698Z",
+      "updatedAt": "2026-10-23T18:07:52.698Z",
+      "overview": "In the middle of the sea, Wirpul and his half-brother Candi fight for survival when an unexpected storm turns into Hurricane Otis, a category 5 hurricane, off the coast of Acapulco."
+    },
     {
       "type": "movie",
       "tmdbId": "1505644",
