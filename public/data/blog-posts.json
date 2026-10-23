@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-23T12:33:52.807Z",
+  "updatedAt": "2026-10-23T12:34:00.650Z",
   "posts": [
     {
       "type": "tv",
@@ -73,14 +73,14 @@
       "rating": "N/A",
       "genres": "",
       "category": "Hollywood",
-      "image": "",
-      "poster": "",
-      "backdrop": "",
+      "image": "https://image.tmdb.org/t/p/w342/ooRFtqh8SxpwTg5eRXrdZlwQ1QC.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/ooRFtqh8SxpwTg5eRXrdZlwQ1QC.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w342/ooRFtqh8SxpwTg5eRXrdZlwQ1QC.jpg",
       "url": "https://movimoon.online/blog/movie-posts/killer-card-2026-1804639",
       "watchUrl": "https://movimoon.online/movie/1804639-killer-card",
       "publishedAt": "2026-10-23T00:50:28.476Z",
-      "updatedAt": "2026-10-23T00:50:28.476Z",
-      "overview": ""
+      "updatedAt": "2026-10-23T12:33:59.210Z",
+      "overview": "A former addict fighting for a new life is pulled back into darkness when a shadowy manipulator targets her deepest fears. As a mysterious card triggers a chain of psychological horrors, Elisa must confront her past before it destroys everything she's built."
     },
     {
       "type": "tv",
