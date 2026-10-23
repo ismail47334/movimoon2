@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-23T18:09:04.532Z",
+  "updatedAt": "2026-10-23T18:09:33.449Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "96677",
+      "slug": "lupin-2021-96677",
+      "title": "Lupin (2021) [Hollywood TV]",
+      "displayTitle": "Lupin (2021)",
+      "seoTitle": "Lupin (2021) [Hollywood TV] | MoviMoon",
+      "year": "2021",
+      "rating": "7.7",
+      "genres": "Crime, Drama, Mystery",
+      "category": "Hollywood TV",
+      "image": "https://image.tmdb.org/t/p/w342/h6Z2oogE4mJk2uffdtIlLhb0EHx.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/h6Z2oogE4mJk2uffdtIlLhb0EHx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/aY7zv2pfk9H0QxaaL3PBjvalbKQ.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/lupin-2021-96677",
+      "watchUrl": "https://movimoon.online/tv/96677-lupin",
+      "publishedAt": "2026-10-23T18:09:28.653Z",
+      "updatedAt": "2026-10-23T18:09:28.653Z",
+      "overview": "Inspired by the adventures of Arsène Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family."
+    },
     {
       "type": "movie",
       "tmdbId": "1484913",
