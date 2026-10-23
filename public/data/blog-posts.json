@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-23T18:08:38.945Z",
+  "updatedAt": "2026-10-23T18:09:04.532Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1484913",
+      "slug": "ikka-2026-1484913",
+      "title": "Ikka (2026) [Bollywood]",
+      "displayTitle": "Ikka (2026)",
+      "seoTitle": "Ikka (2026) [Bollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "5.6",
+      "genres": "Drama, Thriller",
+      "category": "Bollywood",
+      "image": "https://image.tmdb.org/t/p/w342/fp5EAKE8nTx402n1fWz55QsuYY9.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/fp5EAKE8nTx402n1fWz55QsuYY9.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/uy16Ktm9blPb1DAoN6h5MwlBJ6V.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/ikka-2026-1484913",
+      "watchUrl": "https://movimoon.online/movie/1484913-ikka",
+      "publishedAt": "2026-10-23T18:09:01.288Z",
+      "updatedAt": "2026-10-23T18:09:01.288Z",
+      "overview": "With a loved one's life at stake, a celebrated lawyer must defend a man he suspects is guilty — battling his conscience every step of the way."
+    },
     {
       "type": "movie",
       "tmdbId": "1422041",
