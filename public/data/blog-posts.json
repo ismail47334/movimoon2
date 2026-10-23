@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-23T12:34:08.685Z",
+  "updatedAt": "2026-10-23T18:07:09.734Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1505644",
+      "slug": "ene-repeat-2026-1505644",
+      "title": "ENE Repeat (2026) [Tollywood]",
+      "displayTitle": "ENE Repeat (2026)",
+      "seoTitle": "ENE Repeat (2026) [Tollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "Comedy, Drama",
+      "category": "Tollywood",
+      "image": "https://image.tmdb.org/t/p/w342/qMBlRfQNusaUhhBAIcHmforVTW5.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/qMBlRfQNusaUhhBAIcHmforVTW5.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/ygh5XRm9EmEUsBpBPNHnVGmxcSl.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/ene-repeat-2026-1505644",
+      "watchUrl": "https://movimoon.online/movie/1505644-ene-repeat",
+      "publishedAt": "2026-10-23T18:07:00.329Z",
+      "updatedAt": "2026-10-23T18:07:00.569Z",
+      "overview": "A close-knit group of friends embark on another unforgettable journey, where old memories, new adventures, and unexpected twists test their friendship."
+    },
     {
       "type": "tv",
       "tmdbId": "339334",
