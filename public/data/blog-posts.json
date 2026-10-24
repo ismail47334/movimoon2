@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-24T12:33:48.806Z",
+  "updatedAt": "2026-10-24T12:33:57.156Z",
   "posts": [
     {
       "type": "tv",
@@ -53,13 +53,13 @@
       "rating": "N/A",
       "genres": "",
       "category": "Hollywood",
-      "image": "",
-      "poster": "",
-      "backdrop": "",
+      "image": "https://image.tmdb.org/t/p/w342/pbHSxgNChgLQw8QYqoCpJnZFDg0.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/pbHSxgNChgLQw8QYqoCpJnZFDg0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/ppJo5fQTzyz2QMDYPSrai7wU0U7.jpg",
       "url": "https://movimoon.online/blog/movie-posts/chura-vita-2026-1805742",
       "watchUrl": "https://movimoon.online/movie/1805742-chura-vita",
       "publishedAt": "2026-10-24T00:50:36.130Z",
-      "updatedAt": "2026-10-24T00:50:36.130Z",
+      "updatedAt": "2026-10-24T12:33:55.563Z",
       "overview": "Seeking the secret of Okinawa’s legendary longevity, Swedish traveler Nicolina Svensen arrives on the famed Blue Zone island and discovers a culture caught between past and present, where ancestral foodways, sacred rituals, and handcrafts are quietly disappearing."
     },
     {
