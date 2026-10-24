@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-24T18:06:33.586Z",
+  "updatedAt": "2026-10-24T18:06:41.083Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "335535",
+      "slug": "fading-grandeur-2026-335535",
+      "title": "Fading Grandeur (2026) [Hollywood TV]",
+      "displayTitle": "Fading Grandeur (2026)",
+      "seoTitle": "Fading Grandeur (2026) [Hollywood TV] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "Comedy, Drama",
+      "category": "Hollywood TV",
+      "image": "https://image.tmdb.org/t/p/w342/4AUgc7JhcLQHNzoa1l0jwxBdK0.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/4AUgc7JhcLQHNzoa1l0jwxBdK0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/fyuUkmbcTqH0NEgywaLlsYL720K.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/fading-grandeur-2026-335535",
+      "watchUrl": "https://movimoon.online/tv/335535-fading-grandeur",
+      "publishedAt": "2026-10-24T18:06:39.570Z",
+      "updatedAt": "2026-10-24T18:06:39.570Z",
+      "overview": "Desperate to sell his crumbling mansion, a fallen marquis tries to make a quick deal with a charming yet mysterious millionaire who has her own agenda."
+    },
     {
       "type": "movie",
       "tmdbId": "1122030",
