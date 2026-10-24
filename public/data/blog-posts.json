@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-24T12:33:57.156Z",
+  "updatedAt": "2026-10-24T12:34:06.554Z",
   "posts": [
     {
       "type": "tv",
@@ -71,16 +71,16 @@
       "seoTitle": "Image Interjections (2026) [Hollywood] | MoviMoon",
       "year": "2026",
       "rating": "N/A",
-      "genres": "",
+      "genres": "Documentary",
       "category": "Hollywood",
-      "image": "",
-      "poster": "",
-      "backdrop": "",
+      "image": "https://image.tmdb.org/t/p/w342/zr8TQVMQ12uy5z1pT1xeKSXbYIi.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/zr8TQVMQ12uy5z1pT1xeKSXbYIi.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w342/zr8TQVMQ12uy5z1pT1xeKSXbYIi.jpg",
       "url": "https://movimoon.online/blog/movie-posts/image-interjections-2026-1805747",
       "watchUrl": "https://movimoon.online/movie/1805747-image-interjections",
       "publishedAt": "2026-10-24T00:50:28.694Z",
-      "updatedAt": "2026-10-24T00:50:28.694Z",
-      "overview": ""
+      "updatedAt": "2026-10-24T12:34:04.803Z",
+      "overview": "A short collection of spontaneous images and sounds merged in one film."
     },
     {
       "type": "tv",
