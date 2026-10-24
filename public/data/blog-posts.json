@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-24T18:06:41.083Z",
+  "updatedAt": "2026-10-24T18:06:48.754Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "314360",
+      "slug": "yaga-2026-314360",
+      "title": "YAGA (2026) [Hollywood TV]",
+      "displayTitle": "YAGA (2026)",
+      "seoTitle": "YAGA (2026) [Hollywood TV] | MoviMoon",
+      "year": "2026",
+      "rating": "6.6",
+      "genres": "Drama, Sci-Fi & Fantasy",
+      "category": "Hollywood TV",
+      "image": "https://image.tmdb.org/t/p/w342/kp8xgZ8SrikHQrPn2lC3hb50KD5.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/kp8xgZ8SrikHQrPn2lC3hb50KD5.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/owhTL4n2r9ryfxyYlhHKt97ogVk.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/yaga-2026-314360",
+      "watchUrl": "https://movimoon.online/tv/314360-yaga",
+      "publishedAt": "2026-10-24T18:06:47.359Z",
+      "updatedAt": "2026-10-24T18:06:47.359Z",
+      "overview": "While a private investigator probes the disappearance of the young heir to a powerful fishery, he finds himself at odds with an apprehensive local detective, a charismatic university professor with a taste for younger men, and a labyrinth of enigmatic suspects, secret lives, and ancient magic."
+    },
     {
       "type": "tv",
       "tmdbId": "335535",
