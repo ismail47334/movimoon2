@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-24T00:50:45.206Z",
+  "updatedAt": "2026-10-24T00:50:52.460Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "338687",
+      "slug": "tamil-idol-2026-338687",
+      "title": "Tamil Idol (2026) [Hollywood TV]",
+      "displayTitle": "Tamil Idol (2026)",
+      "seoTitle": "Tamil Idol (2026) [Hollywood TV] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "Reality",
+      "category": "Hollywood TV",
+      "image": "https://image.tmdb.org/t/p/w342/4dtXBFsnNP9MGUmTOkluPMbq5T8.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/4dtXBFsnNP9MGUmTOkluPMbq5T8.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/oyqK7IS6V4aqzqX48nblRp1vopQ.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/tamil-idol-2026-338687",
+      "watchUrl": "https://movimoon.online/tv/338687-tamil-idol",
+      "publishedAt": "2026-10-24T00:50:50.967Z",
+      "updatedAt": "2026-10-24T00:50:50.967Z",
+      "overview": "Tamil Idol is coming soon on Sony LIV, bringing fresh talent, music, and unforgettable performances to your screens."
+    },
     {
       "type": "tv",
       "tmdbId": "338873",
