@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-24T18:06:48.754Z",
+  "updatedAt": "2026-10-24T18:06:56.787Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "316702",
+      "slug": "final-table-2026-316702",
+      "title": "Final Table (2026) [Hollywood TV]",
+      "displayTitle": "Final Table (2026)",
+      "seoTitle": "Final Table (2026) [Hollywood TV] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "Drama",
+      "category": "Hollywood TV",
+      "image": "https://image.tmdb.org/t/p/w342/uaMjtALuvZC7dGkYllGKKWEWW1J.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/uaMjtALuvZC7dGkYllGKKWEWW1J.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/anwMEnTDkhv5qJ8wXSRieCvFHGs.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/final-table-2026-316702",
+      "watchUrl": "https://movimoon.online/tv/316702-final-table",
+      "publishedAt": "2026-10-24T18:06:55.419Z",
+      "updatedAt": "2026-10-24T18:06:55.419Z",
+      "overview": "The Table: K-Chef 2026 brings together Korea's top chefs to compete for the title of the country's best chef. Mysterious world-renowned chef Chris K., also known as Kang Han, Song-yi, who is fighting to save her restaurant, perfectionist star chef Woo-jin, and chefs with stories of their own face off in a fierce culinary battle. More than a competition, they find comfort in food and one another."
+    },
     {
       "type": "tv",
       "tmdbId": "314360",
