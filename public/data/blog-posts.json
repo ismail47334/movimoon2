@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-24T00:50:30.270Z",
+  "updatedAt": "2026-10-24T00:50:37.657Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1805742",
+      "slug": "chura-vita-2026-1805742",
+      "title": "Chura Vita (2026) [Hollywood]",
+      "displayTitle": "Chura Vita (2026)",
+      "seoTitle": "Chura Vita (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "",
+      "category": "Hollywood",
+      "image": "",
+      "poster": "",
+      "backdrop": "",
+      "url": "https://movimoon.online/blog/movie-posts/chura-vita-2026-1805742",
+      "watchUrl": "https://movimoon.online/movie/1805742-chura-vita",
+      "publishedAt": "2026-10-24T00:50:36.130Z",
+      "updatedAt": "2026-10-24T00:50:36.130Z",
+      "overview": "Seeking the secret of Okinawa’s legendary longevity, Swedish traveler Nicolina Svensen arrives on the famed Blue Zone island and discovers a culture caught between past and present, where ancestral foodways, sacred rituals, and handcrafts are quietly disappearing."
+    },
     {
       "type": "movie",
       "tmdbId": "1805747",
