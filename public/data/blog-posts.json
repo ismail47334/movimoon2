@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-24T12:34:15.338Z",
+  "updatedAt": "2026-10-24T18:06:10.490Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1371730",
+      "slug": "love-language-2026-1371730",
+      "title": "Love Language (2026) [Hollywood]",
+      "displayTitle": "Love Language (2026)",
+      "seoTitle": "Love Language (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "10.0",
+      "genres": "Romance, Comedy",
+      "category": "Hollywood",
+      "image": "https://image.tmdb.org/t/p/w342/sCQde3BSMpDgA1qpE0zzboFdwl0.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/sCQde3BSMpDgA1qpE0zzboFdwl0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/2reWDfgqvrUmA05y6UCKb2UXNvP.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/love-language-2026-1371730",
+      "watchUrl": "https://movimoon.online/movie/1371730-love-language",
+      "publishedAt": "2026-10-24T18:06:08.795Z",
+      "updatedAt": "2026-10-24T18:06:08.795Z",
+      "overview": "Following a failed engagement, Lou discovers she has a talent for writing other people’s wedding vows. Word spreads across Chicago’s wedding scene and Lou’s services are in high demand. She even has a new admirer in Dash. But everything changes when she’s asked to write vows for Olivia, who’s marrying Warren, Lou’s old college flame."
+    },
     {
       "type": "tv",
       "tmdbId": "338687",
