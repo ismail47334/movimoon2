@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-24T00:50:37.657Z",
+  "updatedAt": "2026-10-24T00:50:45.206Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "338873",
+      "slug": "the-hr-of-superpowered-individuals-2026-338873",
+      "title": "The HR of Superpowered Individuals (2026) [Hollywood TV]",
+      "displayTitle": "The HR of Superpowered Individuals (2026)",
+      "seoTitle": "The HR of Superpowered Individuals (2026) [Hollywood TV] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "Sci-Fi & Fantasy, Action & Adventure, Comedy",
+      "category": "Hollywood TV",
+      "image": "https://image.tmdb.org/t/p/w342/qbkmYbG2t9owWHEZsoy7jlWOnVo.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/qbkmYbG2t9owWHEZsoy7jlWOnVo.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/3rXRWXTFRUH87dlx0uffQoEMCn5.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/the-hr-of-superpowered-individuals-2026-338873",
+      "watchUrl": "https://movimoon.online/tv/338873-the-hr-of-superpowered-individuals",
+      "publishedAt": "2026-10-24T00:50:43.566Z",
+      "updatedAt": "2026-10-24T00:50:43.566Z",
+      "overview": "In a world where being Super-powered determines your worth, a powerless HR tries to manage a team of Super-powered Individuals in the city."
+    },
     {
       "type": "movie",
       "tmdbId": "1805742",
