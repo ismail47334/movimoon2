@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-24T18:06:18.463Z",
+  "updatedAt": "2026-10-24T18:06:26.096Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1477104",
+      "slug": "shaun-the-sheep-the-beast-of-mossy-bottom-2026-1477104",
+      "title": "Shaun the Sheep: The Beast of Mossy Bottom (2026) [Hollywood]",
+      "displayTitle": "Shaun the Sheep: The Beast of Mossy Bottom (2026)",
+      "seoTitle": "Shaun the Sheep: The Beast of Mossy Bottom (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "7.4",
+      "genres": "Animation, Science Fiction, Comedy",
+      "category": "Hollywood",
+      "image": "https://image.tmdb.org/t/p/w342/mMOptSPBVGUA9GHgnpsC35GzZ7e.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/mMOptSPBVGUA9GHgnpsC35GzZ7e.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/mG8tVv1RPAKnARWxKTND5dRgMpw.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/shaun-the-sheep-the-beast-of-mossy-bottom-2026-1477104",
+      "watchUrl": "https://movimoon.online/movie/1477104-shaun-the-sheep-the-beast-of-mossy-bottom",
+      "publishedAt": "2026-10-24T18:06:24.608Z",
+      "updatedAt": "2026-10-24T18:06:24.608Z",
+      "overview": "On Halloween Eve at Mossy Bottom Farm, excitement turns to dismay when the clumsy Farmer ruins the pumpkin patch. Shaun tries fixing it with science experiments, but things go awry when a wild beast appears in the woods."
+    },
     {
       "type": "movie",
       "tmdbId": "1003596",
