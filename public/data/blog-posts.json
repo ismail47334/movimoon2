@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-24T18:06:10.490Z",
+  "updatedAt": "2026-10-24T18:06:18.463Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1003596",
+      "slug": "avengers-doomsday-2026-1003596",
+      "title": "Avengers: Doomsday (2026) [Hollywood]",
+      "displayTitle": "Avengers: Doomsday (2026)",
+      "seoTitle": "Avengers: Doomsday (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "Science Fiction, Action, Adventure",
+      "category": "Hollywood",
+      "image": "https://image.tmdb.org/t/p/w342/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/xaA2vNo563CwmchBWztkAYRf86Y.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/avengers-doomsday-2026-1003596",
+      "watchUrl": "https://movimoon.online/movie/1003596-avengers-doomsday",
+      "publishedAt": "2026-10-24T18:06:16.972Z",
+      "updatedAt": "2026-10-24T18:06:16.972Z",
+      "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered."
+    },
     {
       "type": "movie",
       "tmdbId": "1371730",
