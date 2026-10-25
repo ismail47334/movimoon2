@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T18:06:17.345Z",
+  "updatedAt": "2026-10-25T18:06:24.732Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1515692",
+      "slug": "baththa-2026-1515692",
+      "title": "Baththa (2026) [Kollywood]",
+      "displayTitle": "Baththa (2026)",
+      "seoTitle": "Baththa (2026) [Kollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "8.2",
+      "genres": "Drama, Comedy, Action",
+      "category": "Kollywood",
+      "image": "https://image.tmdb.org/t/p/w342/Ag59cmNNXCcKIBYdlmZ9HqPH9zG.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/Ag59cmNNXCcKIBYdlmZ9HqPH9zG.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/xrAtBSFEYzcRRB5kOvtICSuOrok.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/baththa-2026-1515692",
+      "watchUrl": "https://movimoon.online/movie/1515692-baththa",
+      "publishedAt": "2026-10-25T18:06:23.280Z",
+      "updatedAt": "2026-10-25T18:06:23.280Z",
+      "overview": "In 1986 Madras, a timid eight-year-old boy accidentally traps a feared gangster inside a deserted school toilet. As the gangster is forced to confront hunger, loneliness and his own vulnerability, an unlikely bond begins to grow between the two, changing their lives forever."
+    },
     {
       "type": "movie",
       "tmdbId": "791523",
