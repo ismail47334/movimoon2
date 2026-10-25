@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T18:06:47.044Z",
+  "updatedAt": "2026-10-25T18:06:54.445Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "203769",
+      "slug": "pushpa-impossible-2022-203769",
+      "title": "Pushpa Impossible (2022) [Hindi TV]",
+      "displayTitle": "Pushpa Impossible (2022)",
+      "seoTitle": "Pushpa Impossible (2022) [Hindi TV] | MoviMoon",
+      "year": "2022",
+      "rating": "7.0",
+      "genres": "Family, Drama, Comedy",
+      "category": "Hindi TV",
+      "image": "https://image.tmdb.org/t/p/w342/jInpgPiN2KnTFAu2mtIbFJtFp7A.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/jInpgPiN2KnTFAu2mtIbFJtFp7A.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/4vw2auyqSnxlXRb0NP1Z3nZ59TP.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/pushpa-impossible-2022-203769",
+      "watchUrl": "https://movimoon.online/tv/203769-pushpa-impossible",
+      "publishedAt": "2026-10-25T18:06:53.130Z",
+      "updatedAt": "2026-10-25T18:06:53.130Z",
+      "overview": "Pushpa Impossible is the story about a feisty middle-aged woman having studied until grade 9 in a Gujarati medium school and going back to school at the age of 44! She is boisterous, uncouth, impulsive, hardworking and an endearingly loveable mother of three children. She is Pushpa Patel hailing from a small town Patan in Gujarat and now residing at Bapodra Chawl in Mumbai. The show is a peek into her day-to-day struggles, her small victories, her Juggad, her shortcomings, and her constant pursuit of living a good life while struggling as a full-time mother and part-time businesswoman. The show is an autobiography of a mother, who decides to go back to school and change her life by impacting many lives!"
+    },
     {
       "type": "tv",
       "tmdbId": "8745",
