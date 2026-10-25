@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T00:50:33.064Z",
+  "updatedAt": "2026-10-25T00:50:45.450Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1806702",
+      "slug": "a-women-s-court-2026-1806702",
+      "title": "A Women’s Court (2026) [Hollywood]",
+      "displayTitle": "A Women’s Court (2026)",
+      "seoTitle": "A Women’s Court (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "Documentary",
+      "category": "Hollywood",
+      "image": "https://image.tmdb.org/t/p/w342/q9jRrPAuTPFkXJlnzPkTmcg9D7E.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/q9jRrPAuTPFkXJlnzPkTmcg9D7E.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w342/q9jRrPAuTPFkXJlnzPkTmcg9D7E.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/a-women-s-court-2026-1806702",
+      "watchUrl": "https://movimoon.online/movie/1806702-a-women-s-court",
+      "publishedAt": "2026-10-25T00:50:42.931Z",
+      "updatedAt": "2026-10-25T00:50:42.931Z",
+      "overview": "The documentary follows women who gather in Nari Adalats in rural Bihar to address conflicts within their communities. Many once came here with their own disputes and now return to listen and help work things out. The film stays with the Adalat as a space where women sit, listen, question, and mediate in sometimes brutal cases. What emerges is not a fixed idea of justice, but something shaped slowly, collectively, and without clear closure."
+    },
     {
       "type": "movie",
       "tmdbId": "1806747",
