@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-24T18:06:56.787Z",
+  "updatedAt": "2026-10-25T00:50:33.064Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1806747",
+      "slug": "ramu-irama-2026-1806747",
+      "title": "Ramu Irama (2026) [Hollywood]",
+      "displayTitle": "Ramu Irama (2026)",
+      "seoTitle": "Ramu Irama (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "",
+      "category": "Hollywood",
+      "image": "",
+      "poster": "",
+      "backdrop": "",
+      "url": "https://movimoon.online/blog/movie-posts/ramu-irama-2026-1806747",
+      "watchUrl": "https://movimoon.online/movie/1806747-ramu-irama",
+      "publishedAt": "2026-10-25T00:50:30.494Z",
+      "updatedAt": "2026-10-25T00:50:30.494Z",
+      "overview": ""
+    },
     {
       "type": "tv",
       "tmdbId": "316702",
