@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T18:06:09.443Z",
+  "updatedAt": "2026-10-25T18:06:17.345Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "791523",
+      "slug": "wildwood-2026-791523",
+      "title": "Wildwood (2026) [Hollywood]",
+      "displayTitle": "Wildwood (2026)",
+      "seoTitle": "Wildwood (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "8.8",
+      "genres": "Animation, Adventure, Fantasy",
+      "category": "Hollywood",
+      "image": "https://image.tmdb.org/t/p/w342/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/wildwood-2026-791523",
+      "watchUrl": "https://movimoon.online/movie/791523-wildwood",
+      "publishedAt": "2026-10-25T18:06:15.738Z",
+      "updatedAt": "2026-10-25T18:06:15.738Z",
+      "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue's abducted baby brother from a murder of crows led by a mysterious woman named Alexandra."
+    },
     {
       "type": "movie",
       "tmdbId": "1290418",
