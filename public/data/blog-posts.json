@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T12:34:03.621Z",
+  "updatedAt": "2026-10-25T12:34:14.032Z",
   "posts": [
     {
       "type": "tv",
@@ -66,21 +66,21 @@
       "type": "movie",
       "tmdbId": "1806747",
       "slug": "ramu-irama-2026-1806747",
-      "title": "Ramu Irama (2026) [Hollywood]",
-      "displayTitle": "Ramu Irama (2026)",
-      "seoTitle": "Ramu Irama (2026) [Hollywood] | MoviMoon",
+      "title": "The Creator (2026) [Hollywood]",
+      "displayTitle": "The Creator (2026)",
+      "seoTitle": "The Creator (2026) [Hollywood] | MoviMoon",
       "year": "2026",
       "rating": "N/A",
-      "genres": "",
+      "genres": "Documentary",
       "category": "Hollywood",
-      "image": "",
-      "poster": "",
-      "backdrop": "",
+      "image": "https://image.tmdb.org/t/p/w342/8LwBvJULXYNp4xhP2Cx35i2yQK0.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/8LwBvJULXYNp4xhP2Cx35i2yQK0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w342/8LwBvJULXYNp4xhP2Cx35i2yQK0.jpg",
       "url": "https://movimoon.online/blog/movie-posts/ramu-irama-2026-1806747",
-      "watchUrl": "https://movimoon.online/movie/1806747-ramu-irama",
+      "watchUrl": "https://movimoon.online/movie/1806747-the-creator",
       "publishedAt": "2026-10-25T00:50:30.494Z",
-      "updatedAt": "2026-10-25T00:50:30.494Z",
-      "overview": ""
+      "updatedAt": "2026-10-25T12:34:12.169Z",
+      "overview": "For the Sasak indigenous People community, Cilokaq is not merely a form of entertainment, but a space for expression and identity-building that enjoyed great success during the VCD era; as a second-generation member of the Cilokaq Slemor Ate Jelantik group, Ojan utilises the digital space to revive this traditional music in its purest form amidst a modern industry landscape dictated by social media algorithms and artificial intelligence (AI)."
     },
     {
       "type": "tv",
