@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T18:06:24.732Z",
+  "updatedAt": "2026-10-25T18:06:31.776Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1453407",
+      "slug": "gajab-raat-2026-1453407",
+      "title": "Gajab Raat (2026) [Bollywood]",
+      "displayTitle": "Gajab Raat (2026)",
+      "seoTitle": "Gajab Raat (2026) [Bollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "5.9",
+      "genres": "Thriller, Crime",
+      "category": "Bollywood",
+      "image": "https://image.tmdb.org/t/p/w342/e4N7M52cBbyi24xLga8yI6yt1u1.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/e4N7M52cBbyi24xLga8yI6yt1u1.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/8I4YFWgi9IZW4VUi398A0BqLnm.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/gajab-raat-2026-1453407",
+      "watchUrl": "https://movimoon.online/movie/1453407-gajab-raat",
+      "publishedAt": "2026-10-25T18:06:30.446Z",
+      "updatedAt": "2026-10-25T18:06:30.446Z",
+      "overview": "A corrupt, troubled cop's night spirals out of control when a reluctant act of mercy toward an injured girl pulls him into a deadly web of crime."
+    },
     {
       "type": "movie",
       "tmdbId": "1515692",
