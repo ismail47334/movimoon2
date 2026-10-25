@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T12:34:24.754Z",
+  "updatedAt": "2026-10-25T18:06:09.443Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1290418",
+      "slug": "the-cycle-2026-1290418",
+      "title": "The Cycle (2026) [Hollywood]",
+      "displayTitle": "The Cycle (2026)",
+      "seoTitle": "The Cycle (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "7.6",
+      "genres": "Crime, Horror, Thriller",
+      "category": "Hollywood",
+      "image": "https://image.tmdb.org/t/p/w342/rHCbyKrFNcec8h7RAW0h1eUgcat.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/rHCbyKrFNcec8h7RAW0h1eUgcat.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/bgHW6AJl2SdKzxglvf9tshXbI84.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/the-cycle-2026-1290418",
+      "watchUrl": "https://movimoon.online/movie/1290418-the-cycle",
+      "publishedAt": "2026-10-25T18:06:07.749Z",
+      "updatedAt": "2026-10-25T18:06:07.834Z",
+      "overview": "A daughter unravels her father's dark past after his body, missing for 36 years, is found at a horrific crime scene."
+    },
     {
       "type": "tv",
       "tmdbId": "338641",
