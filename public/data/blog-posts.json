@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-26T00:50:30.681Z",
+  "updatedAt": "2026-10-26T00:50:38.625Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1807077",
+      "slug": "-2026-1807077",
+      "title": "??? (2026) [Hollywood]",
+      "displayTitle": "??? (2026)",
+      "seoTitle": "??? (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "8.3",
+      "genres": "Horror",
+      "category": "Hollywood",
+      "image": "https://image.tmdb.org/t/p/w342/jPKsZuRkPS6FNNDSsth27PLqZwb.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/jPKsZuRkPS6FNNDSsth27PLqZwb.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/46G8seEgU8QfIC9GMO8on1gyUkr.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/-2026-1807077",
+      "watchUrl": "https://movimoon.online/movie/1807077-",
+      "publishedAt": "2026-10-26T00:50:37.019Z",
+      "updatedAt": "2026-10-26T00:50:37.019Z",
+      "overview": "Amidst a sudden power outage at night in Lechería, Mauricio records in the dark, struggling with the frustration of flickering lights and failed phone calls. Between swearing at the darkness and trying to keep his cool, he gives an update about local pranksters pulling Halloween tricks around houses. However, the tense atmosphere quickly escalates when the lights start blinking strangely. After reviewing some video clips in the dark, Mauricio completely freaks out, ending in a chaotic meltdown of absolute panic."
+    },
     {
       "type": "movie",
       "tmdbId": "1807573",
