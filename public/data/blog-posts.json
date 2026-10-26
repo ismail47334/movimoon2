@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-26T18:06:13.436Z",
+  "updatedAt": "2026-10-26T18:06:24.691Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1375156",
+      "slug": "udta-teer-2026-1375156",
+      "title": "Udta Teer (2026) [Bollywood]",
+      "displayTitle": "Udta Teer (2026)",
+      "seoTitle": "Udta Teer (2026) [Bollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "7.5",
+      "genres": "Comedy, Action",
+      "category": "Bollywood",
+      "image": "https://image.tmdb.org/t/p/w342/tvICKypVlW7Iio4KVs7NousbSKi.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/tvICKypVlW7Iio4KVs7NousbSKi.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/ncVecUcDZe1EOWtHaU2f8BFvbx4.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/udta-teer-2026-1375156",
+      "watchUrl": "https://movimoon.online/movie/1375156-udta-teer",
+      "publishedAt": "2026-10-26T18:06:21.425Z",
+      "updatedAt": "2026-10-26T18:06:21.425Z",
+      "overview": "An amnesiac Pakistani spy wakes up believing he is a patriotic Indian counter-terrorism officer."
+    },
     {
       "type": "movie",
       "tmdbId": "1384216",
