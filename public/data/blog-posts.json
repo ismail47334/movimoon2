@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-26T12:33:51.542Z",
+  "updatedAt": "2026-10-26T12:34:04.032Z",
   "posts": [
     {
       "type": "tv",
@@ -71,16 +71,16 @@
       "seoTitle": "Chirp (2026) [Hollywood] | MoviMoon",
       "year": "2026",
       "rating": "N/A",
-      "genres": "",
+      "genres": "Horror",
       "category": "Hollywood",
-      "image": "",
-      "poster": "",
-      "backdrop": "",
+      "image": "https://image.tmdb.org/t/p/w342/ilogxPyfaVFpFxRE72tLrLHjzxR.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/ilogxPyfaVFpFxRE72tLrLHjzxR.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w342/ilogxPyfaVFpFxRE72tLrLHjzxR.jpg",
       "url": "https://movimoon.online/blog/movie-posts/chirp-2026-1807573",
       "watchUrl": "https://movimoon.online/movie/1807573-chirp",
       "publishedAt": "2026-10-26T00:50:28.807Z",
-      "updatedAt": "2026-10-26T00:50:28.807Z",
-      "overview": "A woman's livelihood is altered by uninvited guests."
+      "updatedAt": "2026-10-26T12:34:02.293Z",
+      "overview": "A woman's way of life is altered by uninvited guests."
     },
     {
       "type": "tv",
