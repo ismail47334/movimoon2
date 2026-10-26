@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-26T18:06:35.122Z",
+  "updatedAt": "2026-10-26T18:06:44.182Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "328722",
+      "slug": "dar-e-nijaat-2026-328722",
+      "title": "Dar-E-Nijaat (2026) [Pakistani TV]",
+      "displayTitle": "Dar-E-Nijaat (2026)",
+      "seoTitle": "Dar-E-Nijaat (2026) [Pakistani TV] | MoviMoon",
+      "year": "2026",
+      "rating": "4.0",
+      "genres": "Drama, Family",
+      "category": "Pakistani TV",
+      "image": "https://image.tmdb.org/t/p/w342/wyoODxEuzQQtfnPAV2Lb5nfWRrY.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/wyoODxEuzQQtfnPAV2Lb5nfWRrY.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/xZGjvBTR7zWU3xsYxLn0l2f65cm.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/dar-e-nijaat-2026-328722",
+      "watchUrl": "https://movimoon.online/tv/328722-dar-e-nijaat",
+      "publishedAt": "2026-10-26T18:06:42.061Z",
+      "updatedAt": "2026-10-26T18:06:42.061Z",
+      "overview": "Some stories begin with love. Some are tested by loss. And some are remembered for the courage it takes to forgive."
+    },
     {
       "type": "tv",
       "tmdbId": "30984",
