@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-26T18:06:24.691Z",
+  "updatedAt": "2026-10-26T18:06:35.122Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "30984",
+      "slug": "bleach-2004-30984",
+      "title": "Bleach (2004) [Hollywood TV]",
+      "displayTitle": "Bleach (2004)",
+      "seoTitle": "Bleach (2004) [Hollywood TV] | MoviMoon",
+      "year": "2004",
+      "rating": "8.4",
+      "genres": "Action & Adventure, Animation, Sci-Fi & Fantasy",
+      "category": "Hollywood TV",
+      "image": "https://image.tmdb.org/t/p/w342/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/bleach-2004-30984",
+      "watchUrl": "https://movimoon.online/tv/30984-bleach",
+      "publishedAt": "2026-10-26T18:06:33.194Z",
+      "updatedAt": "2026-10-26T18:06:33.194Z",
+      "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil."
+    },
     {
       "type": "movie",
       "tmdbId": "1375156",
