@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-26T18:06:44.182Z",
+  "updatedAt": "2026-10-26T18:06:53.319Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "321221",
+      "slug": "minimum-wage-2026-321221",
+      "title": "Minimum Wage (2026) [Hollywood TV]",
+      "displayTitle": "Minimum Wage (2026)",
+      "seoTitle": "Minimum Wage (2026) [Hollywood TV] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "Comedy",
+      "category": "Hollywood TV",
+      "image": "https://image.tmdb.org/t/p/w342/iTVhDUbzUFUJ18jrcYM4rw7qGk.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/iTVhDUbzUFUJ18jrcYM4rw7qGk.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/tJSM9kwCWHXgoYbrfmJ2vwiizWq.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/minimum-wage-2026-321221",
+      "watchUrl": "https://movimoon.online/tv/321221-minimum-wage",
+      "publishedAt": "2026-10-26T18:06:51.421Z",
+      "updatedAt": "2026-10-26T18:06:51.421Z",
+      "overview": "Teens struggle to run a local pizzeria while juggling school, a manic boss and minimum wage."
+    },
     {
       "type": "tv",
       "tmdbId": "328722",
