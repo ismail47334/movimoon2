@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-27T12:34:15.647Z",
+  "updatedAt": "2026-10-27T18:06:18.430Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1503762",
+      "slug": "sense-and-sensibility-2026-1503762",
+      "title": "Sense and Sensibility (2026) [Hollywood]",
+      "displayTitle": "Sense and Sensibility (2026)",
+      "seoTitle": "Sense and Sensibility (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "7.2",
+      "genres": "Drama, Romance",
+      "category": "Hollywood",
+      "image": "https://image.tmdb.org/t/p/w342/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/tIcONOFK9D3F89ETK8DBS1hIwVF.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/sense-and-sensibility-2026-1503762",
+      "watchUrl": "https://movimoon.online/movie/1503762-sense-and-sensibility",
+      "publishedAt": "2026-10-27T18:06:15.159Z",
+      "updatedAt": "2026-10-27T18:06:15.160Z",
+      "overview": "A charming, witty, and deeply relatable story of love and sisterhood."
+    },
     {
       "type": "tv",
       "tmdbId": "339495",
