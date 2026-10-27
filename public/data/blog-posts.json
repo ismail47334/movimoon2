@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-27T12:33:45.723Z",
+  "updatedAt": "2026-10-27T12:33:51.972Z",
   "posts": [
     {
       "type": "tv",
@@ -51,15 +51,15 @@
       "seoTitle": "Backflip Crazy (2026) [Hollywood] | MoviMoon",
       "year": "2026",
       "rating": "N/A",
-      "genres": "",
+      "genres": "Drama",
       "category": "Hollywood",
-      "image": "",
-      "poster": "",
-      "backdrop": "",
+      "image": "https://image.tmdb.org/t/p/w342/n2DWCC26Cr37G3ypkfzWmSnjirx.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/n2DWCC26Cr37G3ypkfzWmSnjirx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/3NvYuIc8diRm8d1xetkqVKbHEpi.jpg",
       "url": "https://movimoon.online/blog/movie-posts/backflip-crazy-2026-1808586",
       "watchUrl": "https://movimoon.online/movie/1808586-backflip-crazy",
       "publishedAt": "2026-10-27T00:50:36.864Z",
-      "updatedAt": "2026-10-27T00:50:36.864Z",
+      "updatedAt": "2026-10-27T12:33:50.124Z",
       "overview": "A comic book artist sets off on a research assignment with a martial arts master while her insecure boyfriend stomps around with jealousy and fragile masculinity. Things take a turn when he challenges the Sensei to perform a backflip. Things get a lil' backflip crazy..."
     },
     {
