@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-27T18:06:57.001Z",
+  "updatedAt": "2026-10-27T18:07:09.911Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "333533",
+      "slug": "the-one-about-matthew-perry-2026-333533",
+      "title": "The One About Matthew Perry (2026) [Hollywood TV]",
+      "displayTitle": "The One About Matthew Perry (2026)",
+      "seoTitle": "The One About Matthew Perry (2026) [Hollywood TV] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "Documentary",
+      "category": "Hollywood TV",
+      "image": "https://image.tmdb.org/t/p/w342/zDSjGvywwyWUqnMIpYYwFDyA7Az.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/zDSjGvywwyWUqnMIpYYwFDyA7Az.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/3nJL65FgsUpmBEIMXc0kt0h5uay.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/the-one-about-matthew-perry-2026-333533",
+      "watchUrl": "https://movimoon.online/tv/333533-the-one-about-matthew-perry",
+      "publishedAt": "2026-10-27T18:07:07.100Z",
+      "updatedAt": "2026-10-27T18:07:07.100Z",
+      "overview": "Told through intimate testimonies from close family and friends, this documentary event reveals the real Matthew Perry—generous, funny, vulnerable, larger than life—and the battles he fought to become the man behind the icon. A raw record of a life lived in full, and the honesty that became his greatest legacy."
+    },
     {
       "type": "movie",
       "tmdbId": "1772549",
