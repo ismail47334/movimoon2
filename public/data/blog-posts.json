@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-27T18:06:43.939Z",
+  "updatedAt": "2026-10-27T18:06:57.001Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1772549",
+      "slug": "pehla-pyaar-doosri-baar-2026-1772549",
+      "title": "Pehla Pyaar Doosri Baar (2026) [Bollywood]",
+      "displayTitle": "Pehla Pyaar Doosri Baar (2026)",
+      "seoTitle": "Pehla Pyaar Doosri Baar (2026) [Bollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "6.0",
+      "genres": "Romance, Comedy, Drama",
+      "category": "Bollywood",
+      "image": "https://image.tmdb.org/t/p/w342/tGS4b47RIpF3DTAkezHBqfYNTm2.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/tGS4b47RIpF3DTAkezHBqfYNTm2.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/iaVcws1W3owTlRSI8GKcov95UHS.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/pehla-pyaar-doosri-baar-2026-1772549",
+      "watchUrl": "https://movimoon.online/movie/1772549-pehla-pyaar-doosri-baar",
+      "publishedAt": "2026-10-27T18:06:54.864Z",
+      "updatedAt": "2026-10-27T18:06:54.864Z",
+      "overview": "Three friends attend their school reunion and enter into different relationships, discovering the trials, tribulations, allure, and absurdities of love."
+    },
     {
       "type": "movie",
       "tmdbId": "1170608",
