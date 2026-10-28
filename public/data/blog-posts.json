@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-28T00:50:44.780Z",
+  "updatedAt": "2026-10-28T00:50:52.063Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "334700",
+      "slug": "the-gift-of-deceit-2026-334700",
+      "title": "The Gift of Deceit (2026) [Hollywood TV]",
+      "displayTitle": "The Gift of Deceit (2026)",
+      "seoTitle": "The Gift of Deceit (2026) [Hollywood TV] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "Drama",
+      "category": "Hollywood TV",
+      "image": "https://image.tmdb.org/t/p/w342/f6GiVWPeexCV6mQ6W5fgiDFQdfB.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/f6GiVWPeexCV6mQ6W5fgiDFQdfB.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/gSlWzjRk1QarsB2PrJemCd88wJc.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/the-gift-of-deceit-2026-334700",
+      "watchUrl": "https://movimoon.online/tv/334700-the-gift-of-deceit",
+      "publishedAt": "2026-10-28T00:50:50.756Z",
+      "updatedAt": "2026-10-28T00:50:50.756Z",
+      "overview": "Desperate to find a cure for the unknown illness affecting her daughter, art collector Lúcia Rossetti turns to a spiritual healer. When Lúcia falls victim to a scam, a series of secrets is revealed, intertwining two families marked by love, control, resentment, and guilt."
+    },
     {
       "type": "tv",
       "tmdbId": "339675",
