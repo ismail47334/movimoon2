@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-28T12:33:36.926Z",
+  "updatedAt": "2026-10-28T12:33:45.188Z",
   "posts": [
     {
       "type": "tv",
@@ -50,16 +50,16 @@
       "displayTitle": "Final March (2026)",
       "seoTitle": "Final March (2026) [Hollywood] | MoviMoon",
       "year": "2026",
-      "rating": "N/A",
-      "genres": "",
+      "rating": "10.0",
+      "genres": "Thriller, War",
       "category": "Hollywood",
-      "image": "",
-      "poster": "",
-      "backdrop": "",
+      "image": "https://image.tmdb.org/t/p/w342/pva3noYayoFGpzgzfFUCe6Md09t.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/pva3noYayoFGpzgzfFUCe6Md09t.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/t84di63WfriJilD2CFri5cXw8kh.jpg",
       "url": "https://movimoon.online/blog/movie-posts/final-march-2026-1810084",
       "watchUrl": "https://movimoon.online/movie/1810084-final-march",
       "publishedAt": "2026-10-28T00:50:36.072Z",
-      "updatedAt": "2026-10-28T00:50:36.072Z",
+      "updatedAt": "2026-10-28T12:33:43.691Z",
       "overview": "A soldier returns home from a long combat deployment, his house seems different than he remembers"
     },
     {
