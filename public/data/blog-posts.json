@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-28T18:06:49.211Z",
+  "updatedAt": "2026-10-28T18:07:01.025Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1465063",
+      "slug": "forgotten-island-2026-1465063",
+      "title": "Forgotten Island (2026) [Hollywood]",
+      "displayTitle": "Forgotten Island (2026)",
+      "seoTitle": "Forgotten Island (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "7.6",
+      "genres": "Animation, Adventure, Fantasy, Comedy, Family",
+      "category": "Hollywood",
+      "image": "https://image.tmdb.org/t/p/w342/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/forgotten-island-2026-1465063",
+      "watchUrl": "https://movimoon.online/movie/1465063-forgotten-island",
+      "publishedAt": "2026-10-28T18:06:59.333Z",
+      "updatedAt": "2026-10-28T18:06:59.334Z",
+      "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever."
+    },
     {
       "type": "movie",
       "tmdbId": "1727734",
