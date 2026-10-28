@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-28T12:34:09.516Z",
+  "updatedAt": "2026-10-28T18:06:20.454Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1377237",
+      "slug": "runner-2026-1377237",
+      "title": "Runner (2026) [Hollywood]",
+      "displayTitle": "Runner (2026)",
+      "seoTitle": "Runner (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "8.3",
+      "genres": "Action, Comedy",
+      "category": "Hollywood",
+      "image": "https://image.tmdb.org/t/p/w342/vJk2TW1QZAmBiD7oj9ZF9EPTYY1.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/vJk2TW1QZAmBiD7oj9ZF9EPTYY1.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/npXZNWjOEYrqdMDPQ11SGBrXqAG.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/runner-2026-1377237",
+      "watchUrl": "https://movimoon.online/movie/1377237-runner",
+      "publishedAt": "2026-10-28T18:06:17.542Z",
+      "updatedAt": "2026-10-28T18:06:17.542Z",
+      "overview": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl."
+    },
     {
       "type": "tv",
       "tmdbId": "334700",
