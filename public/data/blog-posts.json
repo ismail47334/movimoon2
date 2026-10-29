@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-29T00:50:45.365Z",
+  "updatedAt": "2026-10-29T00:50:52.856Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "338744",
+      "slug": "the-rookie-cop-is-a-black-ops-legend-2026-338744",
+      "title": "The Rookie Cop is a Black Ops Legend (2026) [Hollywood TV]",
+      "displayTitle": "The Rookie Cop is a Black Ops Legend (2026)",
+      "seoTitle": "The Rookie Cop is a Black Ops Legend (2026) [Hollywood TV] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "Drama, Action & Adventure",
+      "category": "Hollywood TV",
+      "image": "https://image.tmdb.org/t/p/w342/dvHGctTl0IxiRbKU6mE8z0TK5GC.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/dvHGctTl0IxiRbKU6mE8z0TK5GC.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w342/dvHGctTl0IxiRbKU6mE8z0TK5GC.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/the-rookie-cop-is-a-black-ops-legend-2026-338744",
+      "watchUrl": "https://movimoon.online/tv/338744-the-rookie-cop-is-a-black-ops-legend",
+      "publishedAt": "2026-10-29T00:50:51.275Z",
+      "updatedAt": "2026-10-29T00:50:51.275Z",
+      "overview": "After his twin's suicide attempt, agent Taeyun acts as him at the police academy. Seoyun doubts him."
+    },
     {
       "type": "tv",
       "tmdbId": "340285",
