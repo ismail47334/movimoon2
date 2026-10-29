@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-29T12:33:38.313Z",
+  "updatedAt": "2026-10-29T12:33:46.882Z",
   "posts": [
     {
       "type": "tv",
@@ -31,15 +31,15 @@
       "seoTitle": "Poeta Caníbal (2026) [Hollywood TV] | MoviMoon",
       "year": "2026",
       "rating": "N/A",
-      "genres": "",
+      "genres": "Documentary, Crime",
       "category": "Hollywood TV",
-      "image": "",
-      "poster": "",
-      "backdrop": "",
+      "image": "https://image.tmdb.org/t/p/w342/8d05A7tqECiRlPi2mUuxgbI4tsk.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/8d05A7tqECiRlPi2mUuxgbI4tsk.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w342/8d05A7tqECiRlPi2mUuxgbI4tsk.jpg",
       "url": "https://movimoon.online/blog/tv-series-posts/poeta-can-bal-2026-340285",
       "watchUrl": "https://movimoon.online/tv/340285-poeta-can-bal",
       "publishedAt": "2026-10-29T00:50:43.977Z",
-      "updatedAt": "2026-10-29T00:50:43.977Z",
+      "updatedAt": "2026-10-29T12:33:45.413Z",
       "overview": ""
     },
     {
