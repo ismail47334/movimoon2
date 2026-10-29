@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-29T18:06:12.217Z",
+  "updatedAt": "2026-10-29T18:06:22.976Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1165369",
+      "slug": "de-gaulle-libert-2026-1165369",
+      "title": "De Gaulle: Liberté (2026) [Hollywood]",
+      "displayTitle": "De Gaulle: Liberté (2026)",
+      "seoTitle": "De Gaulle: Liberté (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "7.8",
+      "genres": "History, Drama, War",
+      "category": "Hollywood",
+      "image": "https://image.tmdb.org/t/p/w342/297x0HIqSCp19pN9wlduK9PONRv.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/297x0HIqSCp19pN9wlduK9PONRv.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/gU93hJIAVsx088tBVumH3Z0jPVM.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/de-gaulle-libert-2026-1165369",
+      "watchUrl": "https://movimoon.online/movie/1165369-de-gaulle-libert",
+      "publishedAt": "2026-10-29T18:06:20.636Z",
+      "updatedAt": "2026-10-29T18:06:20.636Z",
+      "overview": "Part two of a two-part biopic following French army officer Charles De Gaulle's life and political commitment between 1940 and 1945, and trace his development towards a political career."
+    },
     {
       "type": "movie",
       "tmdbId": "1541477",
