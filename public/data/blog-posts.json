@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-29T00:50:37.937Z",
+  "updatedAt": "2026-10-29T00:50:45.365Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "340285",
+      "slug": "poeta-can-bal-2026-340285",
+      "title": "Poeta Caníbal (2026) [Hollywood TV]",
+      "displayTitle": "Poeta Caníbal (2026)",
+      "seoTitle": "Poeta Caníbal (2026) [Hollywood TV] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "",
+      "category": "Hollywood TV",
+      "image": "",
+      "poster": "",
+      "backdrop": "",
+      "url": "https://movimoon.online/blog/tv-series-posts/poeta-can-bal-2026-340285",
+      "watchUrl": "https://movimoon.online/tv/340285-poeta-can-bal",
+      "publishedAt": "2026-10-29T00:50:43.977Z",
+      "updatedAt": "2026-10-29T00:50:43.977Z",
+      "overview": ""
+    },
     {
       "type": "movie",
       "tmdbId": "1810991",
