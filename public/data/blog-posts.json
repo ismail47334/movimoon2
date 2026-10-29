@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-29T12:33:55.480Z",
+  "updatedAt": "2026-10-29T12:34:04.239Z",
   "posts": [
     {
       "type": "tv",
@@ -71,15 +71,15 @@
       "seoTitle": "Vecinos de hormigón (2026) [Hollywood] | MoviMoon",
       "year": "2026",
       "rating": "N/A",
-      "genres": "",
+      "genres": "Documentary",
       "category": "Hollywood",
-      "image": "",
-      "poster": "",
-      "backdrop": "",
+      "image": "https://image.tmdb.org/t/p/w342/xoz9tKOBfueWhSyz7qPMJNocKHP.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/xoz9tKOBfueWhSyz7qPMJNocKHP.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/qJSWd4fRL45cSGhpZDoqWZmwFJE.jpg",
       "url": "https://movimoon.online/blog/movie-posts/vecinos-de-hormig-n-2026-1811114",
       "watchUrl": "https://movimoon.online/movie/1811114-vecinos-de-hormig-n",
       "publishedAt": "2026-10-29T00:50:28.857Z",
-      "updatedAt": "2026-10-29T00:50:28.857Z",
+      "updatedAt": "2026-10-29T12:34:02.520Z",
       "overview": ""
     },
     {
