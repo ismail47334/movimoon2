@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-29T12:33:46.882Z",
+  "updatedAt": "2026-10-29T12:33:55.480Z",
   "posts": [
     {
       "type": "tv",
@@ -51,15 +51,15 @@
       "seoTitle": "Gato, Gato (2026) [Hollywood] | MoviMoon",
       "year": "2026",
       "rating": "N/A",
-      "genres": "",
+      "genres": "Animation",
       "category": "Hollywood",
-      "image": "",
-      "poster": "",
-      "backdrop": "",
+      "image": "https://image.tmdb.org/t/p/w342/uXNIPHSBVE5kB98CVIdMvrE6nOa.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/uXNIPHSBVE5kB98CVIdMvrE6nOa.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/r8W3MSXHZHsnQseHtnakq0BxZ3l.jpg",
       "url": "https://movimoon.online/blog/movie-posts/gato-gato-2026-1810991",
       "watchUrl": "https://movimoon.online/movie/1810991-gato-gato",
       "publishedAt": "2026-10-29T00:50:36.365Z",
-      "updatedAt": "2026-10-29T00:50:36.365Z",
+      "updatedAt": "2026-10-29T12:33:53.853Z",
       "overview": ""
     },
     {
