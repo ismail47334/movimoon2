@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-30T00:50:46.710Z",
+  "updatedAt": "2026-10-30T00:50:54.542Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "340162",
+      "slug": "politiskolen-junior-2026-340162",
+      "title": "Politiskolen junior (2026) [Hollywood TV]",
+      "displayTitle": "Politiskolen junior (2026)",
+      "seoTitle": "Politiskolen junior (2026) [Hollywood TV] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "",
+      "category": "Hollywood TV",
+      "image": "https://image.tmdb.org/t/p/w342/9llGrKsrvYU3POaQBcdWO9AnRMd.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/9llGrKsrvYU3POaQBcdWO9AnRMd.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/fVtwlVep1WcG1uTf0UIpnkDyiPe.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/politiskolen-junior-2026-340162",
+      "watchUrl": "https://movimoon.online/tv/340162-politiskolen-junior",
+      "publishedAt": "2026-10-30T00:50:53.123Z",
+      "updatedAt": "2026-10-30T00:50:53.123Z",
+      "overview": ""
+    },
     {
       "type": "tv",
       "tmdbId": "340356",
