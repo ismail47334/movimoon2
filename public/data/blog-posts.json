@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-30T18:06:09.570Z",
+  "updatedAt": "2026-10-30T18:06:17.690Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1571955",
+      "slug": "collision-course-2026-1571955",
+      "title": "Collision Course (2026) [Hollywood]",
+      "displayTitle": "Collision Course (2026)",
+      "seoTitle": "Collision Course (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "10.0",
+      "genres": "Thriller, Drama, Action, Crime",
+      "category": "Hollywood",
+      "image": "https://image.tmdb.org/t/p/w342/s2eAK0uiODjlNUSIiOBwdp3at2u.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/s2eAK0uiODjlNUSIiOBwdp3at2u.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/uI3kWI7kGW5E0F8WduewgQYPt34.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/collision-course-2026-1571955",
+      "watchUrl": "https://movimoon.online/movie/1571955-collision-course",
+      "publishedAt": "2026-10-30T18:06:16.019Z",
+      "updatedAt": "2026-10-30T18:06:16.019Z",
+      "overview": "Spain, 2013. After robbing a bank, a getaway crash reveals the hidden side of each thief, exposing betrayals and lies that began long before the heist."
+    },
     {
       "type": "movie",
       "tmdbId": "1789549",
