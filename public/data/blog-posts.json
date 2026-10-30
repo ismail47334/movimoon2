@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-30T12:33:49.089Z",
+  "updatedAt": "2026-10-30T12:33:59.019Z",
   "posts": [
     {
       "type": "tv",
@@ -51,16 +51,16 @@
       "seoTitle": "Opetael (2026) [Hollywood] | MoviMoon",
       "year": "2026",
       "rating": "N/A",
-      "genres": "",
+      "genres": "Drama, Crime, Horror, Mystery",
       "category": "Hollywood",
-      "image": "",
-      "poster": "",
-      "backdrop": "",
+      "image": "https://image.tmdb.org/t/p/w342/8WuHCKiWrwvW7HNzHvMXF2sFPHp.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/8WuHCKiWrwvW7HNzHvMXF2sFPHp.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/zA5YQGPXZAaiKRNGW4cMPJcJIrS.jpg",
       "url": "https://movimoon.online/blog/movie-posts/opetael-2026-1812203",
       "watchUrl": "https://movimoon.online/movie/1812203-opetael",
       "publishedAt": "2026-10-30T00:50:37.388Z",
-      "updatedAt": "2026-10-30T00:50:37.388Z",
-      "overview": ""
+      "updatedAt": "2026-10-30T12:33:56.910Z",
+      "overview": "When 19-year-old artist Megi is rejected from her dream art school, her childhood imaginary friend, Opetael, mysteriously reappears. Together, they must figure out who is the serial killer who murdered the course's top three accepted applicants - before the killer strikes again..."
     },
     {
       "type": "movie",
