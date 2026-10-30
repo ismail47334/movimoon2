@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-30T12:33:59.019Z",
+  "updatedAt": "2026-10-30T12:34:08.089Z",
   "posts": [
     {
       "type": "tv",
@@ -71,16 +71,16 @@
       "seoTitle": "Lotus (2026) [Hollywood] | MoviMoon",
       "year": "2026",
       "rating": "N/A",
-      "genres": "",
+      "genres": "Drama",
       "category": "Hollywood",
-      "image": "",
-      "poster": "",
-      "backdrop": "",
+      "image": "https://image.tmdb.org/t/p/w342/48bMtKNWbqIdGVkNHKqvkaCdCc3.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/48bMtKNWbqIdGVkNHKqvkaCdCc3.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/nze39G4oOReT838w6Ps90VeiVVQ.jpg",
       "url": "https://movimoon.online/blog/movie-posts/lotus-2026-1812235",
       "watchUrl": "https://movimoon.online/movie/1812235-lotus",
       "publishedAt": "2026-10-30T00:50:29.424Z",
-      "updatedAt": "2026-10-30T00:50:29.424Z",
-      "overview": ""
+      "updatedAt": "2026-10-30T12:34:06.290Z",
+      "overview": "Sultan, an illiterate elderly woman, searches for her hospitalized husband's room. Wandering through the hospital's labyrinthine corridors, she crosses paths with completely different lives and confronts the harsh realities of life."
     },
     {
       "type": "tv",
