@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-30T12:34:16.958Z",
+  "updatedAt": "2026-10-30T18:06:09.570Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1789549",
+      "slug": "the-birthday-gift-2026-1789549",
+      "title": "The Birthday​ Gift​ (2026) [Hollywood]",
+      "displayTitle": "The Birthday​ Gift​ (2026)",
+      "seoTitle": "The Birthday​ Gift​ (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "9.5",
+      "genres": "Comedy",
+      "category": "Hollywood",
+      "image": "https://image.tmdb.org/t/p/w342/jqGFILLsEDwsLteNDQextojsYFV.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/jqGFILLsEDwsLteNDQextojsYFV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/eBtITrrdFo1EG7t6TSG5U5c4P2e.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/the-birthday-gift-2026-1789549",
+      "watchUrl": "https://movimoon.online/movie/1789549-the-birthday-gift",
+      "publishedAt": "2026-10-30T18:06:07.588Z",
+      "updatedAt": "2026-10-30T18:06:07.588Z",
+      "overview": "Single mother Marlene Frischmann organizes a birthday party for her son Theo at her brother's chic country villa, which quickly spirals into family drama, world-view quarrels, and chaos."
+    },
     {
       "type": "tv",
       "tmdbId": "340162",
