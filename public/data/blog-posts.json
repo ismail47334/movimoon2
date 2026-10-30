@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-30T00:50:31.076Z",
+  "updatedAt": "2026-10-30T00:50:38.944Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1812203",
+      "slug": "opetael-2026-1812203",
+      "title": "Opetael (2026) [Hollywood]",
+      "displayTitle": "Opetael (2026)",
+      "seoTitle": "Opetael (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "",
+      "category": "Hollywood",
+      "image": "",
+      "poster": "",
+      "backdrop": "",
+      "url": "https://movimoon.online/blog/movie-posts/opetael-2026-1812203",
+      "watchUrl": "https://movimoon.online/movie/1812203-opetael",
+      "publishedAt": "2026-10-30T00:50:37.388Z",
+      "updatedAt": "2026-10-30T00:50:37.388Z",
+      "overview": ""
+    },
     {
       "type": "movie",
       "tmdbId": "1812235",
