@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-30T00:50:38.944Z",
+  "updatedAt": "2026-10-30T00:50:46.710Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "340356",
+      "slug": "kick-off-the-la-2026-340356",
+      "title": "Kick!? Off The LA (2026) [Hollywood TV]",
+      "displayTitle": "Kick!? Off The LA (2026)",
+      "seoTitle": "Kick!? Off The LA (2026) [Hollywood TV] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "Comedy, Reality",
+      "category": "Hollywood TV",
+      "image": "https://image.tmdb.org/t/p/w342/1wYeYb3ded6WvMKY5UbyGb6kfoS.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/1wYeYb3ded6WvMKY5UbyGb6kfoS.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/7N9vmnedmUesCsJpHmD1JPEWMaE.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/kick-off-the-la-2026-340356",
+      "watchUrl": "https://movimoon.online/tv/340356-kick-off-the-la",
+      "publishedAt": "2026-10-30T00:50:45.109Z",
+      "updatedAt": "2026-10-30T00:50:45.109Z",
+      "overview": "KickFlip members’ chaotic American adventure!"
+    },
     {
       "type": "movie",
       "tmdbId": "1812203",
