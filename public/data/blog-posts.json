@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-30T18:06:41.219Z",
+  "updatedAt": "2026-10-30T18:06:48.890Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "90442",
+      "slug": "lux-style-awards-2002-90442",
+      "title": "Lux Style Awards (2002) [Pakistani TV]",
+      "displayTitle": "Lux Style Awards (2002)",
+      "seoTitle": "Lux Style Awards (2002) [Pakistani TV] | MoviMoon",
+      "year": "2002",
+      "rating": "10.0",
+      "genres": "Reality",
+      "category": "Pakistani TV",
+      "image": "https://image.tmdb.org/t/p/w342/zpn96nikrfsUHd5VJSyVnqWf7GA.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/zpn96nikrfsUHd5VJSyVnqWf7GA.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w342/zpn96nikrfsUHd5VJSyVnqWf7GA.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/lux-style-awards-2002-90442",
+      "watchUrl": "https://movimoon.online/tv/90442-lux-style-awards",
+      "publishedAt": "2026-10-30T18:06:47.308Z",
+      "updatedAt": "2026-10-30T18:06:47.308Z",
+      "overview": "The Lux Style Awards is the largest award ceremony held annually in Pakistan since 2002. The awards celebrate \"style\" in the Pakistani entertainment industry, and it is the oldest event dedicated to cinema, television, fashion, music and film industry in Pakistan."
+    },
     {
       "type": "tv",
       "tmdbId": "292741",
