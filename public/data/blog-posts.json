@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T12:33:55.788Z",
+  "updatedAt": "2026-10-31T12:34:03.801Z",
   "posts": [
     {
       "type": "tv",
@@ -71,16 +71,16 @@
       "seoTitle": "Journey to Agartha (2026) [Hollywood] | MoviMoon",
       "year": "2026",
       "rating": "N/A",
-      "genres": "",
+      "genres": "Horror, Comedy, Mystery",
       "category": "Hollywood",
-      "image": "",
-      "poster": "",
-      "backdrop": "",
+      "image": "https://image.tmdb.org/t/p/w342/5fnU22CEn39OqbCvGXDFFOuRXOS.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/5fnU22CEn39OqbCvGXDFFOuRXOS.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/h6PQPFRVwpQrh4AWnRtD3gRAbQV.jpg",
       "url": "https://movimoon.online/blog/movie-posts/journey-to-agartha-2026-1813241",
       "watchUrl": "https://movimoon.online/movie/1813241-journey-to-agartha",
       "publishedAt": "2026-10-31T00:50:28.800Z",
-      "updatedAt": "2026-10-31T00:50:28.800Z",
-      "overview": "After a sudden wave of disappearances, Mammoth Cave National Park closes to the public.\r In an effort to make a name for himself, Investigative Journalist Collin Briscoe attempts to uncover the truth by interviewing the family and friends of the first victim, MacKenzie Hunt."
+      "updatedAt": "2026-10-31T12:34:02.320Z",
+      "overview": "After a sudden wave of disappearances, Mammoth Cave National Park closes to the public.  In an effort to make a name for himself, Investigative Journalist Collin Briscoe attempts to uncover the truth by interviewing the family and friends of the first victim, MacKenzie Hunt."
     },
     {
       "type": "tv",
