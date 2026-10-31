@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T00:50:46.237Z",
+  "updatedAt": "2026-10-31T00:50:54.035Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "339701",
+      "slug": "arms-and-company-2026-339701",
+      "title": "ARMS AND COMPANY (2026) [Hollywood TV]",
+      "displayTitle": "ARMS AND COMPANY (2026)",
+      "seoTitle": "ARMS AND COMPANY (2026) [Hollywood TV] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "Crime, Drama",
+      "category": "Hollywood TV",
+      "image": "https://image.tmdb.org/t/p/w342/uUyQnk6fKsnX9yawa3SvTPziNhZ.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/uUyQnk6fKsnX9yawa3SvTPziNhZ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/kSjBp24ixcSNSIfW7IeWutJDmyr.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/arms-and-company-2026-339701",
+      "watchUrl": "https://movimoon.online/tv/339701-arms-and-company",
+      "publishedAt": "2026-10-31T00:50:52.589Z",
+      "updatedAt": "2026-10-31T00:50:52.589Z",
+      "overview": "Palm Beach crime saga. Aaron Arms builds an empire on borrowed money and borrowed protection — and every debt comes due. Based on the book series 'ARMS AND COMPANY: The Rise of Aaron Arms' by Aaron Armaly (Powered Up Publishing). Season One (10 episodes) is fully written; Episode 1, 'The Awakening,' premieres Halloween night, October 31, 2026, 8 PM ET on YouTube."
+    },
     {
       "type": "tv",
       "tmdbId": "339978",
