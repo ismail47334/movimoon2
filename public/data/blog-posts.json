@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-30T18:06:48.890Z",
+  "updatedAt": "2026-10-31T00:50:30.403Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1813241",
+      "slug": "journey-to-agartha-2026-1813241",
+      "title": "Journey to Agartha (2026) [Hollywood]",
+      "displayTitle": "Journey to Agartha (2026)",
+      "seoTitle": "Journey to Agartha (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "",
+      "category": "Hollywood",
+      "image": "",
+      "poster": "",
+      "backdrop": "",
+      "url": "https://movimoon.online/blog/movie-posts/journey-to-agartha-2026-1813241",
+      "watchUrl": "https://movimoon.online/movie/1813241-journey-to-agartha",
+      "publishedAt": "2026-10-31T00:50:28.800Z",
+      "updatedAt": "2026-10-31T00:50:28.800Z",
+      "overview": "After a sudden wave of disappearances, Mammoth Cave National Park closes to the public.\r In an effort to make a name for himself, Investigative Journalist Collin Briscoe attempts to uncover the truth by interviewing the family and friends of the first victim, MacKenzie Hunt."
+    },
     {
       "type": "tv",
       "tmdbId": "90442",
