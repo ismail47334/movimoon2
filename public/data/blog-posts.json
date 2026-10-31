@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T12:34:11.316Z",
+  "updatedAt": "2026-10-31T18:06:08.908Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1378537",
+      "slug": "mirzapur-the-movie-2026-1378537",
+      "title": "Mirzapur: The Movie (2026) [Bollywood]",
+      "displayTitle": "Mirzapur: The Movie (2026)",
+      "seoTitle": "Mirzapur: The Movie (2026) [Bollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "7.0",
+      "genres": "Action, Crime, Drama, Thriller",
+      "category": "Bollywood",
+      "image": "https://image.tmdb.org/t/p/w342/cdDKdCRyq6BYuNblpKUYqRPWvEg.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/cdDKdCRyq6BYuNblpKUYqRPWvEg.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/nTkQBI8ldvPByIkxsemGxtKlr8E.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/mirzapur-the-movie-2026-1378537",
+      "watchUrl": "https://movimoon.online/movie/1378537-mirzapur-the-movie",
+      "publishedAt": "2026-10-31T18:06:07.327Z",
+      "updatedAt": "2026-10-31T18:06:07.327Z",
+      "overview": "The battle for Mirzapur’s throne intensifies as old enemies resurface and a new threat emerges in the form of Babban Babua, a ruthless businessman from Jaisalmer with ambitions of his own. As the Tripathis face enemies from both the past and present, loyalties are tested while Guddu and Bablu Pandit fight to establish themselves in the power struggle for Mirzapur."
+    },
     {
       "type": "tv",
       "tmdbId": "339701",
