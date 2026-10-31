@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T18:06:23.913Z",
+  "updatedAt": "2026-10-31T18:06:31.129Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "126027",
+      "slug": "ghosts-2021-126027",
+      "title": "Ghosts (2021) [Hollywood TV]",
+      "displayTitle": "Ghosts (2021)",
+      "seoTitle": "Ghosts (2021) [Hollywood TV] | MoviMoon",
+      "year": "2021",
+      "rating": "8.1",
+      "genres": "Comedy, Sci-Fi & Fantasy",
+      "category": "Hollywood TV",
+      "image": "https://image.tmdb.org/t/p/w342/8yBQYa6AdvMY5H9CiAv0HkvF3UE.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/8yBQYa6AdvMY5H9CiAv0HkvF3UE.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/p5FOkor90VRBJEEhUMFdFdkixfe.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/ghosts-2021-126027",
+      "watchUrl": "https://movimoon.online/tv/126027-ghosts",
+      "publishedAt": "2026-10-31T18:06:29.586Z",
+      "updatedAt": "2026-10-31T18:06:29.586Z",
+      "overview": "Samantha and Jay throw caution to the wind when they convert their recently inherited country estate into a bed-and-breakfast. Call it mislaid plans. Not only is the place falling apart, but it’s also inhabited by spirits of previous residents -- whom only Samantha can see and hear."
+    },
     {
       "type": "movie",
       "tmdbId": "1813355",
