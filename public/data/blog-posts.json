@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T18:06:38.541Z",
+  "updatedAt": "2026-10-31T18:06:45.904Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "200875",
+      "slug": "it-welcome-to-derry-2025-200875",
+      "title": "IT: Welcome to Derry (2025) [Hollywood TV]",
+      "displayTitle": "IT: Welcome to Derry (2025)",
+      "seoTitle": "IT: Welcome to Derry (2025) [Hollywood TV] | MoviMoon",
+      "year": "2025",
+      "rating": "8.2",
+      "genres": "Drama, Mystery",
+      "category": "Hollywood TV",
+      "image": "https://image.tmdb.org/t/p/w342/nyy3BITeIjviv6PFIXtqvc8i6xi.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/nyy3BITeIjviv6PFIXtqvc8i6xi.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/2fOKVDoc2O3eZmBZesWPuE5kgPN.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/it-welcome-to-derry-2025-200875",
+      "watchUrl": "https://movimoon.online/tv/200875-it-welcome-to-derry",
+      "publishedAt": "2026-10-31T18:06:44.358Z",
+      "updatedAt": "2026-10-31T18:06:44.358Z",
+      "overview": "In 1962, amid a spate of unexplained disappearances of local children, a group of misfit friends begin to suspect a long-buried ancient evil lurking. As the kids set out to determine what's really going on, a rising unease prompts several townspeople to work together to restore peace – all while a U.S. military operation seeks to exploit Derry for its own objectives."
+    },
     {
       "type": "tv",
       "tmdbId": "336240",
