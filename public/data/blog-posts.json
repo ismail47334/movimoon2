@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T12:33:46.960Z",
+  "updatedAt": "2026-10-31T12:33:55.788Z",
   "posts": [
     {
       "type": "tv",
@@ -51,15 +51,15 @@
       "seoTitle": "Return of the Living Dead: Aftermath (2026) [Hollywood] | MoviMoon",
       "year": "2026",
       "rating": "N/A",
-      "genres": "",
+      "genres": "Horror",
       "category": "Hollywood",
-      "image": "",
-      "poster": "",
-      "backdrop": "",
+      "image": "https://image.tmdb.org/t/p/w342/wLl4MUMut1H6CJDIHacmchPkYP6.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/wLl4MUMut1H6CJDIHacmchPkYP6.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w342/wLl4MUMut1H6CJDIHacmchPkYP6.jpg",
       "url": "https://movimoon.online/blog/movie-posts/return-of-the-living-dead-aftermath-2026-1813096",
       "watchUrl": "https://movimoon.online/movie/1813096-return-of-the-living-dead-aftermath",
       "publishedAt": "2026-10-31T00:50:36.745Z",
-      "updatedAt": "2026-10-31T00:50:36.745Z",
+      "updatedAt": "2026-10-31T12:33:54.158Z",
       "overview": "Over forty years after the terrifying events in Louisville, the nightmare is far from over. The deadly chemical Trioxin has unleashed a horror that refuses to die, and the truth behind the original outbreak is more terrifying than anyone imagined. \"Return of the Living Dead: Aftermath\" continues the legendary horror mythology with a new chapter of zombies, government secrets, terrifying discoveries and the return of the living dead."
     },
     {
