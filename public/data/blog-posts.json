@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T18:06:08.908Z",
+  "updatedAt": "2026-10-31T18:06:16.700Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1428295",
+      "slug": "comrade-kalyan-2026-1428295",
+      "title": "Comrade Kalyan (2026) [Tollywood]",
+      "displayTitle": "Comrade Kalyan (2026)",
+      "seoTitle": "Comrade Kalyan (2026) [Tollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "3.0",
+      "genres": "Romance, Action, Drama",
+      "category": "Tollywood",
+      "image": "https://image.tmdb.org/t/p/w342/pvRJWA4WnaoPeQ7Fs7G9P7EKu6h.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/pvRJWA4WnaoPeQ7Fs7G9P7EKu6h.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/zsAbkmTkGE3l98Jhvdiy7ybNFo8.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/comrade-kalyan-2026-1428295",
+      "watchUrl": "https://movimoon.online/movie/1428295-comrade-kalyan",
+      "publishedAt": "2026-10-31T18:06:15.287Z",
+      "updatedAt": "2026-10-31T18:06:15.287Z",
+      "overview": "In a naxal-dominated village on the Andhra-Odisha border, a theatre owner uses communist sentiment to keep his old cinema running. He joins the naxals and kidnaps a leader, setting off a chain of events."
+    },
     {
       "type": "movie",
       "tmdbId": "1378537",
