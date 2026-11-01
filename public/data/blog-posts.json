@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T18:06:45.904Z",
+  "updatedAt": "2026-11-01T00:50:31.113Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1814009",
+      "slug": "the-mcaster-incident-2026-1814009",
+      "title": "The McAster Incident (2026) [Hollywood]",
+      "displayTitle": "The McAster Incident (2026)",
+      "seoTitle": "The McAster Incident (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "",
+      "category": "Hollywood",
+      "image": "",
+      "poster": "",
+      "backdrop": "",
+      "url": "https://movimoon.online/blog/movie-posts/the-mcaster-incident-2026-1814009",
+      "watchUrl": "https://movimoon.online/movie/1814009-the-mcaster-incident",
+      "publishedAt": "2026-11-01T00:50:29.530Z",
+      "updatedAt": "2026-11-01T00:50:29.530Z",
+      "overview": "In the lead-up to Halloween, four students disappeared in woods near an old prison, while attempting to film a documentary. This is the footage that was found."
+    },
     {
       "type": "tv",
       "tmdbId": "200875",
