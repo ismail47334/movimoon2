@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-01T00:50:40.492Z",
+  "updatedAt": "2026-11-01T00:50:50.028Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "339785",
+      "slug": "bradley-walsh-s-million-pound-shot-2026-339785",
+      "title": "Bradley Walsh's Million Pound Shot (2026) [Hollywood TV]",
+      "displayTitle": "Bradley Walsh's Million Pound Shot (2026)",
+      "seoTitle": "Bradley Walsh's Million Pound Shot (2026) [Hollywood TV] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "Reality",
+      "category": "Hollywood TV",
+      "image": "https://image.tmdb.org/t/p/w342/cI8rZm7x3QyIyRtXtfyVBOvt27K.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/cI8rZm7x3QyIyRtXtfyVBOvt27K.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/afu1wT4KyV8NeCfU0JPGQoNBqcH.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/bradley-walsh-s-million-pound-shot-2026-339785",
+      "watchUrl": "https://movimoon.online/tv/339785-bradley-walsh-s-million-pound-shot",
+      "publishedAt": "2026-11-01T00:50:48.503Z",
+      "updatedAt": "2026-11-01T00:50:48.503Z",
+      "overview": "Quiz event in which three plucky contestants step up for the chance to win up to £1 million. But there’s a huge secret twist, and this brand-new show presented by Bradley promises a night of drama unlike anything he’s hosted before, bursting with tension, big moments and a curveball that the audience won't see coming."
+    },
     {
       "type": "movie",
       "tmdbId": "1813343",
