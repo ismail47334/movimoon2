@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-01T18:06:09.047Z",
+  "updatedAt": "2026-11-01T18:06:16.882Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1261763",
+      "slug": "don-t-trouble-the-trouble-2026-1261763",
+      "title": "Don't Trouble the Trouble (2026) [Tollywood]",
+      "displayTitle": "Don't Trouble the Trouble (2026)",
+      "seoTitle": "Don't Trouble the Trouble (2026) [Tollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "6.3",
+      "genres": "Fantasy, Drama, Action",
+      "category": "Tollywood",
+      "image": "https://image.tmdb.org/t/p/w342/lxgQu74WalgmhWnSEqweyYj8fnc.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/lxgQu74WalgmhWnSEqweyYj8fnc.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/iWVgNbAB4fCqzOPJXNLOZP4zfbK.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/don-t-trouble-the-trouble-2026-1261763",
+      "watchUrl": "https://movimoon.online/movie/1261763-don-t-trouble-the-trouble",
+      "publishedAt": "2026-11-01T18:06:15.373Z",
+      "updatedAt": "2026-11-01T18:06:15.373Z",
+      "overview": "Suri, a magician, accidentally makes a young girl vanish with a spell. The girl, revealed to be a genie who grants wishes, explores the city and unleashes her powers when angered."
+    },
     {
       "type": "movie",
       "tmdbId": "1456196",
