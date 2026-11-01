@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-01T18:06:16.882Z",
+  "updatedAt": "2026-11-01T18:06:24.456Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "289517",
+      "slug": "dead-end-job-2026-289517",
+      "title": "Dead-End Job (2026) [Hollywood TV]",
+      "displayTitle": "Dead-End Job (2026)",
+      "seoTitle": "Dead-End Job (2026) [Hollywood TV] | MoviMoon",
+      "year": "2026",
+      "rating": "7.7",
+      "genres": "Mystery",
+      "category": "Hollywood TV",
+      "image": "https://image.tmdb.org/t/p/w342/vrDDqk9PAkIs0PQAbW5G0yhPVS3.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/vrDDqk9PAkIs0PQAbW5G0yhPVS3.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/cyH2fZUjIJjLmgpF3tgA5CSGz4L.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/dead-end-job-2026-289517",
+      "watchUrl": "https://movimoon.online/tv/289517-dead-end-job",
+      "publishedAt": "2026-11-01T18:06:23.123Z",
+      "updatedAt": "2026-11-01T18:06:23.123Z",
+      "overview": "Drowning in debt, a young man takes lucrative part-time jobs from a mysterious agency — only to find his hustle for more money turning nightmarish."
+    },
     {
       "type": "movie",
       "tmdbId": "1261763",
