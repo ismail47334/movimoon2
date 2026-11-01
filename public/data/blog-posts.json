@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-01T00:50:31.113Z",
+  "updatedAt": "2026-11-01T00:50:40.492Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1813343",
+      "slug": "trasadi-2026-1813343",
+      "title": "Trasadi (2026) [Hollywood]",
+      "displayTitle": "Trasadi (2026)",
+      "seoTitle": "Trasadi (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "Horror",
+      "category": "Hollywood",
+      "image": "https://image.tmdb.org/t/p/w342/AuGc7DIrBjlBu9H3WnNkoGQ0nGa.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/AuGc7DIrBjlBu9H3WnNkoGQ0nGa.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/iiXVffMIuBawuIhMe1SgiTUWdmf.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/trasadi-2026-1813343",
+      "watchUrl": "https://movimoon.online/movie/1813343-trasadi",
+      "publishedAt": "2026-11-01T00:50:38.636Z",
+      "updatedAt": "2026-11-01T00:50:38.636Z",
+      "overview": "Darpan Maskey, 20s, is haunted by someone performing a weird ritual. Severe hand wounds and whispers haunt Darpan as he slowly begins to realize the predicament he is in. To get out of this situation, he takes the help of his friend, Kiran, a young priest who desires to help out his friend and to stand up on his own feet, independent of his father. He takes Darpan and tries to help him in his own way, as Darpan has to make tough decisions. This leads to a situation both of them could never have predicted."
+    },
     {
       "type": "movie",
       "tmdbId": "1814009",
