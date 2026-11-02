@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T00:50:46.167Z",
+  "updatedAt": "2026-11-02T00:50:54.394Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "340209",
+      "slug": "kotliarevskyi-2026-340209",
+      "title": "Kotliarevskyi (2026) [Hollywood TV]",
+      "displayTitle": "Kotliarevskyi (2026)",
+      "seoTitle": "Kotliarevskyi (2026) [Hollywood TV] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "Comedy",
+      "category": "Hollywood TV",
+      "image": "https://image.tmdb.org/t/p/w342/6VcF7V0Dj13orepxLZ2XhwzSN9d.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/6VcF7V0Dj13orepxLZ2XhwzSN9d.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w342/6VcF7V0Dj13orepxLZ2XhwzSN9d.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/kotliarevskyi-2026-340209",
+      "watchUrl": "https://movimoon.online/tv/340209-kotliarevskyi",
+      "publishedAt": "2026-11-02T00:50:52.838Z",
+      "updatedAt": "2026-11-02T00:50:52.838Z",
+      "overview": "A sitcom about life in a restaurant, charismatic characters, and the amusing incidents that happen to them."
+    },
     {
       "type": "tv",
       "tmdbId": "340442",
