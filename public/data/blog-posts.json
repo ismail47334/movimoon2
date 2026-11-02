@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T12:34:48.774Z",
+  "updatedAt": "2026-11-02T18:06:09.494Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1381071",
+      "slug": "godzilla-minus-zero-2026-1381071",
+      "title": "Godzilla Minus Zero (2026) [Hollywood]",
+      "displayTitle": "Godzilla Minus Zero (2026)",
+      "seoTitle": "Godzilla Minus Zero (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "10.0",
+      "genres": "Science Fiction, Horror, Action",
+      "category": "Hollywood",
+      "image": "https://image.tmdb.org/t/p/w342/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/godzilla-minus-zero-2026-1381071",
+      "watchUrl": "https://movimoon.online/movie/1381071-godzilla-minus-zero",
+      "publishedAt": "2026-11-02T18:06:07.823Z",
+      "updatedAt": "2026-11-02T18:06:07.849Z",
+      "overview": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here."
+    },
     {
       "type": "tv",
       "tmdbId": "340209",
