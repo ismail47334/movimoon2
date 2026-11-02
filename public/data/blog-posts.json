@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T18:06:17.223Z",
+  "updatedAt": "2026-11-02T18:06:24.745Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "81723",
+      "slug": "the-gilded-age-2022-81723",
+      "title": "The Gilded Age (2022) [Hollywood TV]",
+      "displayTitle": "The Gilded Age (2022)",
+      "seoTitle": "The Gilded Age (2022) [Hollywood TV] | MoviMoon",
+      "year": "2022",
+      "rating": "7.7",
+      "genres": "Drama",
+      "category": "Hollywood TV",
+      "image": "https://image.tmdb.org/t/p/w342/tdsuFe0JVLqjxfptElRA9YFJcUE.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/tdsuFe0JVLqjxfptElRA9YFJcUE.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/afUVsProh46h31w2EvL7qyHXrqj.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/the-gilded-age-2022-81723",
+      "watchUrl": "https://movimoon.online/tv/81723-the-gilded-age",
+      "publishedAt": "2026-11-02T18:06:23.151Z",
+      "updatedAt": "2026-11-02T18:06:23.151Z",
+      "overview": "It’s 1882 and the Gilded Age is in full swing when Marian Brook moves in with her rigidly conventional aunts in New York City. With the help of Peggy Scott, an African-American woman masquerading as her maid, Marian gets caught up in the dazzling lives of her rich neighbors as she struggles to decide between adhering to the rules or forging her own path."
+    },
     {
       "type": "tv",
       "tmdbId": "40382",
