@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-03T18:06:12.407Z",
+  "updatedAt": "2026-11-03T18:06:23.140Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1244523",
+      "slug": "beware-boi-na-2026-1244523",
+      "title": "Beware Boiúna (2026) [Hollywood]",
+      "displayTitle": "Beware Boiúna (2026)",
+      "seoTitle": "Beware Boiúna (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "6.2",
+      "genres": "Horror, Thriller",
+      "category": "Hollywood",
+      "image": "https://image.tmdb.org/t/p/w342/uW5YMPxJUzT9bkafrCKHXjPTCoQ.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/uW5YMPxJUzT9bkafrCKHXjPTCoQ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/9nU0FKNefmhbgi2xXlvZchZsqwm.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/beware-boi-na-2026-1244523",
+      "watchUrl": "https://movimoon.online/movie/1244523-beware-boi-na",
+      "publishedAt": "2026-11-03T18:06:21.454Z",
+      "updatedAt": "2026-11-03T18:06:21.454Z",
+      "overview": "A medical mission deep in the Amazon becomes a desperate fight for survival when a colossal ancient predator awakens, turning the jungle into a deadly battleground where nature decides who lives and dies."
+    },
     {
       "type": "movie",
       "tmdbId": "891621",
