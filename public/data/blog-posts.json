@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-03T18:06:32.810Z",
+  "updatedAt": "2026-11-03T18:06:47.217Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1802464",
+      "slug": "meethe-mein-kya-hai-2026-1802464",
+      "title": "Meethe Mein Kya Hai (2026) [Bollywood]",
+      "displayTitle": "Meethe Mein Kya Hai (2026)",
+      "seoTitle": "Meethe Mein Kya Hai (2026) [Bollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "Family, Comedy, Drama",
+      "category": "Bollywood",
+      "image": "https://image.tmdb.org/t/p/w342/xTJYIPjyuCbkc7zEtfAFJfVDSV5.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/xTJYIPjyuCbkc7zEtfAFJfVDSV5.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/5UkQUYXkG4iJH5Ova55lkxDPiCB.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/meethe-mein-kya-hai-2026-1802464",
+      "watchUrl": "https://movimoon.online/movie/1802464-meethe-mein-kya-hai",
+      "publishedAt": "2026-11-03T18:06:44.010Z",
+      "updatedAt": "2026-11-03T18:06:44.010Z",
+      "overview": "A young widower's grief eases at a joyful Diwali reunion — until his sister's surprise marriage throws the family into chaos."
+    },
     {
       "type": "movie",
       "tmdbId": "1375441",
