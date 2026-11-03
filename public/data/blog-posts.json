@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-03T00:50:31.017Z",
+  "updatedAt": "2026-11-03T00:50:38.729Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1814945",
+      "slug": "coroliocus-unfortunately-2026-1814945",
+      "title": "Coroliocus, Unfortunately (2026) [Hollywood]",
+      "displayTitle": "Coroliocus, Unfortunately (2026)",
+      "seoTitle": "Coroliocus, Unfortunately (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "Fantasy, Comedy, Horror",
+      "category": "Hollywood",
+      "image": "https://image.tmdb.org/t/p/w342/yPtc8iHRFIUH9N3ldYGI1N57Cda.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/yPtc8iHRFIUH9N3ldYGI1N57Cda.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/94EByWQCiLL2vYCOaeAmHkhvTBM.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/coroliocus-unfortunately-2026-1814945",
+      "watchUrl": "https://movimoon.online/movie/1814945-coroliocus-unfortunately",
+      "publishedAt": "2026-11-03T00:50:37.357Z",
+      "updatedAt": "2026-11-03T00:50:37.357Z",
+      "overview": "A tyrannical wizard forgets his name."
+    },
     {
       "type": "movie",
       "tmdbId": "1815546",
