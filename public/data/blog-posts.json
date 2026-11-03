@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T18:06:24.745Z",
+  "updatedAt": "2026-11-03T00:50:31.017Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1815546",
+      "slug": "a-vision-for-vision-2026-1815546",
+      "title": "A Vision for Vision (2026) [Hollywood]",
+      "displayTitle": "A Vision for Vision (2026)",
+      "seoTitle": "A Vision for Vision (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "",
+      "category": "Hollywood",
+      "image": "",
+      "poster": "",
+      "backdrop": "",
+      "url": "https://movimoon.online/blog/movie-posts/a-vision-for-vision-2026-1815546",
+      "watchUrl": "https://movimoon.online/movie/1815546-a-vision-for-vision",
+      "publishedAt": "2026-11-03T00:50:28.929Z",
+      "updatedAt": "2026-11-03T00:50:28.929Z",
+      "overview": ""
+    },
     {
       "type": "tv",
       "tmdbId": "81723",
