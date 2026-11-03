@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-03T12:33:39.678Z",
+  "updatedAt": "2026-11-03T12:33:50.083Z",
   "posts": [
     {
       "type": "tv",
@@ -33,13 +33,13 @@
       "rating": "N/A",
       "genres": "",
       "category": "Hollywood TV",
-      "image": "",
-      "poster": "",
-      "backdrop": "",
+      "image": "https://image.tmdb.org/t/p/w342/wDQZmTFUSm63dza5OIO1sK1Hc4X.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/wDQZmTFUSm63dza5OIO1sK1Hc4X.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/3tRxHocB4J6O5L9wFpWmlQ0U8W6.jpg",
       "url": "https://movimoon.online/blog/tv-series-posts/-2026-340813",
       "watchUrl": "https://movimoon.online/tv/340813-",
       "publishedAt": "2026-11-03T00:50:45.056Z",
-      "updatedAt": "2026-11-03T00:50:45.056Z",
+      "updatedAt": "2026-11-03T12:33:47.985Z",
       "overview": ""
     },
     {
