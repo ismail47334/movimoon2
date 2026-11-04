@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-04T18:06:48.385Z",
+  "updatedAt": "2026-11-04T18:06:59.377Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "250203",
+      "slug": "brothers-2026-250203",
+      "title": "Brothers (2026) [Hollywood TV]",
+      "displayTitle": "Brothers (2026)",
+      "seoTitle": "Brothers (2026) [Hollywood TV] | MoviMoon",
+      "year": "2026",
+      "rating": "7.1",
+      "genres": "Comedy",
+      "category": "Hollywood TV",
+      "image": "https://image.tmdb.org/t/p/w342/jD7ZQpDEZzAVReJzkOtmuFoIl2m.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/jD7ZQpDEZzAVReJzkOtmuFoIl2m.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/aLE7R8QZPpTiWZS48PS22i2OWbl.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/brothers-2026-250203",
+      "watchUrl": "https://movimoon.online/tv/250203-brothers",
+      "publishedAt": "2026-11-04T18:06:57.474Z",
+      "updatedAt": "2026-11-04T18:06:57.474Z",
+      "overview": "Hollywood actors Matthew McConaughey and Woody Harrelson have been best friends for years, but a shocking family secret suggests their connection might be closer."
+    },
     {
       "type": "movie",
       "tmdbId": "1570488",
