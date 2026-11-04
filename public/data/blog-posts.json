@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-04T18:06:24.908Z",
+  "updatedAt": "2026-11-04T18:06:36.447Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1257147",
+      "slug": "my-best-friend-2026-1257147",
+      "title": "My Best Friend (2026) [Hollywood]",
+      "displayTitle": "My Best Friend (2026)",
+      "seoTitle": "My Best Friend (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "8.4",
+      "genres": "Comedy",
+      "category": "Hollywood",
+      "image": "https://image.tmdb.org/t/p/w342/wGfTFVeguXDXYrwPQ8QMFsaSK2M.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/wGfTFVeguXDXYrwPQ8QMFsaSK2M.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/q5IF3IHgKC4cQqQCp0VjllNkJp6.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/my-best-friend-2026-1257147",
+      "watchUrl": "https://movimoon.online/movie/1257147-my-best-friend",
+      "publishedAt": "2026-11-04T18:06:34.294Z",
+      "updatedAt": "2026-11-04T18:06:34.294Z",
+      "overview": "When empty nest syndrome hits, two BFFs follow their teen daughters to Portugal and find love, fun and a whole new meaning of friendship along the way."
+    },
     {
       "type": "movie",
       "tmdbId": "1294189",
