@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-04T18:06:59.377Z",
+  "updatedAt": "2026-11-04T18:07:11.570Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "248830",
+      "slug": "stick-2025-248830",
+      "title": "Stick (2025) [Hollywood TV]",
+      "displayTitle": "Stick (2025)",
+      "seoTitle": "Stick (2025) [Hollywood TV] | MoviMoon",
+      "year": "2025",
+      "rating": "7.3",
+      "genres": "Comedy, Drama",
+      "category": "Hollywood TV",
+      "image": "https://image.tmdb.org/t/p/w342/y8EWrf5Ry1WmYksWT7MOPWexvr5.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/y8EWrf5Ry1WmYksWT7MOPWexvr5.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/hTYYtZQVNDHu7rqgRjhHjVBWawd.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/stick-2025-248830",
+      "watchUrl": "https://movimoon.online/tv/248830-stick",
+      "publishedAt": "2026-11-04T18:07:09.482Z",
+      "updatedAt": "2026-11-04T18:07:09.482Z",
+      "overview": "Pryce Cahill was headed for golf greatness when an on-course meltdown derailed his career. Now struggling to stay afloat, he goes all in to mentor Santi—a teenage phenom with immense potential—and maybe save himself."
+    },
     {
       "type": "tv",
       "tmdbId": "250203",
