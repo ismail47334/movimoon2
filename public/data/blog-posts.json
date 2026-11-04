@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-04T12:34:50.951Z",
+  "updatedAt": "2026-11-04T18:06:12.856Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1792170",
+      "slug": "model-citizen-2026-1792170",
+      "title": "Model Citizen (2026) [Hollywood]",
+      "displayTitle": "Model Citizen (2026)",
+      "seoTitle": "Model Citizen (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "10.0",
+      "genres": "Crime, Science Fiction, Thriller",
+      "category": "Hollywood",
+      "image": "https://image.tmdb.org/t/p/w342/7SE0LBwgqiqZzkm9gKVbBAbcNQL.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/7SE0LBwgqiqZzkm9gKVbBAbcNQL.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/5MBdRdiGv3AKzZDGbni88xc6JFi.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/model-citizen-2026-1792170",
+      "watchUrl": "https://movimoon.online/movie/1792170-model-citizen",
+      "publishedAt": "2026-11-04T18:06:10.947Z",
+      "updatedAt": "2026-11-04T18:06:10.948Z",
+      "overview": "With his memories gone and his past a blur, ex-cop Steven Bay seeks treatment for his amnesia while working on an isolated farm. Instead, he's met with rising hostility, strange surveillance, and instincts he can’t fully control. When the pressure becomes unbearable, Bay begins a desperate hunt for the truth behind his fractured reality."
+    },
     {
       "type": "tv",
       "tmdbId": "340246",
