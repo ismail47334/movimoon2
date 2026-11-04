@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-04T00:50:31.233Z",
+  "updatedAt": "2026-11-04T00:50:39.657Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1815215",
+      "slug": "children-of-palestine-2026-1815215",
+      "title": "Children of Palestine (2026) [Hollywood]",
+      "displayTitle": "Children of Palestine (2026)",
+      "seoTitle": "Children of Palestine (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "10.0",
+      "genres": "Documentary, War, Drama",
+      "category": "Hollywood",
+      "image": "https://image.tmdb.org/t/p/w342/bqu2oDgr5dkhc7UWBhvyPYdvngS.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/bqu2oDgr5dkhc7UWBhvyPYdvngS.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/nMss2bo4YCFRnEkQJOkNewWU8RO.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/children-of-palestine-2026-1815215",
+      "watchUrl": "https://movimoon.online/movie/1815215-children-of-palestine",
+      "publishedAt": "2026-11-04T00:50:37.900Z",
+      "updatedAt": "2026-11-04T00:50:37.900Z",
+      "overview": "The documentary reflects on the situation in Palestine from the perspective of a journalist, an activist, and a geopolitical analyst. It offers a deeply human perspective that seeks to raise public awareness. In a world where numbers are counted every day, the director attempts here to count the names. An important message of love for Palestine and for humanity, reminding us that «we are all children of Palestine»—meaning that each of us must consider ourselves part of the same human family."
+    },
     {
       "type": "movie",
       "tmdbId": "1815875",
