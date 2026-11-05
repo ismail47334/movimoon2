@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>MoviMoon - Movies &amp; TV Shows</title>
-  <meta name="theme-color" content="#0ea5e9">
+  <meta name="theme-color" content="#080C14">
   <meta name="description" content="MoviMoon - Discover and watch movies and TV shows in HD.">
   <meta name="robots" content="index,follow,max-image-preview:large">
   <meta property="og:type" content="website">
@@ -16,10 +16,6 @@
   <meta name="twitter:title" content="MoviMoon - Movies & TV Shows">
   <meta name="twitter:description" content="Discover movies, TV shows, trending titles, top rated content and more on MoviMoon.">
   <link rel="icon" href="/assets/logo.svg" type="image/svg+xml">
-  <link rel="manifest" href="/manifest.json">
-  <link rel="apple-touch-icon" href="/assets/logo-512.png">
-  <meta name="apple-mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-title" content="MoviMoon">
   <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,400&amp;display=swap" rel="stylesheet">
@@ -44,6 +40,80 @@
     "description":"Discover movies, TV shows, trending titles and top rated content on MoviMoon."
   }
   </script>
+<style>
+/* DOWNLOAD MODAL FIXED */
+.dl-modal{position:fixed;top:50%;left:50%;transform:translate(-50%,-50%) scale(.96);width:92%;max-width:720px;max-height:90vh;overflow-y:auto;background:linear-gradient(180deg,#0f172a 0%,#111c33 100%);border:1px solid rgba(255,255,255,0.08);border-radius:20px;box-shadow:0 20px 80px rgba(0,0,0,.6);z-index:10005;display:none;opacity:0;transition:all .22s ease;}
+.dl-modal.open{display:block;opacity:1;transform:translate(-50%,-50%) scale(1);}
+.dl-close{position:absolute;top:14px;right:14px;width:38px;height:38px;border-radius:999px;border:1px solid rgba(255,255,255,.12);background:rgba(255,255,255,.06);color:#fff;cursor:pointer;display:flex;align-items:center;justify-content:center;z-index:2;}
+.dl-close:hover{background:rgba(255,255,255,.12);}
+.dl-header{background:linear-gradient(135deg,#0f172a 0%,#1e293b 100%);padding:28px 24px 18px 24px;text-align:center;border-bottom:1px solid rgba(255,255,255,0.06);border-radius:20px 20px 0 0;}
+.dl-kicker{font-size:11px;letter-spacing:3px;color:#94a3b8;margin-bottom:8px;font-weight:700;}
+.dl-title{font-size:22px;font-weight:800;color:#fff;margin:0;line-height:1.3;}
+.dl-subtitle{color:#94a3b8;margin-top:8px;font-size:13px;}
+.dl-body{padding:22px 20px 20px 20px;}
+.dl-section-title{color:#fff;font-size:16px;font-weight:700;margin:0 0 4px 0;}
+.dl-section-desc{color:#94a3b8;font-size:13px;margin:0 0 14px 0;}
+.dl-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:12px;}
+.dl-card{position:relative;background:rgba(255,255,255,0.04);border:1px solid rgba(255,255,255,0.08);border-radius:14px;padding:16px;cursor:pointer;transition:all .18s;text-decoration:none;display:block;}
+.dl-card:hover{background:rgba(14,165,233,0.08);border-color:rgba(14,165,233,0.45);transform:translateY(-2px);}
+.dl-badge{font-size:9px;font-weight:800;letter-spacing:.8px;padding:3px 8px;border-radius:999px;display:inline-block;margin-bottom:10px;border:1px solid;}
+.dl-badge.popular{background:rgba(14,165,233,0.15);color:#7dd3fc;border-color:rgba(14,165,233,0.3);}
+.dl-badge.new{background:rgba(59,130,246,0.12);color:#60a5fa;border-color:rgba(59,130,246,0.25);}
+.dl-card h3{color:#fff;margin:0 0 6px 0;font-size:16px;font-weight:700;}
+.dl-card p{color:#94a3b8;font-size:12px;line-height:1.4;margin:0;}
+.dl-tip{margin-top:18px;background:rgba(245,158,11,0.08);border-left:3px solid #f59e0b;padding:10px 14px;border-radius:8px;color:#e2e8f0;font-size:12px;display:flex;gap:8px;align-items:flex-start;}
+.dl-status{color:#94a3b8;margin-top:10px;font-size:12px;min-height:16px;}
+.dl-back{margin-top:16px;background:rgba(255,255,255,0.08);border:1px solid rgba(255,255,255,0.12);color:#fff;padding:9px 16px;border-radius:999px;cursor:pointer;font-weight:600;font-size:13px;display:inline-flex;align-items:center;gap:6px;}
+.dl-back:hover{background:rgba(255,255,255,0.14);}
+/* DOWNLOAD BUTTON - BEAUTIFUL FIX */
+.fv-actions-row{display:flex;flex-wrap:wrap;align-items:center;gap:8px;}
+.btn-fv-download{
+  background:rgba(255,255,255,0.09);
+  border:1px solid rgba(255,255,255,0.14);
+  color:#fff;
+  padding:10px 18px;
+  border-radius:999px;
+  font-weight:700;
+  font-size:13px;
+  cursor:pointer;
+  display:inline-flex;
+  align-items:center;
+  gap:7px;
+  transition:all .18s ease;
+  backdrop-filter:blur(8px);
+}
+.btn-fv-download:hover{
+  background:linear-gradient(135deg,#0ea5e9,#6366f1);
+  border-color:transparent;
+  box-shadow:0 6px 20px rgba(14,165,233,0.35);
+  transform:translateY(-1px);
+}
+.btn-fv-download i{font-size:12px;}
+/* Trailer button match */
+.btn-fv-trailer{
+  background:rgba(255,255,255,0.09);
+  border:1px solid rgba(255,255,255,0.14);
+  color:#fff;
+  padding:10px 16px;
+  border-radius:999px;
+  font-weight:600;
+  font-size:13px;
+  display:inline-flex;
+  align-items:center;
+  gap:6px;
+}
+.btn-fv-icon{
+  width:38px;height:38px;border-radius:999px;
+  background:rgba(255,255,255,0.08);
+  border:1px solid rgba(255,255,255,0.12);
+  color:#fff;display:flex;align-items:center;justify-content:center;
+}
+@media(max-width:480px){
+  .fv-actions-row{gap:6px;}
+  .btn-fv-play{padding:11px 18px; font-size:13px;}
+  .btn-fv-trailer,.btn-fv-download{padding:9px 14px; font-size:12px;}
+}
+</style>
 </head>
 <body>
 <!-- ================================================================
@@ -464,7 +534,7 @@
     </div>
   </div>
 <div class="qv-modal" id="qv-modal"><div class="qv-top"><img alt="backdrop" class="qv-backdrop" id="qv-backdrop" src=""><div class="qv-top-grad"></div><button class="qv-close" onclick="Modal.closeAll()"><i class="fas fa-times"></i></button><div class="qv-play-big" onclick="Modal.upgradeToFull()"><i class="fas fa-play"></i></div></div><div class="qv-body"><div class="qv-title" id="qv-title"></div><div class="qv-meta"><div class="qv-meta-item"><i class="fas fa-star"></i><span id="qv-rating">—</span></div><div class="qv-meta-item"><i class="fas fa-calendar"></i><span id="qv-year">—</span></div><div class="qv-meta-item"><i class="fas fa-clock"></i><span id="qv-runtime">—</span></div><div class="qv-meta-item"><i class="fas fa-language"></i><span id="qv-lang">—</span></div></div><div class="qv-tags" id="qv-tags"></div><div class="qv-desc" id="qv-desc"></div><div class="qv-actions"><button class="btn-qv-play" onclick="Modal.upgradeToFull()"><i class="fas fa-play"></i> Watch Now</button><button class="btn-qv-detail" onclick="Modal.upgradeToFull()"><i class="fas fa-info-circle"></i> More Details</button><button class="btn-qv-wl" id="qv-wl-btn" onclick="Watchlist.toggleCurrent()"><i class="fas fa-heart"></i></button></div></div></div>
-  <div class="fv-modal" id="fv-modal"><div class="fv-hero"><img alt="backdrop" class="fv-backdrop" id="fv-backdrop" src=""><div class="fv-hero-grad"></div><img alt="poster" class="fv-hero-poster" id="fv-poster" src=""><button class="fv-hero-close" onclick="Modal.closeAll()"><i class="fas fa-times"></i></button></div><div class="fv-body"><div class="fv-title-row"><div class="fv-title-main"><div class="fv-title" id="fv-title"></div><div class="fv-meta-row"><span class="fv-meta-badge fv-mb-rating"><i class="fas fa-star"></i> <span id="fv-rating">—</span></span><span class="fv-meta-badge fv-mb-year" id="fv-year">—</span><span class="fv-meta-badge fv-mb-quality">4K HD</span><span class="fv-meta-badge fv-mb-lang" id="fv-lang">EN</span></div></div></div><div class="fv-actions-row"><button class="btn-fv-play" onclick="Player.playMovie()"><i class="fas fa-play"></i> Watch Now</button><div class="ep-row hidden" id="ep-row"><select class="ep-select" id="ep-season" aria-label="Season"></select><select class="ep-select ep-select-episode" id="ep-episode" aria-label="Episode"></select></div><button class="btn-fv-trailer" id="fv-trailer-btn" onclick="Player.playTrailer()" title="Trailer"><i class="fas fa-film"></i> Trailer</button><button class="btn-fv-download" id="fv-download-btn" onclick="Download.open(); return false;" title="Download" style="background:linear-gradient(135deg,#0ea5e9,#6366f1);border:0;color:#fff;padding:11px 18px;border-radius:999px;font-weight:700;font-size:13px;cursor:pointer;display:inline-flex;align-items:center;gap:7px;margin-left:8px;box-shadow:0 6px 20px rgba(14,165,233,0.25);"><i class="fas fa-download"></i> Download</button><button class="btn-fv-icon" id="fv-wl-btn" onclick="Watchlist.toggleCurrent()" title="Watchlist"><i class="fas fa-heart"></i></button><button class="btn-fv-icon" onclick="Share.current()" title="Share"><i class="fas fa-share-alt"></i></button></div><div class="fv-tabs"><div class="fv-tab active" data-tab="overview" onclick='FVTabs.showTab("overview",this)'>Overview</div><div class="fv-tab" data-tab="watch" onclick='FVTabs.showTab("watch",this)'>Watch</div><div class="fv-tab" data-tab="cast" onclick='FVTabs.showTab("cast",this)'>Cast</div><div class="fv-tab" data-tab="related" onclick='FVTabs.showTab("related",this)'>Related</div></div><div class="fv-tab-pane active" id="tab-overview"><div class="fv-overview-grid"><div><p class="fv-desc" id="fv-desc"></p></div><div><div class="fv-info-list"><div class="fv-info-item"><span class="fv-info-key">Director</span><span class="fv-info-val" id="fv-director">—</span></div><div class="fv-info-item"><span class="fv-info-key">Genre</span><span class="fv-info-val" id="fv-genre">—</span></div><div class="fv-info-item"><span class="fv-info-key">Runtime</span><span class="fv-info-val" id="fv-runtime">—</span></div><div class="fv-info-item"><span class="fv-info-key">Language</span><span class="fv-info-val" id="fv-lang-detail">—</span></div><div class="fv-info-item"><span class="fv-info-key">Status</span><span class="fv-info-val" id="fv-status">—</span></div><div class="fv-info-item"><span class="fv-info-key">Votes</span><span class="fv-info-val" id="fv-votes">—</span></div></div></div></div></div><div class="fv-tab-pane" id="tab-watch"><div class="server-notice" id="server-notice" style="display:flex !important;">
+  <div class="fv-modal" id="fv-modal"><div class="fv-hero"><img alt="backdrop" class="fv-backdrop" id="fv-backdrop" src=""><div class="fv-hero-grad"></div><img alt="poster" class="fv-hero-poster" id="fv-poster" src=""><button class="fv-hero-close" onclick="Modal.closeAll()"><i class="fas fa-times"></i></button></div><div class="fv-body"><div class="fv-title-row"><div class="fv-title-main"><div class="fv-title" id="fv-title"></div><div class="fv-meta-row"><span class="fv-meta-badge fv-mb-rating"><i class="fas fa-star"></i> <span id="fv-rating">—</span></span><span class="fv-meta-badge fv-mb-year" id="fv-year">—</span><span class="fv-meta-badge fv-mb-quality">4K HD</span><span class="fv-meta-badge fv-mb-lang" id="fv-lang">EN</span></div></div></div><div class="fv-actions-row"><button class="btn-fv-play" onclick="Player.playMovie()"><i class="fas fa-play"></i> Watch Now</button><div class="ep-row hidden" id="ep-row"><select class="ep-select" id="ep-season" aria-label="Season"></select><select class="ep-select ep-select-episode" id="ep-episode" aria-label="Episode"></select></div><button class="btn-fv-trailer" id="fv-trailer-btn" onclick="Player.playTrailer()" title="Trailer"><i class="fas fa-film"></i> Trailer</button><button class="btn-fv-download" id="fv-download-btn" onclick="Download.open(); return false;" title="Download"><i class="fas fa-download"></i> Download</button><button class="btn-fv-icon" id="fv-wl-btn" onclick="Watchlist.toggleCurrent()" title="Watchlist"><i class="fas fa-heart"></i></button><button class="btn-fv-icon" onclick="Share.current()" title="Share"><i class="fas fa-share-alt"></i></button></div><div class="fv-tabs"><div class="fv-tab active" data-tab="overview" onclick='FVTabs.showTab("overview",this)'>Overview</div><div class="fv-tab" data-tab="watch" onclick='FVTabs.showTab("watch",this)'>Watch</div><div class="fv-tab" data-tab="cast" onclick='FVTabs.showTab("cast",this)'>Cast</div><div class="fv-tab" data-tab="related" onclick='FVTabs.showTab("related",this)'>Related</div></div><div class="fv-tab-pane active" id="tab-overview"><div class="fv-overview-grid"><div><p class="fv-desc" id="fv-desc"></p></div><div><div class="fv-info-list"><div class="fv-info-item"><span class="fv-info-key">Director</span><span class="fv-info-val" id="fv-director">—</span></div><div class="fv-info-item"><span class="fv-info-key">Genre</span><span class="fv-info-val" id="fv-genre">—</span></div><div class="fv-info-item"><span class="fv-info-key">Runtime</span><span class="fv-info-val" id="fv-runtime">—</span></div><div class="fv-info-item"><span class="fv-info-key">Language</span><span class="fv-info-val" id="fv-lang-detail">—</span></div><div class="fv-info-item"><span class="fv-info-key">Status</span><span class="fv-info-val" id="fv-status">—</span></div><div class="fv-info-item"><span class="fv-info-key">Votes</span><span class="fv-info-val" id="fv-votes">—</span></div></div></div></div></div><div class="fv-tab-pane" id="tab-watch"><div class="server-notice" id="server-notice" style="display:flex !important;">
   <div class="server-notice-icon"><i class="fas fa-info-circle"></i></div>
   <div class="server-notice-text">please switch to other servers if default server doesnt work</div>
   <button class="server-notice-close" id="server-notice-close" onclick='var n=document.getElementById("server-notice"); if(n){ n.style.display="none"; } return false;' type="button"><span style="pointer-events:none;"><i class="fas fa-times"></i></span></button>
@@ -478,29 +548,26 @@
 <div class="player-wrap" style="display:none;"><iframe id="main-player-old" src=""></iframe></div>
 </div><div class="fv-tab-pane" id="tab-cast"><div class="fv-cast-scroll" id="fv-cast"></div></div><div class="fv-tab-pane" id="tab-related"><div class="fv-related-grid" id="fv-related"></div></div></div></div>
 </div>
+  <!-- DOWNLOAD MODAL - FIXED LIKE MOVIE VIEW POPUP -->
+  <div class="dl-modal" id="download-modal">
+    <button class="dl-close" onclick="Download.goBack(); return false;" title="Close"><i class="fas fa-times"></i></button>
+    <div class="dl-header">
+      <div class="dl-kicker">SELECT PROVIDER</div>
+      <h2 class="dl-title">Select A Provider From Below Provider List</h2>
+      <p class="dl-subtitle" id="mm-dl-subtitle">Movie</p>
+    </div>
+    <div class="dl-body">
+      <h3 class="dl-section-title">Available Providers</h3>
+      <p class="dl-section-desc">Please select any one from the below providers list to continue.</p>
+      <div id="mm-dl-grid" class="dl-grid"></div>
+      <div class="dl-tip"><i class="fas fa-lightbulb"></i> Tip: if one provider does not load, come back to this tab and try another one.</div>
+      <p id="mm-dl-status" class="dl-status"></p>
+      <button class="dl-back" onclick="Download.goBack(); return false;"><i class="fas fa-arrow-left"></i> Back</button>
+    </div>
+  </div>
 <script src="/js/analytics.js?v=35" defer></script>
 <script src="/js/ads.js?v=35" defer></script>
 <script src="/js/app.js?v=35" defer></script>
 <!-- DOWNLOAD PAGE -->
-<div class="cv-page" id="page-download" style="min-height:100vh;background:#0f172a;">
-<div style="background:linear-gradient(135deg,#0f172a 0%,#1e293b 100%);padding:32px 24px;text-align:center;border-bottom:1px solid rgba(255,255,255,0.06);">
-<div style="font-size:11px;letter-spacing:3px;color:#94a3b8;margin-bottom:8px;">SELECT PROVIDER</div>
-<h1 style="font-size:26px;font-weight:800;color:#fff;margin:0;">Select A Provider From Below Provider List</h1>
-<p id="mm-dl-subtitle" style="color:#94a3b8;margin-top:10px;font-size:14px;">Movie</p>
-</div>
-<div style="max-width:1100px;margin:0 auto;padding:28px 24px;">
-<h2 style="color:#fff;font-size:18px;font-weight:700;margin:0 0 6px 0;">Available Providers</h2>
-<p style="color:#94a3b8;font-size:14px;margin:0 0 18px 0;">Please select any one from the below providers list to continue.</p>
-<div id="mm-dl-grid" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:16px;"></div>
-<div style="margin-top:20px;background:rgba(255,255,255,0.06);border-left:3px solid #f59e0b;padding:12px 16px;border-radius:8px;color:#e2e8f0;font-size:14px;">Tip: if one provider does not load, come back to this tab and try another one.</div>
-<p id="mm-dl-status" style="color:#94a3b8;margin-top:12px;font-size:13px;"></p>
-<button onclick="Download.goBack()" style="margin-top:20px;background:rgba(255,255,255,0.08);border:0;color:#fff;padding:10px 18px;border-radius:999px;cursor:pointer;font-weight:600;">Go Back</button>
-</div></div>
-<style>.mm-dl-card{background:rgba(255,255,255,0.04);border:1px solid rgba(255,255,255,0.08);border-radius:16px;padding:18px;cursor:pointer;transition:all .2s;}.mm-dl-card:hover{background:rgba(14,165,233,0.08);border-color:rgba(14,165,233,0.5);transform:translateY(-2px);}.mm-dl-badge{font-size:10px;font-weight:800;letter-spacing:1px;padding:4px 10px;border-radius:999px;background:rgba(14,165,233,0.15);color:#38bdf8;border:1px solid rgba(14,165,233,0.3);}.mm-dl-badge.popular{background:rgba(14,165,233,0.2);color:#7dd3fc;}.mm-dl-badge.new{background:rgba(59,130,246,0.15);color:#60a5fa;}.mm-dl-card h3{color:#fff;margin:12px 0 6px 0;font-size:18px;}.mm-dl-card p{color:#94a3b8;font-size:13px;line-height:1.4;margin:0;}.cv-page{display:none;}.cv-page.active{display:block;}</style>
-<script>
-if('serviceWorker' in navigator){
-  navigator.serviceWorker.register('/sw.js').then(()=>console.log('SW Registered')).catch(e=>console.log(e));
-}
-</script>
 </body>
 </html>
