@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-05T18:06:35.178Z",
+  "updatedAt": "2026-11-05T18:06:43.867Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "21630",
+      "slug": "coke-studio-2008-21630",
+      "title": "Coke Studio (2008) [Pakistani TV]",
+      "displayTitle": "Coke Studio (2008)",
+      "seoTitle": "Coke Studio (2008) [Pakistani TV] | MoviMoon",
+      "year": "2008",
+      "rating": "8.3",
+      "genres": "Family, Reality",
+      "category": "Pakistani TV",
+      "image": "https://image.tmdb.org/t/p/w342/lh716YKnwHuKzzmcziL27YdqAB.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/lh716YKnwHuKzzmcziL27YdqAB.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/4iKWLtlBFULPxrgDRaeXvquLrt5.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/coke-studio-2008-21630",
+      "watchUrl": "https://movimoon.online/tv/21630-coke-studio",
+      "publishedAt": "2026-11-05T18:06:42.225Z",
+      "updatedAt": "2026-11-05T18:06:42.225Z",
+      "overview": "Coke Studio is a Pakistani music television series which features live studio music performances by various artists, started in June 2008, originating from the Brazilian show, Estúdio Coca-Cola. The show is produced by Coca-Cola Company and Strings Band. Coke Studio has been popular, receiving critical acclaim and frequently being rebroadcast on television and radio in Pakistan."
+    },
     {
       "type": "tv",
       "tmdbId": "270431",
