@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-05T00:50:39.183Z",
+  "updatedAt": "2026-11-05T00:50:47.519Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "340954",
+      "slug": "aldi-the-next-big-seller-2026-340954",
+      "title": "Aldi: The Next Big Seller (2026) [Hollywood TV]",
+      "displayTitle": "Aldi: The Next Big Seller (2026)",
+      "seoTitle": "Aldi: The Next Big Seller (2026) [Hollywood TV] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "Reality, Documentary",
+      "category": "Hollywood TV",
+      "image": "https://image.tmdb.org/t/p/w342/lLXgvBVd44r4Gsr2snpBywROa7c.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/lLXgvBVd44r4Gsr2snpBywROa7c.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/3pF5wXg2scLyCALwiTsoGOJ9Csx.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/aldi-the-next-big-seller-2026-340954",
+      "watchUrl": "https://movimoon.online/tv/340954-aldi-the-next-big-seller",
+      "publishedAt": "2026-11-05T00:50:46.113Z",
+      "updatedAt": "2026-11-05T00:50:46.113Z",
+      "overview": "Indie food producers pitch their amazing products to Aldi, as they compete to win a lucrative place on their shelves. The judges include food fanatic Anita Rani and award-winning farmer Jimmy Doherty."
+    },
     {
       "type": "movie",
       "tmdbId": "1815702",
