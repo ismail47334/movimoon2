@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-05T00:50:30.952Z",
+  "updatedAt": "2026-11-05T00:50:39.183Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1815702",
+      "slug": "inseperable-gaze-2026-1815702",
+      "title": "inseperable Gaze (2026) [Hollywood]",
+      "displayTitle": "inseperable Gaze (2026)",
+      "seoTitle": "inseperable Gaze (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "Romance",
+      "category": "Hollywood",
+      "image": "https://image.tmdb.org/t/p/w342/k7eS7nSv9WRPEGxrPc8NjqKvsew.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/k7eS7nSv9WRPEGxrPc8NjqKvsew.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/44oSxUD9Mrveck3sesHDOYbbFl0.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/inseperable-gaze-2026-1815702",
+      "watchUrl": "https://movimoon.online/movie/1815702-inseperable-gaze",
+      "publishedAt": "2026-11-05T00:50:37.742Z",
+      "updatedAt": "2026-11-05T00:50:37.742Z",
+      "overview": "Two lovers seeing each other naked for the first time."
+    },
     {
       "type": "movie",
       "tmdbId": "1816864",
