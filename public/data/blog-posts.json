@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-05T18:06:18.576Z",
+  "updatedAt": "2026-11-05T18:06:26.806Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "279155",
+      "slug": "the-silent-storm-2026-279155",
+      "title": "The Silent Storm (2026) [Hollywood TV]",
+      "displayTitle": "The Silent Storm (2026)",
+      "seoTitle": "The Silent Storm (2026) [Hollywood TV] | MoviMoon",
+      "year": "2026",
+      "rating": "9.0",
+      "genres": "Drama",
+      "category": "Hollywood TV",
+      "image": "https://image.tmdb.org/t/p/w342/c8UHaCOfzyQYagHv7vAAOkrmgDb.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/c8UHaCOfzyQYagHv7vAAOkrmgDb.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/wq90aEtC8xYym8dFovlU7X98Anq.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/the-silent-storm-2026-279155",
+      "watchUrl": "https://movimoon.online/tv/279155-the-silent-storm",
+      "publishedAt": "2026-11-05T18:06:25.131Z",
+      "updatedAt": "2026-11-05T18:06:25.131Z",
+      "overview": "In 1994, tax auditor Ouyang Xu, criminal investigator Yan Ping'an, and Zhou Haiyang—who was searching for his missing wife—met through a counterfeit invoice case in Chunjiang City. Under the tide of the times, the three experienced vastly different circumstances, and their fates gradually diverged. Years later, Operation Grain Rain brings them together again—but the brothers of old now stand on opposite sides. Ouyang Xu faces off against the tax fraud ring led by Zhou Haiyang and the protective umbrella behind it, caught in a painful choice between emotion and the law. Starting from a single invoice, he tears away the veil of greed and ultimately eliminates evil, safeguarding justice."
+    },
     {
       "type": "movie",
       "tmdbId": "1654940",
