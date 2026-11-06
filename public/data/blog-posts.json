@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T12:33:56.459Z",
+  "updatedAt": "2026-11-06T12:34:04.816Z",
   "posts": [
     {
       "type": "tv",
@@ -66,20 +66,20 @@
       "type": "movie",
       "tmdbId": "1819478",
       "slug": "respit-2026-1819478",
-      "title": "Respit (2026) [Hollywood]",
-      "displayTitle": "Respit (2026)",
-      "seoTitle": "Respit (2026) [Hollywood] | MoviMoon",
+      "title": "Respite (2026) [Hollywood]",
+      "displayTitle": "Respite (2026)",
+      "seoTitle": "Respite (2026) [Hollywood] | MoviMoon",
       "year": "2026",
       "rating": "N/A",
       "genres": "",
       "category": "Hollywood",
-      "image": "",
-      "poster": "",
-      "backdrop": "",
+      "image": "https://image.tmdb.org/t/p/w342/bJHlTjRg8MZuEXAbbRElzMQk6xF.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/bJHlTjRg8MZuEXAbbRElzMQk6xF.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w342/bJHlTjRg8MZuEXAbbRElzMQk6xF.jpg",
       "url": "https://movimoon.online/blog/movie-posts/respit-2026-1819478",
-      "watchUrl": "https://movimoon.online/movie/1819478-respit",
+      "watchUrl": "https://movimoon.online/movie/1819478-respite",
       "publishedAt": "2026-11-06T00:50:30.300Z",
-      "updatedAt": "2026-11-06T00:50:30.300Z",
+      "updatedAt": "2026-11-06T12:34:03.368Z",
       "overview": "A young Danish man travels to Norway to clear out the house of his late mother, confronting the remains and the place. As he moves through unfamiliar surroundings, the film unfolds a story about family tensions, loss and belonging."
     },
     {
