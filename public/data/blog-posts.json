@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T18:06:10.986Z",
+  "updatedAt": "2026-11-06T18:06:19.019Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1263337",
+      "slug": "heart-of-the-beast-2026-1263337",
+      "title": "Heart of the Beast (2026) [Hollywood]",
+      "displayTitle": "Heart of the Beast (2026)",
+      "seoTitle": "Heart of the Beast (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "7.3",
+      "genres": "Adventure, Thriller",
+      "category": "Hollywood",
+      "image": "https://image.tmdb.org/t/p/w342/6sYemVUn79UPKz1ZsSG6kPU4RVy.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/6sYemVUn79UPKz1ZsSG6kPU4RVy.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/kpqsljPQtWqPKJBTAEtoXtQZ9Ko.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/heart-of-the-beast-2026-1263337",
+      "watchUrl": "https://movimoon.online/movie/1263337-heart-of-the-beast",
+      "publishedAt": "2026-11-06T18:06:17.594Z",
+      "updatedAt": "2026-11-06T18:06:17.594Z",
+      "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements."
+    },
     {
       "type": "movie",
       "tmdbId": "1483525",
