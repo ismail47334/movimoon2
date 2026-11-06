@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T12:33:47.591Z",
+  "updatedAt": "2026-11-06T12:33:56.459Z",
   "posts": [
     {
       "type": "tv",
@@ -50,17 +50,17 @@
       "displayTitle": "Nostalgia. (2026)",
       "seoTitle": "Nostalgia. (2026) [Hollywood] | MoviMoon",
       "year": "2026",
-      "rating": "N/A",
+      "rating": "8.0",
       "genres": "",
       "category": "Hollywood",
-      "image": "",
-      "poster": "",
-      "backdrop": "",
+      "image": "https://image.tmdb.org/t/p/w342/bobGhp9BRkDGAjJ8x07fKH58NSF.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/bobGhp9BRkDGAjJ8x07fKH58NSF.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w342/bobGhp9BRkDGAjJ8x07fKH58NSF.jpg",
       "url": "https://movimoon.online/blog/movie-posts/nostalgia-2026-1819474",
       "watchUrl": "https://movimoon.online/movie/1819474-nostalgia",
       "publishedAt": "2026-11-06T00:50:40.144Z",
-      "updatedAt": "2026-11-06T00:50:40.145Z",
-      "overview": ""
+      "updatedAt": "2026-11-06T12:33:55.033Z",
+      "overview": "On a morning like any other, a young man recalls the summers of his childhood."
     },
     {
       "type": "movie",
