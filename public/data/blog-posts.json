@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T12:33:38.354Z",
+  "updatedAt": "2026-11-06T12:33:47.591Z",
   "posts": [
     {
       "type": "tv",
@@ -33,13 +33,13 @@
       "rating": "N/A",
       "genres": "",
       "category": "Hollywood TV",
-      "image": "",
-      "poster": "",
-      "backdrop": "",
+      "image": "https://image.tmdb.org/t/p/w342/7KTHqELZMK3Vl1uD607UFBdSEV4.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/7KTHqELZMK3Vl1uD607UFBdSEV4.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w342/7KTHqELZMK3Vl1uD607UFBdSEV4.jpg",
       "url": "https://movimoon.online/blog/tv-series-posts/kauriburi-the-cursed-temple-2026-341165",
       "watchUrl": "https://movimoon.online/tv/341165-kauriburi-the-cursed-temple",
       "publishedAt": "2026-11-06T00:50:49.901Z",
-      "updatedAt": "2026-11-06T00:50:49.901Z",
+      "updatedAt": "2026-11-06T12:33:46.046Z",
       "overview": "An astrologer with psychic gifts ventures into a haunted forest to stop a secretive ancient order from sacrificing the woman he once loved."
     },
     {
