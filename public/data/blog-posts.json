@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-05T18:06:43.867Z",
+  "updatedAt": "2026-11-06T00:50:32.174Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1819478",
+      "slug": "respit-2026-1819478",
+      "title": "Respit (2026) [Hollywood]",
+      "displayTitle": "Respit (2026)",
+      "seoTitle": "Respit (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "",
+      "category": "Hollywood",
+      "image": "",
+      "poster": "",
+      "backdrop": "",
+      "url": "https://movimoon.online/blog/movie-posts/respit-2026-1819478",
+      "watchUrl": "https://movimoon.online/movie/1819478-respit",
+      "publishedAt": "2026-11-06T00:50:30.300Z",
+      "updatedAt": "2026-11-06T00:50:30.300Z",
+      "overview": "A young Danish man travels to Norway to clear out the house of his late mother, confronting the remains and the place. As he moves through unfamiliar surroundings, the film unfolds a story about family tensions, loss and belonging."
+    },
     {
       "type": "tv",
       "tmdbId": "21630",
