@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T18:06:35.107Z",
+  "updatedAt": "2026-11-06T18:06:43.334Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "303044",
+      "slug": "campus-drivers-2026-303044",
+      "title": "Campus Drivers (2026) [Hollywood TV]",
+      "displayTitle": "Campus Drivers (2026)",
+      "seoTitle": "Campus Drivers (2026) [Hollywood TV] | MoviMoon",
+      "year": "2026",
+      "rating": "8.5",
+      "genres": "Drama",
+      "category": "Hollywood TV",
+      "image": "https://image.tmdb.org/t/p/w342/1vqJ8kNCz91C2fUpXSma7oAWCc5.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/1vqJ8kNCz91C2fUpXSma7oAWCc5.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/oaWJm4brEMSWBmQIB73DFxsU683.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/campus-drivers-2026-303044",
+      "watchUrl": "https://movimoon.online/tv/303044-campus-drivers",
+      "publishedAt": "2026-11-06T18:06:41.655Z",
+      "updatedAt": "2026-11-06T18:06:41.655Z",
+      "overview": "Lois arrives in Belrose with Max, the love of her life. Lane, the creator of Campus Drivers, the hottest app on campus, is known for never getting attached. Their paths were never meant to cross. But some encounters change everything, reopening old wounds. And when love appears unexpectedly, nothing is certain anymore."
+    },
     {
       "type": "tv",
       "tmdbId": "328010",
