@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T00:50:41.793Z",
+  "updatedAt": "2026-11-06T00:50:51.878Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "341165",
+      "slug": "kauriburi-the-cursed-temple-2026-341165",
+      "title": "Kauriburi: The Cursed Temple (2026) [Hollywood TV]",
+      "displayTitle": "Kauriburi: The Cursed Temple (2026)",
+      "seoTitle": "Kauriburi: The Cursed Temple (2026) [Hollywood TV] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "",
+      "category": "Hollywood TV",
+      "image": "",
+      "poster": "",
+      "backdrop": "",
+      "url": "https://movimoon.online/blog/tv-series-posts/kauriburi-the-cursed-temple-2026-341165",
+      "watchUrl": "https://movimoon.online/tv/341165-kauriburi-the-cursed-temple",
+      "publishedAt": "2026-11-06T00:50:49.901Z",
+      "updatedAt": "2026-11-06T00:50:49.901Z",
+      "overview": "An astrologer with psychic gifts ventures into a haunted forest to stop a secretive ancient order from sacrificing the woman he once loved."
+    },
     {
       "type": "movie",
       "tmdbId": "1819474",
