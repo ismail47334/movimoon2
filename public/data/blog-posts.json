@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T12:34:13.491Z",
+  "updatedAt": "2026-11-06T18:06:10.986Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1483525",
+      "slug": "possible-love-2026-1483525",
+      "title": "Possible Love (2026) [Hollywood]",
+      "displayTitle": "Possible Love (2026)",
+      "seoTitle": "Possible Love (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "7.7",
+      "genres": "Drama",
+      "category": "Hollywood",
+      "image": "https://image.tmdb.org/t/p/w342/1ERGPNiKtnEcsvJS1ywsmqmcIDO.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/1ERGPNiKtnEcsvJS1ywsmqmcIDO.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/k0BY5D4Ya6NHhsvNYMmaabpvUtS.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/possible-love-2026-1483525",
+      "watchUrl": "https://movimoon.online/movie/1483525-possible-love",
+      "publishedAt": "2026-11-06T18:06:08.151Z",
+      "updatedAt": "2026-11-06T18:06:08.151Z",
+      "overview": "A laid-off worker and his wife cross paths with a documentary filmmaker and her spouse and confront their hidden desires."
+    },
     {
       "type": "tv",
       "tmdbId": "341065",
