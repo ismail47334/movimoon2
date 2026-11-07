@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T18:06:43.334Z",
+  "updatedAt": "2026-11-07T00:50:30.966Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1820176",
+      "slug": "coeur-de-louve-2026-1820176",
+      "title": "Coeur de Louve (2026) [Hollywood]",
+      "displayTitle": "Coeur de Louve (2026)",
+      "seoTitle": "Coeur de Louve (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "",
+      "category": "Hollywood",
+      "image": "",
+      "poster": "",
+      "backdrop": "",
+      "url": "https://movimoon.online/blog/movie-posts/coeur-de-louve-2026-1820176",
+      "watchUrl": "https://movimoon.online/movie/1820176-coeur-de-louve",
+      "publishedAt": "2026-11-07T00:50:29.346Z",
+      "updatedAt": "2026-11-07T00:50:29.346Z",
+      "overview": ""
+    },
     {
       "type": "tv",
       "tmdbId": "303044",
