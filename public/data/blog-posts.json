@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-07T18:06:09.657Z",
+  "updatedAt": "2026-11-07T18:06:19.714Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1368337",
+      "slug": "the-odyssey-2026-1368337",
+      "title": "The Odyssey (2026) [Hollywood]",
+      "displayTitle": "The Odyssey (2026)",
+      "seoTitle": "The Odyssey (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "8.0",
+      "genres": "Adventure, Action, Fantasy",
+      "category": "Hollywood",
+      "image": "https://image.tmdb.org/t/p/w342/krVa7rKCQb4OBfsr2LTJv4rTz5q.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/krVa7rKCQb4OBfsr2LTJv4rTz5q.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/iDiTY1wA35YWzTmXLTtqaxtN6tc.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/the-odyssey-2026-1368337",
+      "watchUrl": "https://movimoon.online/movie/1368337-the-odyssey",
+      "publishedAt": "2026-11-07T18:06:18.370Z",
+      "updatedAt": "2026-11-07T18:06:18.370Z",
+      "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point."
+    },
     {
       "type": "movie",
       "tmdbId": "1633056",
