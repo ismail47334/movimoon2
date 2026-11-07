@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-07T00:50:30.966Z",
+  "updatedAt": "2026-11-07T00:50:39.296Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1819900",
+      "slug": "the-last-bell-2026-1819900",
+      "title": "The Last Bell (2026) [Hollywood]",
+      "displayTitle": "The Last Bell (2026)",
+      "seoTitle": "The Last Bell (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "Drama",
+      "category": "Hollywood",
+      "image": "https://image.tmdb.org/t/p/w342/1FXBKfLTthKq1YIHRIBzXAD8QDC.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/1FXBKfLTthKq1YIHRIBzXAD8QDC.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w342/1FXBKfLTthKq1YIHRIBzXAD8QDC.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/the-last-bell-2026-1819900",
+      "watchUrl": "https://movimoon.online/movie/1819900-the-last-bell",
+      "publishedAt": "2026-11-07T00:50:37.859Z",
+      "updatedAt": "2026-11-07T00:50:37.859Z",
+      "overview": "Michael and Leo are two childhood best friends who have grown up sharing countless memories, laughter, and unforgettable moments together. From their everyday school adventures to their smallest conversations, their friendship has always been an important part of their lives."
+    },
     {
       "type": "movie",
       "tmdbId": "1820176",
