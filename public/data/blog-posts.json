@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-07T12:33:36.904Z",
+  "updatedAt": "2026-11-07T12:33:44.566Z",
   "posts": [
     {
       "type": "tv",
@@ -33,13 +33,13 @@
       "rating": "N/A",
       "genres": "",
       "category": "Hollywood TV",
-      "image": "",
-      "poster": "",
-      "backdrop": "",
+      "image": "https://image.tmdb.org/t/p/w342/wvtTIZR9ToPSeDPQSDr9fgEQROT.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/wvtTIZR9ToPSeDPQSDr9fgEQROT.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w342/wvtTIZR9ToPSeDPQSDr9fgEQROT.jpg",
       "url": "https://movimoon.online/blog/tv-series-posts/fuera-de-control-2026-341253",
       "watchUrl": "https://movimoon.online/tv/341253-fuera-de-control",
       "publishedAt": "2026-11-07T00:50:46.357Z",
-      "updatedAt": "2026-11-07T00:50:46.358Z",
+      "updatedAt": "2026-11-07T12:33:43.140Z",
       "overview": ""
     },
     {
