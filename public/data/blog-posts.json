@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-07T18:06:38.002Z",
+  "updatedAt": "2026-11-07T18:06:47.177Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "130542",
+      "slug": "bhagya-lakshmi-2021-130542",
+      "title": "Bhagya Lakshmi (2021) [Hindi TV]",
+      "displayTitle": "Bhagya Lakshmi (2021)",
+      "seoTitle": "Bhagya Lakshmi (2021) [Hindi TV] | MoviMoon",
+      "year": "2021",
+      "rating": "5.8",
+      "genres": "Soap",
+      "category": "Hindi TV",
+      "image": "https://image.tmdb.org/t/p/w342/gG7VzFKAOuGqCJyHQJRTn9f7UMl.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/gG7VzFKAOuGqCJyHQJRTn9f7UMl.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/5772mIxerrOtleSmFadAV8RyXQZ.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/bhagya-lakshmi-2021-130542",
+      "watchUrl": "https://movimoon.online/tv/130542-bhagya-lakshmi",
+      "publishedAt": "2026-11-07T18:06:45.714Z",
+      "updatedAt": "2026-11-07T18:06:45.714Z",
+      "overview": "Hailing from a middle-class family, Lakshmi’s life is upended when she realises that her marriage to Rishi Oberoi, an industrialist’s son, is a sham to keep his death at bay."
+    },
     {
       "type": "tv",
       "tmdbId": "75230",
