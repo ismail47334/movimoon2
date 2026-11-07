@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-07T12:34:08.816Z",
+  "updatedAt": "2026-11-07T18:06:09.657Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1633056",
+      "slug": "all-wishes-come-true-2026-1633056",
+      "title": "All Wishes Come True! (2026) [Hollywood]",
+      "displayTitle": "All Wishes Come True! (2026)",
+      "seoTitle": "All Wishes Come True! (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "8.2",
+      "genres": "Comedy, Animation, Fantasy, Adventure",
+      "category": "Hollywood",
+      "image": "https://image.tmdb.org/t/p/w342/wJ9FLxq3Q6D4ve8TUepYsr0PL3p.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/wJ9FLxq3Q6D4ve8TUepYsr0PL3p.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/aazqIVNIqgRp3YwUNv5nEhdJE0T.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/all-wishes-come-true-2026-1633056",
+      "watchUrl": "https://movimoon.online/movie/1633056-all-wishes-come-true",
+      "publishedAt": "2026-11-07T18:06:07.923Z",
+      "updatedAt": "2026-11-07T18:06:07.924Z",
+      "overview": "Eight grassroot mortals use their street smarts and hilarious schemes to defy powerful gods, earning their title as the Eight Immortals."
+    },
     {
       "type": "tv",
       "tmdbId": "341248",
