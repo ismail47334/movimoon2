@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-08T12:33:40.745Z",
+  "updatedAt": "2026-11-08T12:33:58.996Z",
   "posts": [
     {
       "type": "tv",
@@ -33,13 +33,13 @@
       "rating": "N/A",
       "genres": "",
       "category": "Hollywood TV",
-      "image": "",
-      "poster": "",
-      "backdrop": "",
+      "image": "https://image.tmdb.org/t/p/w342/56q80WeoSzf3PS8jpLkyhK6qsJP.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/56q80WeoSzf3PS8jpLkyhK6qsJP.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/gcvlrnaWwZqb3W6xJfxLFCT20TR.jpg",
       "url": "https://movimoon.online/blog/tv-series-posts/his-omega-my-boywife-2026-341405",
       "watchUrl": "https://movimoon.online/tv/341405-his-omega-my-boywife",
       "publishedAt": "2026-11-08T00:50:50.366Z",
-      "updatedAt": "2026-11-08T00:50:50.366Z",
+      "updatedAt": "2026-11-08T12:33:56.661Z",
       "overview": ""
     },
     {
