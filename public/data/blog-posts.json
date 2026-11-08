@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-07T18:06:47.177Z",
+  "updatedAt": "2026-11-08T00:50:32.809Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1819820",
+      "slug": "batty-2026-1819820",
+      "title": "Batty (2026) [Hollywood]",
+      "displayTitle": "Batty (2026)",
+      "seoTitle": "Batty (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "Drama",
+      "category": "Hollywood",
+      "image": "https://image.tmdb.org/t/p/w342/eIWGOWdWCh5DFCm18JxOOuIWHHL.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/eIWGOWdWCh5DFCm18JxOOuIWHHL.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w342/eIWGOWdWCh5DFCm18JxOOuIWHHL.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/batty-2026-1819820",
+      "watchUrl": "https://movimoon.online/movie/1819820-batty",
+      "publishedAt": "2026-11-08T00:50:30.945Z",
+      "updatedAt": "2026-11-08T00:50:30.945Z",
+      "overview": "Confronted with his own mortality, a renowned septuagenarian writer embarks on one final journey to recover the lost manuscript of his debut novel. In doing so, he seeks to confront his past and reconcile with the person he once was in his youth, before time slips away from him."
+    },
     {
       "type": "tv",
       "tmdbId": "130542",
