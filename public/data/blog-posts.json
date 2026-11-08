@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-08T00:50:32.809Z",
+  "updatedAt": "2026-11-08T00:50:42.500Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1819794",
+      "slug": "lola-and-the-lollipop-lady-2026-1819794",
+      "title": "Lola and the Lollipop Lady (2026) [Hollywood]",
+      "displayTitle": "Lola and the Lollipop Lady (2026)",
+      "seoTitle": "Lola and the Lollipop Lady (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "Family, Adventure",
+      "category": "Hollywood",
+      "image": "https://image.tmdb.org/t/p/w342/tg9Na0amj5XPw2nU2rF2OSxITPA.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/tg9Na0amj5XPw2nU2rF2OSxITPA.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w342/tg9Na0amj5XPw2nU2rF2OSxITPA.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/lola-and-the-lollipop-lady-2026-1819794",
+      "watchUrl": "https://movimoon.online/movie/1819794-lola-and-the-lollipop-lady",
+      "publishedAt": "2026-11-08T00:50:40.821Z",
+      "updatedAt": "2026-11-08T00:50:40.821Z",
+      "overview": "When the lollipop lady at Green Orchard Primary school disappears, Grade 6 student Lola makes it her mission to find out where she went..."
+    },
     {
       "type": "movie",
       "tmdbId": "1819820",
