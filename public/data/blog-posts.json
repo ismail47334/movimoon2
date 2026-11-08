@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-08T18:06:44.578Z",
+  "updatedAt": "2026-11-08T18:06:53.888Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "253372",
+      "slug": "the-institute-2025-253372",
+      "title": "The Institute (2025) [Hollywood TV]",
+      "displayTitle": "The Institute (2025)",
+      "seoTitle": "The Institute (2025) [Hollywood TV] | MoviMoon",
+      "year": "2025",
+      "rating": "7.5",
+      "genres": "Mystery, Sci-Fi & Fantasy",
+      "category": "Hollywood TV",
+      "image": "https://image.tmdb.org/t/p/w342/7JXZdWifaa6wL0XLRi0GJOlOA8y.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/7JXZdWifaa6wL0XLRi0GJOlOA8y.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/9LALiE3I9dInFmMlI1BvzlhFMmP.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/the-institute-2025-253372",
+      "watchUrl": "https://movimoon.online/tv/253372-the-institute",
+      "publishedAt": "2026-11-08T18:06:52.122Z",
+      "updatedAt": "2026-11-08T18:06:52.122Z",
+      "overview": "When 14 year old genius Luke Ellis is kidnapped, he awakens at The Institute, a facility full of children who all got there the same way he did, and who are all possessed of unusual abilities. In a nearby town, haunted former police officer Tim Jamieson has come looking to start a new life, but the peace and quiet won’t last, as his story and Luke’s are destined to collide."
+    },
     {
       "type": "tv",
       "tmdbId": "223397",
