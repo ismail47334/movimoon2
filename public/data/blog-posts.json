@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-08T18:06:35.393Z",
+  "updatedAt": "2026-11-08T18:06:44.578Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "223397",
+      "slug": "city-of-god-the-fight-rages-on-2024-223397",
+      "title": "City of God: The Fight Rages On (2024) [Hollywood TV]",
+      "displayTitle": "City of God: The Fight Rages On (2024)",
+      "seoTitle": "City of God: The Fight Rages On (2024) [Hollywood TV] | MoviMoon",
+      "year": "2024",
+      "rating": "7.7",
+      "genres": "Crime, Drama",
+      "category": "Hollywood TV",
+      "image": "https://image.tmdb.org/t/p/w342/8VU9RTbNojFw3kaAUc2wE16zMxf.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/8VU9RTbNojFw3kaAUc2wE16zMxf.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/KvlbwzWi5ldhfPFRzOZy67rsKz.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/city-of-god-the-fight-rages-on-2024-223397",
+      "watchUrl": "https://movimoon.online/tv/223397-city-of-god-the-fight-rages-on",
+      "publishedAt": "2026-11-08T18:06:42.586Z",
+      "updatedAt": "2026-11-08T18:06:42.586Z",
+      "overview": "Twenty years after City of God, Buscapé recounts how conflicts between police, traffickers, and militias impacted the community."
+    },
     {
       "type": "movie",
       "tmdbId": "1049064",
