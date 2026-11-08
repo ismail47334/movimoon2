@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-08T00:50:42.500Z",
+  "updatedAt": "2026-11-08T00:50:51.982Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "341405",
+      "slug": "his-omega-my-boywife-2026-341405",
+      "title": "His Omega, My Boywife (2026) [Hollywood TV]",
+      "displayTitle": "His Omega, My Boywife (2026)",
+      "seoTitle": "His Omega, My Boywife (2026) [Hollywood TV] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "",
+      "category": "Hollywood TV",
+      "image": "",
+      "poster": "",
+      "backdrop": "",
+      "url": "https://movimoon.online/blog/tv-series-posts/his-omega-my-boywife-2026-341405",
+      "watchUrl": "https://movimoon.online/tv/341405-his-omega-my-boywife",
+      "publishedAt": "2026-11-08T00:50:50.366Z",
+      "updatedAt": "2026-11-08T00:50:50.366Z",
+      "overview": ""
+    },
     {
       "type": "movie",
       "tmdbId": "1819794",
