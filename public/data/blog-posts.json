@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-08T18:06:22.872Z",
+  "updatedAt": "2026-11-08T18:06:35.393Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1049064",
+      "slug": "mahendragiri-vaaraahi-2026-1049064",
+      "title": "Mahendragiri Vaaraahi (2026) [Tollywood]",
+      "displayTitle": "Mahendragiri Vaaraahi (2026)",
+      "seoTitle": "Mahendragiri Vaaraahi (2026) [Tollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "6.0",
+      "genres": "Fantasy, Thriller, Mystery",
+      "category": "Tollywood",
+      "image": "https://image.tmdb.org/t/p/w342/hYfu1SIE1wViNVPT0zdlqTwpPeb.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/hYfu1SIE1wViNVPT0zdlqTwpPeb.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/qfZSKbfit41qcjBOvUDWV2v9WEz.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/mahendragiri-vaaraahi-2026-1049064",
+      "watchUrl": "https://movimoon.online/movie/1049064-mahendragiri-vaaraahi",
+      "publishedAt": "2026-11-08T18:06:32.499Z",
+      "updatedAt": "2026-11-08T18:06:32.499Z",
+      "overview": "Siddharth, an atheist and skeptic, is drawn into a mysterious journey surrounding the ancient Varahi temple at Mahendragiri. As he uncovers secrets connected to the sacred site, he is forced to confront forces beyond his understanding, challenging his beliefs and changing his perception of faith, destiny, and the supernatural."
+    },
     {
       "type": "movie",
       "tmdbId": "1402181",
