@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-08T12:35:17.677Z",
+  "updatedAt": "2026-11-08T18:06:10.697Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1327835",
+      "slug": "mookuthi-amman-2-2026-1327835",
+      "title": "Mookuthi Amman 2 (2026) [Kollywood]",
+      "displayTitle": "Mookuthi Amman 2 (2026)",
+      "seoTitle": "Mookuthi Amman 2 (2026) [Kollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "Fantasy, Drama, Comedy",
+      "category": "Kollywood",
+      "image": "https://image.tmdb.org/t/p/w342/dNNzsstJeQxnESyH0hZcLGblLMz.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/dNNzsstJeQxnESyH0hZcLGblLMz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/mxrT9YpOPuLq2PpSehAuCGCqu8r.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/mookuthi-amman-2-2026-1327835",
+      "watchUrl": "https://movimoon.online/movie/1327835-mookuthi-amman-2",
+      "publishedAt": "2026-11-08T18:06:09.096Z",
+      "updatedAt": "2026-11-08T18:06:09.097Z",
+      "overview": "A queen sacrifices herself to protect her son, the prince, from invading enemies.Mookuthi Amman returns to protect the child and confronts a mysterious woman who embodies a new and dangerous evil."
+    },
     {
       "type": "tv",
       "tmdbId": "341207",
