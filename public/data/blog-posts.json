@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-09T18:06:18.402Z",
+  "updatedAt": "2026-11-09T18:06:26.981Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "65942",
+      "slug": "re-zero-starting-life-in-another-world-2016-65942",
+      "title": "Re:ZERO -Starting Life in Another World- (2016) [Hollywood TV]",
+      "displayTitle": "Re:ZERO -Starting Life in Another World- (2016)",
+      "seoTitle": "Re:ZERO -Starting Life in Another World- (2016) [Hollywood TV] | MoviMoon",
+      "year": "2016",
+      "rating": "8.1",
+      "genres": "Animation, Mystery, Action & Adventure, Sci-Fi & Fantasy",
+      "category": "Hollywood TV",
+      "image": "https://image.tmdb.org/t/p/w342/oHqYrPAsIiTD5m4DuxumV4er8BU.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/oHqYrPAsIiTD5m4DuxumV4er8BU.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/7ZruEnSnHD6Jx5mF0hBt1E306Vt.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/re-zero-starting-life-in-another-world-2016-65942",
+      "watchUrl": "https://movimoon.online/tv/65942-re-zero-starting-life-in-another-world",
+      "publishedAt": "2026-11-09T18:06:25.287Z",
+      "updatedAt": "2026-11-09T18:06:25.287Z",
+      "overview": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for."
+    },
     {
       "type": "movie",
       "tmdbId": "1567605",
