@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-09T00:50:49.299Z",
+  "updatedAt": "2026-11-09T00:50:57.270Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "338813",
+      "slug": "hotel-bl-ff-2026-338813",
+      "title": "Hotel Blöff (2026) [Hollywood TV]",
+      "displayTitle": "Hotel Blöff (2026)",
+      "seoTitle": "Hotel Blöff (2026) [Hollywood TV] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "Reality",
+      "category": "Hollywood TV",
+      "image": "https://image.tmdb.org/t/p/w342/x9QdROLNUXS2V0j6bLw5L0LGe0c.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/x9QdROLNUXS2V0j6bLw5L0LGe0c.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/8rzMezkMqVZoFeYFSajJVj2zSKi.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/hotel-bl-ff-2026-338813",
+      "watchUrl": "https://movimoon.online/tv/338813-hotel-bl-ff",
+      "publishedAt": "2026-11-09T00:50:55.701Z",
+      "updatedAt": "2026-11-09T00:50:55.701Z",
+      "overview": ""
+    },
     {
       "type": "tv",
       "tmdbId": "340898",
