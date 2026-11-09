@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-09T18:06:26.981Z",
+  "updatedAt": "2026-11-09T18:06:35.367Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "116479",
+      "slug": "anupamaa-2020-116479",
+      "title": "Anupamaa (2020) [Hindi TV]",
+      "displayTitle": "Anupamaa (2020)",
+      "seoTitle": "Anupamaa (2020) [Hindi TV] | MoviMoon",
+      "year": "2020",
+      "rating": "4.8",
+      "genres": "Drama, Soap",
+      "category": "Hindi TV",
+      "image": "https://image.tmdb.org/t/p/w342/i3ZcFxUiGr6HV5yv1i6n7uKHyj7.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/i3ZcFxUiGr6HV5yv1i6n7uKHyj7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/wBu3BErMuZ51H701J8QjmoHdBHr.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/anupamaa-2020-116479",
+      "watchUrl": "https://movimoon.online/tv/116479-anupamaa",
+      "publishedAt": "2026-11-09T18:06:33.897Z",
+      "updatedAt": "2026-11-09T18:06:33.897Z",
+      "overview": "Anupama had to sacrifice a lot to become an ideal wife, daughter-in-law, and mother. After a bitter realisation, she sets out to live on her own terms."
+    },
     {
       "type": "tv",
       "tmdbId": "65942",
