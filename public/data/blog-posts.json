@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-09T12:34:33.206Z",
+  "updatedAt": "2026-11-09T18:06:09.643Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1616419",
+      "slug": "the-good-lawyer-2026-1616419",
+      "title": "The Good Lawyer (2026) [Hollywood]",
+      "displayTitle": "The Good Lawyer (2026)",
+      "seoTitle": "The Good Lawyer (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "7.0",
+      "genres": "Thriller, Drama",
+      "category": "Hollywood",
+      "image": "https://image.tmdb.org/t/p/w342/5gLUXJZzyL1GQAAGdfnz1KEH8gj.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/5gLUXJZzyL1GQAAGdfnz1KEH8gj.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/fzlch1j1aVGJKI0GB6IdgbG5gpJ.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/the-good-lawyer-2026-1616419",
+      "watchUrl": "https://movimoon.online/movie/1616419-the-good-lawyer",
+      "publishedAt": "2026-11-09T18:06:08.018Z",
+      "updatedAt": "2026-11-09T18:06:08.018Z",
+      "overview": "Léonard Landry, a flamboyant criminal defence lawyer, overdoses in the middle of the courtroom. After undergoing rehab, he has one week to save his career and prepare for his own trial, reluctantly assisted by a tenacious intern, Noé. This marks the beginning of a frantic race involving legal manoeuvres, temptations and dramatic twists."
+    },
     {
       "type": "tv",
       "tmdbId": "338813",
