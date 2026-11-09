@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-08T18:06:53.888Z",
+  "updatedAt": "2026-11-09T00:50:31.279Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1821231",
+      "slug": "chipcinema-odyssey-2026-1821231",
+      "title": "CHIPCINEMA ODYSSEY (2026) [Hollywood]",
+      "displayTitle": "CHIPCINEMA ODYSSEY (2026)",
+      "seoTitle": "CHIPCINEMA ODYSSEY (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "Animation, Fantasy",
+      "category": "Hollywood",
+      "image": "https://image.tmdb.org/t/p/w342/fsQIOfYa2aXKPnfiiTl5e8I6L3h.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/fsQIOfYa2aXKPnfiiTl5e8I6L3h.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/zaDS27dTjgG7FZJNpKuVvKuISaD.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/chipcinema-odyssey-2026-1821231",
+      "watchUrl": "https://movimoon.online/movie/1821231-chipcinema-odyssey",
+      "publishedAt": "2026-11-09T00:50:29.458Z",
+      "updatedAt": "2026-11-09T00:50:29.458Z",
+      "overview": "An animated journey through the niche genre of chipcinema AKA 8-bit cinema. This film combines a variety of retro shorts with the surreal works of Ikko Ohno into one leisurely voyage. Take some puffs and enjoy the journey through this pixel-art dreamscape."
+    },
     {
       "type": "tv",
       "tmdbId": "253372",
