@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-09T18:06:35.367Z",
+  "updatedAt": "2026-11-09T18:06:44.386Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "313738",
+      "slug": "one-of-a-kind-romance-2026-313738",
+      "title": "One of a Kind Romance (2026) [Hollywood TV]",
+      "displayTitle": "One of a Kind Romance (2026)",
+      "seoTitle": "One of a Kind Romance (2026) [Hollywood TV] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "Comedy, Drama",
+      "category": "Hollywood TV",
+      "image": "https://image.tmdb.org/t/p/w342/l9oQ1Ql8DJqYnrDyU85fAPYTmrD.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/l9oQ1Ql8DJqYnrDyU85fAPYTmrD.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/pSsJ2qQypNVzLNYKV6ixORDW7kM.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/one-of-a-kind-romance-2026-313738",
+      "watchUrl": "https://movimoon.online/tv/313738-one-of-a-kind-romance",
+      "publishedAt": "2026-11-09T18:06:42.536Z",
+      "updatedAt": "2026-11-09T18:06:42.536Z",
+      "overview": "A romance driven by personal desire that unfolds when top actor Tak Mu-i and idol Ryu Min enter the ordinary daily life of job seeker Gong Yu-il."
+    },
     {
       "type": "tv",
       "tmdbId": "116479",
