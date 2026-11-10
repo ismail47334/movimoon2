@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-10T12:34:11.836Z",
+  "updatedAt": "2026-11-10T18:06:09.843Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1400837",
+      "slug": "other-mommy-2026-1400837",
+      "title": "Other Mommy (2026) [Hollywood]",
+      "displayTitle": "Other Mommy (2026)",
+      "seoTitle": "Other Mommy (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "5.8",
+      "genres": "Horror",
+      "category": "Hollywood",
+      "image": "https://image.tmdb.org/t/p/w342/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/other-mommy-2026-1400837",
+      "watchUrl": "https://movimoon.online/movie/1400837-other-mommy",
+      "publishedAt": "2026-11-10T18:06:08.164Z",
+      "updatedAt": "2026-11-10T18:06:08.166Z",
+      "overview": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world."
+    },
     {
       "type": "tv",
       "tmdbId": "340088",
