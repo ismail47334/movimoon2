@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-10T12:33:37.401Z",
+  "updatedAt": "2026-11-10T12:33:45.507Z",
   "posts": [
     {
       "type": "tv",
@@ -51,15 +51,15 @@
       "seoTitle": "Huaynacancha waylla ichu (2026) [Hollywood] | MoviMoon",
       "year": "2026",
       "rating": "N/A",
-      "genres": "",
+      "genres": "Drama, Action, History",
       "category": "Hollywood",
-      "image": "",
-      "poster": "",
-      "backdrop": "",
+      "image": "https://image.tmdb.org/t/p/w342/yf8GUij2sfGld7ITDjsyVZQzlG1.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/yf8GUij2sfGld7ITDjsyVZQzlG1.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/wykpCJYcex9S8LIubD3l8K19dWY.jpg",
       "url": "https://movimoon.online/blog/movie-posts/huaynacancha-waylla-ichu-2026-1822329",
       "watchUrl": "https://movimoon.online/movie/1822329-huaynacancha-waylla-ichu",
       "publishedAt": "2026-11-10T00:50:37.702Z",
-      "updatedAt": "2026-11-10T00:50:37.702Z",
+      "updatedAt": "2026-11-10T12:33:44.076Z",
       "overview": ""
     },
     {
