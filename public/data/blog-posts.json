@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-10T00:50:31.162Z",
+  "updatedAt": "2026-11-10T00:50:39.479Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1822329",
+      "slug": "huaynacancha-waylla-ichu-2026-1822329",
+      "title": "Huaynacancha waylla ichu (2026) [Hollywood]",
+      "displayTitle": "Huaynacancha waylla ichu (2026)",
+      "seoTitle": "Huaynacancha waylla ichu (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "",
+      "category": "Hollywood",
+      "image": "",
+      "poster": "",
+      "backdrop": "",
+      "url": "https://movimoon.online/blog/movie-posts/huaynacancha-waylla-ichu-2026-1822329",
+      "watchUrl": "https://movimoon.online/movie/1822329-huaynacancha-waylla-ichu",
+      "publishedAt": "2026-11-10T00:50:37.702Z",
+      "updatedAt": "2026-11-10T00:50:37.702Z",
+      "overview": ""
+    },
     {
       "type": "movie",
       "tmdbId": "1822333",
