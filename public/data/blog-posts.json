@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-09T18:06:44.386Z",
+  "updatedAt": "2026-11-10T00:50:31.162Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1822333",
+      "slug": "kaboom-2026-1822333",
+      "title": "\"KABOOM!\" (2026) [Hollywood]",
+      "displayTitle": "\"KABOOM!\" (2026)",
+      "seoTitle": "\"KABOOM!\" (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "",
+      "category": "Hollywood",
+      "image": "",
+      "poster": "",
+      "backdrop": "",
+      "url": "https://movimoon.online/blog/movie-posts/kaboom-2026-1822333",
+      "watchUrl": "https://movimoon.online/movie/1822333-kaboom",
+      "publishedAt": "2026-11-10T00:50:29.498Z",
+      "updatedAt": "2026-11-10T00:50:29.498Z",
+      "overview": "In the city of Newcastle, an ordinary idiot gets given a bomb by a terrorist. Now it's up to him to dispose of it and save everyone!"
+    },
     {
       "type": "tv",
       "tmdbId": "313738",
