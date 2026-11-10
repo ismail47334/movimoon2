@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-10T00:50:48.723Z",
+  "updatedAt": "2026-11-10T00:50:59.145Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "340088",
+      "slug": "big-bargain-holiday-showdown-2026-340088",
+      "title": "Big Bargain Holiday Showdown (2026) [Hollywood TV]",
+      "displayTitle": "Big Bargain Holiday Showdown (2026)",
+      "seoTitle": "Big Bargain Holiday Showdown (2026) [Hollywood TV] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "Reality",
+      "category": "Hollywood TV",
+      "image": "https://image.tmdb.org/t/p/w342/ifqxuZG0GgLMc4u2gukJVCGz74x.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/ifqxuZG0GgLMc4u2gukJVCGz74x.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w342/ifqxuZG0GgLMc4u2gukJVCGz74x.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/big-bargain-holiday-showdown-2026-340088",
+      "watchUrl": "https://movimoon.online/tv/340088-big-bargain-holiday-showdown",
+      "publishedAt": "2026-11-10T00:50:57.524Z",
+      "updatedAt": "2026-11-10T00:50:57.524Z",
+      "overview": "Follows teams of friends, family and neighbors competing to transform a room in their home into a holiday wonderland in 48 hours on a $500 budget, judged for a chance to win cash prizes."
+    },
     {
       "type": "tv",
       "tmdbId": "340824",
