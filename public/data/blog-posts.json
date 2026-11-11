@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-11T18:06:30.496Z",
+  "updatedAt": "2026-11-11T18:06:39.235Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "330613",
+      "slug": "the-rules-2026-330613",
+      "title": "The Rules (2026) [Hollywood TV]",
+      "displayTitle": "The Rules (2026)",
+      "seoTitle": "The Rules (2026) [Hollywood TV] | MoviMoon",
+      "year": "2026",
+      "rating": "8.5",
+      "genres": "Drama, Mystery, Sci-Fi & Fantasy",
+      "category": "Hollywood TV",
+      "image": "https://image.tmdb.org/t/p/w342/IECgq0Hd4ezuyGhbQgQawURGKT.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/IECgq0Hd4ezuyGhbQgQawURGKT.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/VgW1XPEFiwEZgYuR2Wl204DxGL.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/the-rules-2026-330613",
+      "watchUrl": "https://movimoon.online/tv/330613-the-rules",
+      "publishedAt": "2026-11-11T18:06:37.706Z",
+      "updatedAt": "2026-11-11T18:06:37.706Z",
+      "overview": "Haunted by his past, Metha takes a night shift at a mysterious convenience store where breaking its strange rules leads to supernatural death, forcing him to confront both the store's dark secrets and his own sins."
+    },
     {
       "type": "tv",
       "tmdbId": "291507",
