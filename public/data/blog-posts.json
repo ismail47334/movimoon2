@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-11T18:06:11.270Z",
+  "updatedAt": "2026-11-11T18:06:21.173Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "208921",
+      "slug": "rivals-2024-208921",
+      "title": "Rivals (2024) [Hollywood TV]",
+      "displayTitle": "Rivals (2024)",
+      "seoTitle": "Rivals (2024) [Hollywood TV] | MoviMoon",
+      "year": "2024",
+      "rating": "7.4",
+      "genres": "Drama",
+      "category": "Hollywood TV",
+      "image": "https://image.tmdb.org/t/p/w342/3p9t1KDo5iXAn1zsSPn8sdtakWs.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/3p9t1KDo5iXAn1zsSPn8sdtakWs.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/vPw5Gpg0YEEk1VsE8QlmyTxIJuU.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/rivals-2024-208921",
+      "watchUrl": "https://movimoon.online/tv/208921-rivals",
+      "publishedAt": "2026-11-11T18:06:19.469Z",
+      "updatedAt": "2026-11-11T18:06:19.469Z",
+      "overview": "It is 1986 and Britain is booming. \"Rivals\" dives headfirst into the cutthroat world of TV where hair-dos are big and ambitions are even bigger. Deals are brokered in boardrooms, as well as bedrooms. Nobody can be sure who will come out on top. With every man and woman out only for themselves, can true love really blossom?"
+    },
     {
       "type": "movie",
       "tmdbId": "1559980",
