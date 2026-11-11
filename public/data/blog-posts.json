@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-11T00:50:32.202Z",
+  "updatedAt": "2026-11-11T00:50:42.871Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1822938",
+      "slug": "ecstasy-of-tragedy-2026-1822938",
+      "title": "Ecstasy Of Tragedy (2026) [Hollywood]",
+      "displayTitle": "Ecstasy Of Tragedy (2026)",
+      "seoTitle": "Ecstasy Of Tragedy (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "",
+      "category": "Hollywood",
+      "image": "",
+      "poster": "",
+      "backdrop": "",
+      "url": "https://movimoon.online/blog/movie-posts/ecstasy-of-tragedy-2026-1822938",
+      "watchUrl": "https://movimoon.online/movie/1822938-ecstasy-of-tragedy",
+      "publishedAt": "2026-11-11T00:50:40.802Z",
+      "updatedAt": "2026-11-11T00:50:40.802Z",
+      "overview": ""
+    },
     {
       "type": "movie",
       "tmdbId": "1822954",
