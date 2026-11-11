@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-11T12:34:09.923Z",
+  "updatedAt": "2026-11-11T18:06:11.270Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1559980",
+      "slug": "the-gospel-of-christmas-2026-1559980",
+      "title": "The Gospel of Christmas (2026) [Hollywood]",
+      "displayTitle": "The Gospel of Christmas (2026)",
+      "seoTitle": "The Gospel of Christmas (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "Drama, Music",
+      "category": "Hollywood",
+      "image": "https://image.tmdb.org/t/p/w342/k5OOd5sMEqPlKKhgFnkj1jBhNTf.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/k5OOd5sMEqPlKKhgFnkj1jBhNTf.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/v6HTcvMFbscM0Uz5ab3hoeGWYaY.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/the-gospel-of-christmas-2026-1559980",
+      "watchUrl": "https://movimoon.online/movie/1559980-the-gospel-of-christmas",
+      "publishedAt": "2026-11-11T18:06:09.542Z",
+      "updatedAt": "2026-11-11T18:06:09.548Z",
+      "overview": "A struggling pastor moves his family to a troubled New York neighborhood, where they must save a neglected church from foreclosure before Christmas."
+    },
     {
       "type": "tv",
       "tmdbId": "341535",
