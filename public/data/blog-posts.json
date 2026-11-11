@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-11T12:33:46.026Z",
+  "updatedAt": "2026-11-11T12:33:54.273Z",
   "posts": [
     {
       "type": "tv",
@@ -51,16 +51,16 @@
       "seoTitle": "Ecstasy Of Tragedy (2026) [Hollywood] | MoviMoon",
       "year": "2026",
       "rating": "N/A",
-      "genres": "",
+      "genres": "Drama",
       "category": "Hollywood",
-      "image": "",
-      "poster": "",
-      "backdrop": "",
+      "image": "https://image.tmdb.org/t/p/w342/7oQOlXd082Dl1Ho1aiGdaNGBmdS.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/7oQOlXd082Dl1Ho1aiGdaNGBmdS.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w342/7oQOlXd082Dl1Ho1aiGdaNGBmdS.jpg",
       "url": "https://movimoon.online/blog/movie-posts/ecstasy-of-tragedy-2026-1822938",
       "watchUrl": "https://movimoon.online/movie/1822938-ecstasy-of-tragedy",
       "publishedAt": "2026-11-11T00:50:40.802Z",
-      "updatedAt": "2026-11-11T00:50:40.802Z",
-      "overview": ""
+      "updatedAt": "2026-11-11T12:33:52.774Z",
+      "overview": "A physics professor sets up a car accident for herself. On a quiet forest road she carefully calculates every part of the plan. Finally tucked into a hospital bed, she enjoys the success of her scheme, but for how long?"
     },
     {
       "type": "movie",
