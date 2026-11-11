@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-10T18:06:33.371Z",
+  "updatedAt": "2026-11-11T00:50:32.202Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1822954",
+      "slug": "un-traidor-fiel-2026-1822954",
+      "title": "Un traidor fiel (2026) [Hollywood]",
+      "displayTitle": "Un traidor fiel (2026)",
+      "seoTitle": "Un traidor fiel (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "",
+      "category": "Hollywood",
+      "image": "",
+      "poster": "",
+      "backdrop": "",
+      "url": "https://movimoon.online/blog/movie-posts/un-traidor-fiel-2026-1822954",
+      "watchUrl": "https://movimoon.online/movie/1822954-un-traidor-fiel",
+      "publishedAt": "2026-11-11T00:50:30.367Z",
+      "updatedAt": "2026-11-11T00:50:30.367Z",
+      "overview": "During the day of the 2022 World Cup final, Lorenzo, a secret agent, receives alongside his mentor Hugo a mission to intervene a conversation. As the investigation develops, tensions will arise amid mistrust within the duo, putting their relationship at stake and unveiling double-crossing shenanigans."
+    },
     {
       "type": "tv",
       "tmdbId": "1489",
