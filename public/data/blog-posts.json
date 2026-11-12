@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-12T12:34:02.532Z",
+  "updatedAt": "2026-11-12T12:34:12.917Z",
   "posts": [
     {
       "type": "tv",
@@ -71,16 +71,16 @@
       "seoTitle": "Sinner's Head: Elevated (2026) [Hollywood] | MoviMoon",
       "year": "2026",
       "rating": "N/A",
-      "genres": "",
+      "genres": "Comedy",
       "category": "Hollywood",
-      "image": "",
-      "poster": "",
-      "backdrop": "",
+      "image": "https://image.tmdb.org/t/p/w342/woWzpINH8TIHKVcKm33TByKcomw.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/woWzpINH8TIHKVcKm33TByKcomw.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/5WmIlu6i0lcki7F6N0Tob8aPWql.jpg",
       "url": "https://movimoon.online/blog/movie-posts/sinner-s-head-elevated-2026-1823659",
       "watchUrl": "https://movimoon.online/movie/1823659-sinner-s-head-elevated",
       "publishedAt": "2026-11-12T00:50:30.945Z",
-      "updatedAt": "2026-11-12T00:50:30.945Z",
-      "overview": ""
+      "updatedAt": "2026-11-12T12:34:11.043Z",
+      "overview": "When Sinners Head members Jack and Thomas step into an elevator, an ordinary journey quickly turns into an unexpected crisis. Convinced that they've become trapped, one bandmate begins spiralling into panic, while the other just doesn't care. Accompanied by their photographer, Adam, who left the elevator to get his lens. This comedic story had to be told."
     },
     {
       "type": "tv",
