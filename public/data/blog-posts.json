@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-12T18:06:41.561Z",
+  "updatedAt": "2026-11-12T18:06:50.004Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "84773",
+      "slug": "the-lord-of-the-rings-the-rings-of-power-2022-84773",
+      "title": "The Lord of the Rings: The Rings of Power (2022) [Hollywood TV]",
+      "displayTitle": "The Lord of the Rings: The Rings of Power (2022)",
+      "seoTitle": "The Lord of the Rings: The Rings of Power (2022) [Hollywood TV] | MoviMoon",
+      "year": "2022",
+      "rating": "7.2",
+      "genres": "Action & Adventure, Sci-Fi & Fantasy",
+      "category": "Hollywood TV",
+      "image": "https://image.tmdb.org/t/p/w342/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/achmETPRJZc9QVXsMPgHwYEyNar.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/the-lord-of-the-rings-the-rings-of-power-2022-84773",
+      "watchUrl": "https://movimoon.online/tv/84773-the-lord-of-the-rings-the-rings-of-power",
+      "publishedAt": "2026-11-12T18:06:48.414Z",
+      "updatedAt": "2026-11-12T18:06:48.414Z",
+      "overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone."
+    },
     {
       "type": "tv",
       "tmdbId": "131488",
