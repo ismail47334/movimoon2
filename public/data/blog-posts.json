@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-13T12:34:19.002Z",
+  "updatedAt": "2026-11-13T18:06:31.479Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1824935",
+      "slug": "avengers-endgame-encore-2026-1824935",
+      "title": "Avengers Endgame: Encore (2026) [Hollywood]",
+      "displayTitle": "Avengers Endgame: Encore (2026)",
+      "seoTitle": "Avengers Endgame: Encore (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "",
+      "category": "Hollywood",
+      "image": "",
+      "poster": "",
+      "backdrop": "",
+      "url": "https://movimoon.online/blog/movie-posts/avengers-endgame-encore-2026-1824935",
+      "watchUrl": "https://movimoon.online/movie/1824935-avengers-endgame-encore",
+      "publishedAt": "2026-11-13T18:06:18.289Z",
+      "updatedAt": "2026-11-13T18:06:18.290Z",
+      "overview": ""
+    },
     {
       "type": "tv",
       "tmdbId": "340173",
