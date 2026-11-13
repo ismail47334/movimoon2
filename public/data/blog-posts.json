@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-13T12:33:47.276Z",
+  "updatedAt": "2026-11-13T12:33:56.977Z",
   "posts": [
     {
       "type": "tv",
@@ -51,15 +51,15 @@
       "seoTitle": "A la Gloire des Ombres (2026) [Hollywood] | MoviMoon",
       "year": "2026",
       "rating": "N/A",
-      "genres": "",
+      "genres": "Drama, War, Thriller",
       "category": "Hollywood",
-      "image": "",
-      "poster": "",
-      "backdrop": "",
+      "image": "https://image.tmdb.org/t/p/w342/flkMoSUun46BUU1cR39At1lfF9Y.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/flkMoSUun46BUU1cR39At1lfF9Y.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/iJxBa7ssvDyjudp8M56hxYS3PQN.jpg",
       "url": "https://movimoon.online/blog/movie-posts/a-la-gloire-des-ombres-2026-1824367",
       "watchUrl": "https://movimoon.online/movie/1824367-a-la-gloire-des-ombres",
       "publishedAt": "2026-11-13T00:50:38.105Z",
-      "updatedAt": "2026-11-13T00:50:38.105Z",
+      "updatedAt": "2026-11-13T12:33:54.906Z",
       "overview": ""
     },
     {
