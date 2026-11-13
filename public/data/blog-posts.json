@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-13T18:07:15.345Z",
+  "updatedAt": "2026-11-13T18:07:32.620Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1383500",
+      "slug": "ramayana-part-two-2028-1383500",
+      "title": "Ramayana: Part Two (2028) [Bollywood]",
+      "displayTitle": "Ramayana: Part Two (2028)",
+      "seoTitle": "Ramayana: Part Two (2028) [Bollywood] | MoviMoon",
+      "year": "2028",
+      "rating": "N/A",
+      "genres": "Fantasy, Action, Adventure",
+      "category": "Bollywood",
+      "image": "https://image.tmdb.org/t/p/w342/3TzWp9sYDmLoVYMsHPuufdTNuAn.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/3TzWp9sYDmLoVYMsHPuufdTNuAn.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w342/3TzWp9sYDmLoVYMsHPuufdTNuAn.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/ramayana-part-two-2028-1383500",
+      "watchUrl": "https://movimoon.online/movie/1383500-ramayana-part-two",
+      "publishedAt": "2026-11-13T18:07:28.457Z",
+      "updatedAt": "2026-11-13T18:07:28.457Z",
+      "overview": "Plot TBA. The second part of an epic duology based on the Ramayana legend."
+    },
     {
       "type": "movie",
       "tmdbId": "1050981",
