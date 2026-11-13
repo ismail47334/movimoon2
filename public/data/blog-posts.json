@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-13T00:50:47.678Z",
+  "updatedAt": "2026-11-13T00:50:56.008Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "340173",
+      "slug": "far-fetched-2026-340173",
+      "title": "Far-Fetched (2026) [Hollywood TV]",
+      "displayTitle": "Far-Fetched (2026)",
+      "seoTitle": "Far-Fetched (2026) [Hollywood TV] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "Animation, Comedy, Mystery",
+      "category": "Hollywood TV",
+      "image": "https://image.tmdb.org/t/p/w342/8eYEj734yNco4nIJHaZC6XhqgCY.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/8eYEj734yNco4nIJHaZC6XhqgCY.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/8PedHOuvPyBNFzVYTGPpJrUbZDM.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/far-fetched-2026-340173",
+      "watchUrl": "https://movimoon.online/tv/340173-far-fetched",
+      "publishedAt": "2026-11-13T00:50:54.551Z",
+      "updatedAt": "2026-11-13T00:50:54.551Z",
+      "overview": "After accidentally releasing her own chaotic canine creature into the world, a young woman named Rue joins a rock band of late-2000's misfits to fight for survival in a town where science is at odds with the horrific supernatural."
+    },
     {
       "type": "tv",
       "tmdbId": "341554",
