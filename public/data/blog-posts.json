@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-13T12:33:56.977Z",
+  "updatedAt": "2026-11-13T12:34:08.307Z",
   "posts": [
     {
       "type": "tv",
@@ -71,15 +71,15 @@
       "seoTitle": "Révélations, 200 ans de photographie (2026) [Hollywood] | MoviMoon",
       "year": "2026",
       "rating": "N/A",
-      "genres": "",
+      "genres": "Documentary",
       "category": "Hollywood",
-      "image": "",
-      "poster": "",
-      "backdrop": "",
+      "image": "https://image.tmdb.org/t/p/w342/9s4SOeTtEoFjwefjs8tWykoCpnf.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/9s4SOeTtEoFjwefjs8tWykoCpnf.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w342/9s4SOeTtEoFjwefjs8tWykoCpnf.jpg",
       "url": "https://movimoon.online/blog/movie-posts/r-v-lations-200-ans-de-photographie-2026-1824498",
       "watchUrl": "https://movimoon.online/movie/1824498-r-v-lations-200-ans-de-photographie",
       "publishedAt": "2026-11-13T00:50:29.533Z",
-      "updatedAt": "2026-11-13T00:50:29.533Z",
+      "updatedAt": "2026-11-13T12:34:06.586Z",
       "overview": ""
     },
     {
