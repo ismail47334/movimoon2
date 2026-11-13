@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-13T18:06:55.147Z",
+  "updatedAt": "2026-11-13T18:07:15.345Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1050981",
+      "slug": "being-heumann-2026-1050981",
+      "title": "Being Heumann (2026) [Hollywood]",
+      "displayTitle": "Being Heumann (2026)",
+      "seoTitle": "Being Heumann (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "7.5",
+      "genres": "Drama, History",
+      "category": "Hollywood",
+      "image": "https://image.tmdb.org/t/p/w342/Ai0cPxFka7bBOF7mPrLxQThPyS0.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/Ai0cPxFka7bBOF7mPrLxQThPyS0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/25aB8RXP4mfQLFRSuEEhk0d0sTC.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/being-heumann-2026-1050981",
+      "watchUrl": "https://movimoon.online/movie/1050981-being-heumann",
+      "publishedAt": "2026-11-13T18:07:10.905Z",
+      "updatedAt": "2026-11-13T18:07:10.905Z",
+      "overview": "Scrappy, defiant, and done being treated like a burden, Judy Heumann turns her outrage into a revolution. In 1977, she and more than 100 disability rights protestors send a very loud message: The system is broken—not us."
+    },
     {
       "type": "movie",
       "tmdbId": "1518204",
