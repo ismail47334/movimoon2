@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-14T18:06:12.665Z",
+  "updatedAt": "2026-11-14T18:06:26.031Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1185344",
+      "slug": "the-beast-2026-1185344",
+      "title": "The Beast (2026) [Hollywood]",
+      "displayTitle": "The Beast (2026)",
+      "seoTitle": "The Beast (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "6.3",
+      "genres": "Action, Thriller",
+      "category": "Hollywood",
+      "image": "https://image.tmdb.org/t/p/w342/ocg5JfJP19fodcv5uQUApkmZMdI.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/ocg5JfJP19fodcv5uQUApkmZMdI.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/tv4GxpgGF4n8bhBYgJg0ZyAUylF.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/the-beast-2026-1185344",
+      "watchUrl": "https://movimoon.online/movie/1185344-the-beast",
+      "publishedAt": "2026-11-14T18:06:24.197Z",
+      "updatedAt": "2026-11-14T18:06:24.197Z",
+      "overview": "When a militia of unidentified hostiles coordinates a coup against the United States, the president must fight back by utilizing the highly classified offensive capabilities of his armored limousine, nicknamed The Beast."
+    },
     {
       "type": "movie",
       "tmdbId": "1654566",
