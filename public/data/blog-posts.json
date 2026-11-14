@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-14T12:33:59.838Z",
+  "updatedAt": "2026-11-14T12:34:14.054Z",
   "posts": [
     {
       "type": "tv",
@@ -66,21 +66,21 @@
       "type": "movie",
       "tmdbId": "1825169",
       "slug": "k-y-m-z-k-k-g-r-n-r-our-village-from-the-moon-2026-1825169",
-      "title": "Köyümüz küçük görünür  (Our Village from the Moon) (2026) [Hollywood]",
-      "displayTitle": "Köyümüz küçük görünür  (Our Village from the Moon) (2026)",
-      "seoTitle": "Köyümüz küçük görünür  (Our Village from the Moon) (2026) [Hollywood] | MoviMoon",
+      "title": "Our Village from the Moon (2026) [Hollywood]",
+      "displayTitle": "Our Village from the Moon (2026)",
+      "seoTitle": "Our Village from the Moon (2026) [Hollywood] | MoviMoon",
       "year": "2026",
       "rating": "N/A",
-      "genres": "",
+      "genres": "Documentary",
       "category": "Hollywood",
-      "image": "",
-      "poster": "",
-      "backdrop": "",
+      "image": "https://image.tmdb.org/t/p/w342/hpzTJ0TAAJDCk0LKNJLACvKFGEb.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/hpzTJ0TAAJDCk0LKNJLACvKFGEb.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/Al9OkNADpm5NDbKbWDHwKRiH7MC.jpg",
       "url": "https://movimoon.online/blog/movie-posts/k-y-m-z-k-k-g-r-n-r-our-village-from-the-moon-2026-1825169",
-      "watchUrl": "https://movimoon.online/movie/1825169-k-y-m-z-k-k-g-r-n-r-our-village-from-the-moon",
+      "watchUrl": "https://movimoon.online/movie/1825169-our-village-from-the-moon",
       "publishedAt": "2026-11-14T00:50:28.543Z",
-      "updatedAt": "2026-11-14T00:50:28.543Z",
-      "overview": ""
+      "updatedAt": "2026-11-14T12:34:09.460Z",
+      "overview": "In the aftermath of the 2023 earthquakes in Turkey, children move through the ruins of a Kurdish village, turning destruction into a terrain of play and imagination. They dream of travelling to the moon, where their village, its ruins, and the pain they hold might appear smaller."
     },
     {
       "type": "tv",
