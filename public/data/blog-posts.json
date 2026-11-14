@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-14T18:06:26.031Z",
+  "updatedAt": "2026-11-14T18:06:35.787Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1215889",
+      "slug": "daayra-2026-1215889",
+      "title": "Daayra (2026) [Bollywood]",
+      "displayTitle": "Daayra (2026)",
+      "seoTitle": "Daayra (2026) [Bollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "4.0",
+      "genres": "Crime, Drama",
+      "category": "Bollywood",
+      "image": "https://image.tmdb.org/t/p/w342/eAsR8oCZGCOqaxDVt0c0WrRFjrn.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/eAsR8oCZGCOqaxDVt0c0WrRFjrn.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/rbwmf04kpX1o3zbbOS6Y7woF2Ku.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/daayra-2026-1215889",
+      "watchUrl": "https://movimoon.online/movie/1215889-daayra",
+      "publishedAt": "2026-11-14T18:06:34.213Z",
+      "updatedAt": "2026-11-14T18:06:34.213Z",
+      "overview": "Raman, who has had a shady record with staged encounters and police brutality, finds himself cornered as Ajooni challenges him on every step."
+    },
     {
       "type": "movie",
       "tmdbId": "1185344",
