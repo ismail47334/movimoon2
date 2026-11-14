@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-14T12:34:24.766Z",
+  "updatedAt": "2026-11-14T18:06:12.665Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1654566",
+      "slug": "vibe-2026-1654566",
+      "title": "Vibe (2026) [Bollywood]",
+      "displayTitle": "Vibe (2026)",
+      "seoTitle": "Vibe (2026) [Bollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "5.2",
+      "genres": "Action, Comedy, Drama",
+      "category": "Bollywood",
+      "image": "https://image.tmdb.org/t/p/w342/1K2cYaK42vcQkg1iITxF6xcbJrs.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/1K2cYaK42vcQkg1iITxF6xcbJrs.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/paZuQDNYwuD0WBwZERfvgSNQZDz.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/vibe-2026-1654566",
+      "watchUrl": "https://movimoon.online/movie/1654566-vibe",
+      "publishedAt": "2026-11-14T18:06:09.844Z",
+      "updatedAt": "2026-11-14T18:06:09.844Z",
+      "overview": "Two inseparable friends' ordinary, unassuming lives spiral into an unpredictable, high-energy adventure that pushes their survival instincts and friendship to the limit."
+    },
     {
       "type": "tv",
       "tmdbId": "341193",
