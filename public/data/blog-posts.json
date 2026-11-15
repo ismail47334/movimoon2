@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-15T18:06:32.556Z",
+  "updatedAt": "2026-11-15T18:06:40.277Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "301354",
+      "slug": "sword-silence-2026-301354",
+      "title": "Sword & Silence (2026) [Hollywood TV]",
+      "displayTitle": "Sword & Silence (2026)",
+      "seoTitle": "Sword & Silence (2026) [Hollywood TV] | MoviMoon",
+      "year": "2026",
+      "rating": "7.5",
+      "genres": "Action & Adventure, War & Politics",
+      "category": "Hollywood TV",
+      "image": "https://image.tmdb.org/t/p/w342/jlHH1OGMrupWfVSeiGkxPabmSYN.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/jlHH1OGMrupWfVSeiGkxPabmSYN.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/ohxUMg44IaMTtdaSmPn1M1QW3Js.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/sword-silence-2026-301354",
+      "watchUrl": "https://movimoon.online/tv/301354-sword-silence",
+      "publishedAt": "2026-11-15T18:06:38.941Z",
+      "updatedAt": "2026-11-15T18:06:38.941Z",
+      "overview": "Six centuries of war have left the Three Kingdoms in turmoil. Facing powerful rivals, a small nation fights to unite a divided land."
+    },
     {
       "type": "tv",
       "tmdbId": "287296",
