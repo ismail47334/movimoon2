@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-14T18:06:55.989Z",
+  "updatedAt": "2026-11-15T00:50:30.139Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1826055",
+      "slug": "cabbageworm-2026-1826055",
+      "title": "Cabbageworm (2026) [Hollywood]",
+      "displayTitle": "Cabbageworm (2026)",
+      "seoTitle": "Cabbageworm (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "",
+      "category": "Hollywood",
+      "image": "",
+      "poster": "",
+      "backdrop": "",
+      "url": "https://movimoon.online/blog/movie-posts/cabbageworm-2026-1826055",
+      "watchUrl": "https://movimoon.online/movie/1826055-cabbageworm",
+      "publishedAt": "2026-11-15T00:50:28.618Z",
+      "updatedAt": "2026-11-15T00:50:28.618Z",
+      "overview": "A horror stop-motion animation film exploring queer desire and emancipation after the death of Michelle's abusive and homophobic mother."
+    },
     {
       "type": "tv",
       "tmdbId": "293610",
