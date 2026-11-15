@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-15T12:34:19.950Z",
+  "updatedAt": "2026-11-15T18:06:09.187Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1493572",
+      "slug": "parivarik-manuranjan-2026-1493572",
+      "title": "Parivarik ManuRanjan (2026) [Bollywood]",
+      "displayTitle": "Parivarik ManuRanjan (2026)",
+      "seoTitle": "Parivarik ManuRanjan (2026) [Bollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "6.0",
+      "genres": "Romance, Comedy",
+      "category": "Bollywood",
+      "image": "https://image.tmdb.org/t/p/w342/2gKGkD0pN2Ss9LrHA6tv5hEjHOs.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/2gKGkD0pN2Ss9LrHA6tv5hEjHOs.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/9j9DtcTGSSZJVrimys2emN5kVh3.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/parivarik-manuranjan-2026-1493572",
+      "watchUrl": "https://movimoon.online/movie/1493572-parivarik-manuranjan",
+      "publishedAt": "2026-11-15T18:06:07.886Z",
+      "updatedAt": "2026-11-15T18:06:07.889Z",
+      "overview": "Ranjan Dubey, Lucknow's most eligible bachelor, finds his search for a bride taking an unexpected turn when Helen, his charming new househelp, walks into his life. With everyone having an opinion on this unlikely duo, will their companionship blossom into love?"
+    },
     {
       "type": "tv",
       "tmdbId": "339285",
