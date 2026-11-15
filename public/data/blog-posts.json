@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-15T18:06:24.755Z",
+  "updatedAt": "2026-11-15T18:06:32.556Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "287296",
+      "slug": "honey-2026-287296",
+      "title": "Honey (2026) [Hollywood TV]",
+      "displayTitle": "Honey (2026)",
+      "seoTitle": "Honey (2026) [Hollywood TV] | MoviMoon",
+      "year": "2026",
+      "rating": "10.0",
+      "genres": "Comedy, Crime",
+      "category": "Hollywood TV",
+      "image": "https://image.tmdb.org/t/p/w342/mb8Fx5B5riLl3Gobn4968oJZKCK.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/mb8Fx5B5riLl3Gobn4968oJZKCK.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/5KqH0QG4X4UhcsGqKcbkhNCW5VE.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/honey-2026-287296",
+      "watchUrl": "https://movimoon.online/tv/287296-honey",
+      "publishedAt": "2026-11-15T18:06:31.269Z",
+      "updatedAt": "2026-11-15T18:06:31.269Z",
+      "overview": "East Berlin, 1982. Marta, 24, is a deep cover agent for MI6. Surrounded by enemies and constantly under threat of her cover being blown, she tries her hardest to avoid detection by Friedrich Bauman, the new Head of Counter Espionage for the Stasi. Finding herself caught between Friedrich and the reckless, arrogant (and incredibly attractive…) CIA operative Aaron Neeland, she is blind-sided by desire in this Cold War menage-a-trois."
+    },
     {
       "type": "tv",
       "tmdbId": "85077",
