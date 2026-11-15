@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-15T18:06:16.977Z",
+  "updatedAt": "2026-11-15T18:06:24.755Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "85077",
+      "slug": "the-chosen-2019-85077",
+      "title": "The Chosen (2019) [Hollywood TV]",
+      "displayTitle": "The Chosen (2019)",
+      "seoTitle": "The Chosen (2019) [Hollywood TV] | MoviMoon",
+      "year": "2019",
+      "rating": "8.8",
+      "genres": "Action & Adventure, Family, Drama",
+      "category": "Hollywood TV",
+      "image": "https://image.tmdb.org/t/p/w342/nr0r7YTn1l84KLG1iCSO5ofHTvO.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/nr0r7YTn1l84KLG1iCSO5ofHTvO.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/3siv3RaQrdr2tQiv9jHq71sLlzo.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/the-chosen-2019-85077",
+      "watchUrl": "https://movimoon.online/tv/85077-the-chosen",
+      "publishedAt": "2026-11-15T18:06:23.324Z",
+      "updatedAt": "2026-11-15T18:06:23.324Z",
+      "overview": "The life of Christ through the eyes of those who encountered him."
+    },
     {
       "type": "movie",
       "tmdbId": "1310458",
