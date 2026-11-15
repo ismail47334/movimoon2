@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-15T12:33:57.013Z",
+  "updatedAt": "2026-11-15T12:34:08.772Z",
   "posts": [
     {
       "type": "tv",
@@ -73,13 +73,13 @@
       "rating": "N/A",
       "genres": "",
       "category": "Hollywood",
-      "image": "",
-      "poster": "",
-      "backdrop": "",
+      "image": "https://image.tmdb.org/t/p/w342/q6wz5uJPnbCnruwcBn2y05EhsER.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/q6wz5uJPnbCnruwcBn2y05EhsER.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w342/q6wz5uJPnbCnruwcBn2y05EhsER.jpg",
       "url": "https://movimoon.online/blog/movie-posts/cabbageworm-2026-1826055",
       "watchUrl": "https://movimoon.online/movie/1826055-cabbageworm",
       "publishedAt": "2026-11-15T00:50:28.618Z",
-      "updatedAt": "2026-11-15T00:50:28.618Z",
+      "updatedAt": "2026-11-15T12:34:05.346Z",
       "overview": "A horror stop-motion animation film exploring queer desire and emancipation after the death of Michelle's abusive and homophobic mother."
     },
     {
