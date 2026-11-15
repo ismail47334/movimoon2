@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-15T00:50:46.128Z",
+  "updatedAt": "2026-11-15T00:50:53.755Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "339285",
+      "slug": "golden-2026-339285",
+      "title": "GOLDEN (2026) [Hollywood TV]",
+      "displayTitle": "GOLDEN (2026)",
+      "seoTitle": "GOLDEN (2026) [Hollywood TV] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "Drama",
+      "category": "Hollywood TV",
+      "image": "https://image.tmdb.org/t/p/w342/pQk4QOoICKtv55wB1cbO4YY7jlr.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/pQk4QOoICKtv55wB1cbO4YY7jlr.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/e75toLg1ZiByeH09Hw1sVPawxRd.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/golden-2026-339285",
+      "watchUrl": "https://movimoon.online/tv/339285-golden",
+      "publishedAt": "2026-11-15T00:50:52.304Z",
+      "updatedAt": "2026-11-15T00:50:52.304Z",
+      "overview": "Young Tanzanian actor Golden battles personal struggles and industry challenges to achieve international stardom."
+    },
     {
       "type": "tv",
       "tmdbId": "341476",
