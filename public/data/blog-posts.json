@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-16T18:06:20.118Z",
+  "updatedAt": "2026-11-16T18:06:29.415Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "335981",
+      "slug": "cunk-on-cinema-2026-335981",
+      "title": "Cunk on Cinema (2026) [Hollywood TV]",
+      "displayTitle": "Cunk on Cinema (2026)",
+      "seoTitle": "Cunk on Cinema (2026) [Hollywood TV] | MoviMoon",
+      "year": "2026",
+      "rating": "7.7",
+      "genres": "Comedy, Documentary",
+      "category": "Hollywood TV",
+      "image": "https://image.tmdb.org/t/p/w342/zrrRRvavkLQupkC6aEkdA8sX4E8.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/zrrRRvavkLQupkC6aEkdA8sX4E8.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/3NA7FxkqAaG1buZC1WtdPDpMlZg.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/cunk-on-cinema-2026-335981",
+      "watchUrl": "https://movimoon.online/tv/335981-cunk-on-cinema",
+      "publishedAt": "2026-11-16T18:06:27.680Z",
+      "updatedAt": "2026-11-16T18:06:27.680Z",
+      "overview": "Philomena Cunk asks experts all of the hard-hitting questions about the history of cinema, from the invention of the camera, to the New Wave filmmakers of the 60s, right up to the entrance of CGI and what the future of AI holds. Cunk will attempt to demystify it all while sitting in lumpy seats with stale popcorn, asking herself where did cinema come from? And why? What does it want? And why can't it tell us?"
+    },
     {
       "type": "movie",
       "tmdbId": "1748499",
