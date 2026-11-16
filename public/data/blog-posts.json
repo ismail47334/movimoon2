@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-16T18:06:10.967Z",
+  "updatedAt": "2026-11-16T18:06:20.118Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1748499",
+      "slug": "kiku-chiranjeevi-2026-1748499",
+      "title": "Kiku Chiranjeevi (2026) [Tollywood]",
+      "displayTitle": "Kiku Chiranjeevi (2026)",
+      "seoTitle": "Kiku Chiranjeevi (2026) [Tollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "Thriller, Drama",
+      "category": "Tollywood",
+      "image": "https://image.tmdb.org/t/p/w342/uAlTYjwLAX9VCP8mSbKDiKzkqcS.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/uAlTYjwLAX9VCP8mSbKDiKzkqcS.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/gKq0JtdFQy1vp3A6nb0Tx264wYH.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/kiku-chiranjeevi-2026-1748499",
+      "watchUrl": "https://movimoon.online/movie/1748499-kiku-chiranjeevi",
+      "publishedAt": "2026-11-16T18:06:18.642Z",
+      "updatedAt": "2026-11-16T18:06:18.642Z",
+      "overview": "A young man named Chiru, born with dextrocardia-a rare condition where his heart is on the right side of his chest faces struggles and challenges as he works to overcome his condition and achieve his goals."
+    },
     {
       "type": "movie",
       "tmdbId": "1209723",
