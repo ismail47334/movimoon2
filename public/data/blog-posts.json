@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-15T18:06:40.277Z",
+  "updatedAt": "2026-11-16T00:50:32.669Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1825589",
+      "slug": "akte-vuskovic-doping-skandal-zweifel-2026-1825589",
+      "title": "Akte Vuskovic – Doping. Skandal. Zweifel (2026) [Hollywood]",
+      "displayTitle": "Akte Vuskovic – Doping. Skandal. Zweifel (2026)",
+      "seoTitle": "Akte Vuskovic – Doping. Skandal. Zweifel (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "",
+      "category": "Hollywood",
+      "image": "https://image.tmdb.org/t/p/w342/coMQJXFeRgcnWuQWVMtFyqaJTLh.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/coMQJXFeRgcnWuQWVMtFyqaJTLh.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w342/coMQJXFeRgcnWuQWVMtFyqaJTLh.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/akte-vuskovic-doping-skandal-zweifel-2026-1825589",
+      "watchUrl": "https://movimoon.online/movie/1825589-akte-vuskovic-doping-skandal-zweifel",
+      "publishedAt": "2026-11-16T00:50:29.589Z",
+      "updatedAt": "2026-11-16T00:50:29.589Z",
+      "overview": ""
+    },
     {
       "type": "tv",
       "tmdbId": "301354",
