@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-16T12:34:27.175Z",
+  "updatedAt": "2026-11-16T18:06:10.967Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1209723",
+      "slug": "yeh-prem-mol-liya-2026-1209723",
+      "title": "Yeh Prem Mol Liya (2026) [Bollywood]",
+      "displayTitle": "Yeh Prem Mol Liya (2026)",
+      "seoTitle": "Yeh Prem Mol Liya (2026) [Bollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "Romance, Family, Drama",
+      "category": "Bollywood",
+      "image": "https://image.tmdb.org/t/p/w342/kUxkvh6GMZL4AHNgNDty68yTnwQ.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/kUxkvh6GMZL4AHNgNDty68yTnwQ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/ixHRFxlPRqCvCJ5gk0aScUAEfrx.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/yeh-prem-mol-liya-2026-1209723",
+      "watchUrl": "https://movimoon.online/movie/1209723-yeh-prem-mol-liya",
+      "publishedAt": "2026-11-16T18:06:09.179Z",
+      "updatedAt": "2026-11-16T18:06:09.180Z",
+      "overview": "A heartfelt romantic family drama about two best friends whose close bond slowly turns into love. But one lie creates misunderstandings and conflicts, putting their relationship and family bonds to the test. The story explores love, sacrifice, understanding and the importance of family."
+    },
     {
       "type": "tv",
       "tmdbId": "340823",
