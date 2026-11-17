@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-17T12:33:55.548Z",
+  "updatedAt": "2026-11-17T12:34:04.042Z",
   "posts": [
     {
       "type": "tv",
@@ -71,15 +71,15 @@
       "seoTitle": "Nous la France (2026) [Hollywood] | MoviMoon",
       "year": "2026",
       "rating": "N/A",
-      "genres": "",
+      "genres": "Documentary, History, Family",
       "category": "Hollywood",
-      "image": "",
-      "poster": "",
-      "backdrop": "",
+      "image": "https://image.tmdb.org/t/p/w342/dX7DiCAlGacKtgIwAkvgfP9WCIS.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/dX7DiCAlGacKtgIwAkvgfP9WCIS.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/tl3MBfzX1D7KrIzGHcCuckPvYCO.jpg",
       "url": "https://movimoon.online/blog/movie-posts/nous-la-france-2026-1827585",
       "watchUrl": "https://movimoon.online/movie/1827585-nous-la-france",
       "publishedAt": "2026-11-17T00:50:29.067Z",
-      "updatedAt": "2026-11-17T00:50:29.067Z",
+      "updatedAt": "2026-11-17T12:34:02.521Z",
       "overview": ""
     },
     {
