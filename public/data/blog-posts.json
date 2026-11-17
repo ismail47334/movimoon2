@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-17T12:33:46.645Z",
+  "updatedAt": "2026-11-17T12:33:55.548Z",
   "posts": [
     {
       "type": "tv",
@@ -51,7 +51,7 @@
       "seoTitle": "Mike Ward: Modest (2026) [Hollywood] | MoviMoon",
       "year": "2026",
       "rating": "N/A",
-      "genres": "",
+      "genres": "Comedy",
       "category": "Hollywood",
       "image": "https://image.tmdb.org/t/p/w342/oB9Pcb5grM5Gk0TDWZeBZ3vHhDZ.jpg",
       "poster": "https://image.tmdb.org/t/p/w342/oB9Pcb5grM5Gk0TDWZeBZ3vHhDZ.jpg",
@@ -59,7 +59,7 @@
       "url": "https://movimoon.online/blog/movie-posts/mike-ward-modest-2026-1827471",
       "watchUrl": "https://movimoon.online/movie/1827471-mike-ward-modest",
       "publishedAt": "2026-11-17T00:50:37.194Z",
-      "updatedAt": "2026-11-17T00:50:37.194Z",
+      "updatedAt": "2026-11-17T12:33:54.195Z",
       "overview": "French-Canadian comic Mike Ward delivers an unapologetically honest set, from dating after divorce to living life to the fullest - one impulse at a time"
     },
     {
