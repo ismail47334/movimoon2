@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-17T12:34:12.621Z",
+  "updatedAt": "2026-11-17T18:06:10.399Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1084409",
+      "slug": "a-talent-for-murder-2026-1084409",
+      "title": "A Talent for Murder (2026) [Hollywood]",
+      "displayTitle": "A Talent for Murder (2026)",
+      "seoTitle": "A Talent for Murder (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "7.0",
+      "genres": "Drama, Crime, Thriller",
+      "category": "Hollywood",
+      "image": "https://image.tmdb.org/t/p/w342/mstDPKNKgSGFvVFVdfzeMNkcyw2.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/mstDPKNKgSGFvVFVdfzeMNkcyw2.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/mfpjOQ6hsvMUIFyzWglwerbpgFS.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/a-talent-for-murder-2026-1084409",
+      "watchUrl": "https://movimoon.online/movie/1084409-a-talent-for-murder",
+      "publishedAt": "2026-11-17T18:06:08.358Z",
+      "updatedAt": "2026-11-17T18:06:08.359Z",
+      "overview": "A young man travels from New York to Switzerland to try to persuade acclaimed thriller writer Patricia Highsmith to write one final installment of her Tom Ripley series, with his efforts gradually turning more sinister."
+    },
     {
       "type": "tv",
       "tmdbId": "342129",
