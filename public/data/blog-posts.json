@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-18T00:50:53.993Z",
+  "updatedAt": "2026-11-18T00:51:05.514Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "341930",
+      "slug": "brennpunkt-operasjon-duckface-2026-341930",
+      "title": "Brennpunkt: Operasjon Duckface (2026) [Hollywood TV]",
+      "displayTitle": "Brennpunkt: Operasjon Duckface (2026)",
+      "seoTitle": "Brennpunkt: Operasjon Duckface (2026) [Hollywood TV] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "Documentary",
+      "category": "Hollywood TV",
+      "image": "https://image.tmdb.org/t/p/w342/3tDBhuIfYi2dEYxYNndHHNfizSh.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/3tDBhuIfYi2dEYxYNndHHNfizSh.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/2TFH2y64aBE16K7zAK7PhyNTUt2.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/brennpunkt-operasjon-duckface-2026-341930",
+      "watchUrl": "https://movimoon.online/tv/341930-brennpunkt-operasjon-duckface",
+      "publishedAt": "2026-11-18T00:51:02.726Z",
+      "updatedAt": "2026-11-18T00:51:02.726Z",
+      "overview": ""
+    },
     {
       "type": "tv",
       "tmdbId": "342309",
