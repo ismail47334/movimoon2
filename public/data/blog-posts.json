@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-18T00:50:42.317Z",
+  "updatedAt": "2026-11-18T00:50:53.993Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "342309",
+      "slug": "gangster-2026-342309",
+      "title": "Gangster (2026) [Hollywood TV]",
+      "displayTitle": "Gangster (2026)",
+      "seoTitle": "Gangster (2026) [Hollywood TV] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "",
+      "category": "Hollywood TV",
+      "image": "https://image.tmdb.org/t/p/w342/1QhcEOwWNsc4yw36zYEzem7CfNk.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/1QhcEOwWNsc4yw36zYEzem7CfNk.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w342/1QhcEOwWNsc4yw36zYEzem7CfNk.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/gangster-2026-342309",
+      "watchUrl": "https://movimoon.online/tv/342309-gangster",
+      "publishedAt": "2026-11-18T00:50:52.045Z",
+      "updatedAt": "2026-11-18T00:50:52.045Z",
+      "overview": "Manouchehr and Nosrat, the family's good-for-nothing, unemployed sons, turn to gangster antics to win over the father of Haydeh and Homayra. But this is no ordinary game!"
+    },
     {
       "type": "movie",
       "tmdbId": "1828800",
