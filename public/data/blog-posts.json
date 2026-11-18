@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-18T12:33:57.846Z",
+  "updatedAt": "2026-11-18T12:34:07.175Z",
   "posts": [
     {
       "type": "tv",
@@ -71,15 +71,15 @@
       "seoTitle": "Virginia Woolf : Un lieu à soi, une voix pour toutes (2026) [Hollywood] | MoviMoon",
       "year": "2026",
       "rating": "N/A",
-      "genres": "",
+      "genres": "Documentary",
       "category": "Hollywood",
-      "image": "",
-      "poster": "",
-      "backdrop": "",
+      "image": "https://image.tmdb.org/t/p/w342/sBWNrFpMAZYno3kblOVI4hbWtmu.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/sBWNrFpMAZYno3kblOVI4hbWtmu.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/p8HBsFx3NcrIISwJLQrWE8EbKts.jpg",
       "url": "https://movimoon.online/blog/movie-posts/virginia-woolf-un-lieu-soi-une-voix-pour-toutes-2026-1828830",
       "watchUrl": "https://movimoon.online/movie/1828830-virginia-woolf-un-lieu-soi-une-voix-pour-toutes",
       "publishedAt": "2026-11-18T00:50:30.722Z",
-      "updatedAt": "2026-11-18T00:50:30.722Z",
+      "updatedAt": "2026-11-18T12:34:05.732Z",
       "overview": ""
     },
     {
