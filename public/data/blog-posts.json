@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-18T18:06:21.674Z",
+  "updatedAt": "2026-11-18T18:06:31.366Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "318420",
+      "slug": "valentina-and-the-12-signs-2026-318420",
+      "title": "Valentina and the 12 Signs (2026) [Hollywood TV]",
+      "displayTitle": "Valentina and the 12 Signs (2026)",
+      "seoTitle": "Valentina and the 12 Signs (2026) [Hollywood TV] | MoviMoon",
+      "year": "2026",
+      "rating": "7.0",
+      "genres": "Comedy",
+      "category": "Hollywood TV",
+      "image": "https://image.tmdb.org/t/p/w342/ihjonCRR5gEUEH8RG2Qbk4Fy3HB.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/ihjonCRR5gEUEH8RG2Qbk4Fy3HB.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/wf8UcYFLgo6QYi49O13lMMaZrod.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/valentina-and-the-12-signs-2026-318420",
+      "watchUrl": "https://movimoon.online/tv/318420-valentina-and-the-12-signs",
+      "publishedAt": "2026-11-18T18:06:29.743Z",
+      "updatedAt": "2026-11-18T18:06:29.743Z",
+      "overview": "Valentina is a young woman who, after being betrayed by her boyfriend—and blaming astrology for the end of their relationship—decides to take revenge in an unusual way: she sets out on a mission to hook up with a guy from every sign of the zodiac. Her plan is to document all these encounters and experiences in a videocast, but things get complicated when she falls for a guy who has \"no sign.\""
+    },
     {
       "type": "movie",
       "tmdbId": "1131943",
