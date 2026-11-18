@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-18T18:06:31.366Z",
+  "updatedAt": "2026-11-18T18:06:40.654Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "340280",
+      "slug": "gordon-2026-340280",
+      "title": "Gordon (2026) [Hollywood TV]",
+      "displayTitle": "Gordon (2026)",
+      "seoTitle": "Gordon (2026) [Hollywood TV] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "Drama, Crime",
+      "category": "Hollywood TV",
+      "image": "https://image.tmdb.org/t/p/w342/wzY5EjF8X1plKUWHwIRW6eNCqFU.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/wzY5EjF8X1plKUWHwIRW6eNCqFU.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/o8wVY0c4v54KsFQ5IdU2uvOves1.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/gordon-2026-340280",
+      "watchUrl": "https://movimoon.online/tv/340280-gordon",
+      "publishedAt": "2026-11-18T18:06:39.130Z",
+      "updatedAt": "2026-11-18T18:06:39.130Z",
+      "overview": "Aníbal Gordon rises from a small-time thief to a convicted murderer in Argentina during the '70s."
+    },
     {
       "type": "tv",
       "tmdbId": "318420",
