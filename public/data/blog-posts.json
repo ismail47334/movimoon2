@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-18T12:33:48.190Z",
+  "updatedAt": "2026-11-18T12:33:57.846Z",
   "posts": [
     {
       "type": "tv",
@@ -46,20 +46,20 @@
       "type": "movie",
       "tmdbId": "1828800",
       "slug": "el-vlog-de-roma-2026-1828800",
-      "title": "El Vlog De Roma (2026) [Hollywood]",
-      "displayTitle": "El Vlog De Roma (2026)",
-      "seoTitle": "El Vlog De Roma (2026) [Hollywood] | MoviMoon",
+      "title": "Viaje de Roma (2026) [Hollywood]",
+      "displayTitle": "Viaje de Roma (2026)",
+      "seoTitle": "Viaje de Roma (2026) [Hollywood] | MoviMoon",
       "year": "2026",
       "rating": "N/A",
-      "genres": "",
+      "genres": "Comedy, History",
       "category": "Hollywood",
-      "image": "",
-      "poster": "",
-      "backdrop": "",
+      "image": "https://image.tmdb.org/t/p/w342/aFSbLL83wNNdFBqDds37xLBA5Wj.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/aFSbLL83wNNdFBqDds37xLBA5Wj.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w342/aFSbLL83wNNdFBqDds37xLBA5Wj.jpg",
       "url": "https://movimoon.online/blog/movie-posts/el-vlog-de-roma-2026-1828800",
-      "watchUrl": "https://movimoon.online/movie/1828800-el-vlog-de-roma",
+      "watchUrl": "https://movimoon.online/movie/1828800-viaje-de-roma",
       "publishedAt": "2026-11-18T00:50:40.689Z",
-      "updatedAt": "2026-11-18T00:50:40.689Z",
+      "updatedAt": "2026-11-18T12:33:55.786Z",
       "overview": ""
     },
     {
