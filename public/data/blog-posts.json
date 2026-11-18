@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-18T18:06:11.581Z",
+  "updatedAt": "2026-11-18T18:06:21.674Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1131943",
+      "slug": "madden-2026-1131943",
+      "title": "Madden (2026) [Hollywood]",
+      "displayTitle": "Madden (2026)",
+      "seoTitle": "Madden (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "7.2",
+      "genres": "Drama, History",
+      "category": "Hollywood",
+      "image": "https://image.tmdb.org/t/p/w342/bRa83oPFFPqaAF3wrpVWPqqfFel.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/bRa83oPFFPqaAF3wrpVWPqqfFel.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/lRsapglJZIyMfGl8oQyNASlZqDC.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/madden-2026-1131943",
+      "watchUrl": "https://movimoon.online/movie/1131943-madden",
+      "publishedAt": "2026-11-18T18:06:19.910Z",
+      "updatedAt": "2026-11-18T18:06:19.910Z",
+      "overview": "Chronicles John Madden's incredible journey alongside best friend and true original Al Davis—from a Super Bowl-winning partnership with the Raiders, to becoming football's most recognizable voice, to building the worldwide Madden NFL video game."
+    },
     {
       "type": "movie",
       "tmdbId": "1551025",
