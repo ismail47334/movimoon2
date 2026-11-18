@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-18T12:34:15.550Z",
+  "updatedAt": "2026-11-18T18:06:11.581Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1551025",
+      "slug": "guarding-stars-2026-1551025",
+      "title": "Guarding Stars (2026) [Hollywood]",
+      "displayTitle": "Guarding Stars (2026)",
+      "seoTitle": "Guarding Stars (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "5.7",
+      "genres": "Comedy, Romance",
+      "category": "Hollywood",
+      "image": "https://image.tmdb.org/t/p/w342/wWNizZ4IcSld3xXH1WEXziJiNJN.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/wWNizZ4IcSld3xXH1WEXziJiNJN.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/qHvap0vpfTBIbv7cnR0OyBRqQHG.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/guarding-stars-2026-1551025",
+      "watchUrl": "https://movimoon.online/movie/1551025-guarding-stars",
+      "publishedAt": "2026-11-18T18:06:09.703Z",
+      "updatedAt": "2026-11-18T18:06:09.703Z",
+      "overview": "When a no-nonsense bodyguard is assigned to protect a charming action star over the holidays, sparks fly, secrets unravel, and Christmas gets a whole lot more complicated."
+    },
     {
       "type": "tv",
       "tmdbId": "341930",
