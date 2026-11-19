@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T18:06:33.389Z",
+  "updatedAt": "2026-11-19T18:06:41.710Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "308007",
+      "slug": "the-altruists-2026-308007",
+      "title": "The Altruists (2026) [Hollywood TV]",
+      "displayTitle": "The Altruists (2026)",
+      "seoTitle": "The Altruists (2026) [Hollywood TV] | MoviMoon",
+      "year": "2026",
+      "rating": "10.0",
+      "genres": "Drama, Crime",
+      "category": "Hollywood TV",
+      "image": "https://image.tmdb.org/t/p/w342/foTyGlJ1jJh8QID5KwjsMytsJTV.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/foTyGlJ1jJh8QID5KwjsMytsJTV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/m8JTMj7jDMJFZAPP1ASmSi4gMWi.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/the-altruists-2026-308007",
+      "watchUrl": "https://movimoon.online/tv/308007-the-altruists",
+      "publishedAt": "2026-11-19T18:06:40.029Z",
+      "updatedAt": "2026-11-19T18:06:40.029Z",
+      "overview": "The story of Sam Bankman-Fried and Caroline Ellison, two hyper-smart, ambitious young idealists who tried to remake the global financial system in the blink of an eye - before they were accused of stealing $8 billion and became Gen Z's own Bonnie & Clyde."
+    },
     {
       "type": "tv",
       "tmdbId": "332839",
