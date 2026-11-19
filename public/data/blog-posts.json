@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T12:34:12.811Z",
+  "updatedAt": "2026-11-19T18:06:09.546Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1473148",
+      "slug": "gentle-monster-2026-1473148",
+      "title": "Gentle Monster (2026) [Hollywood]",
+      "displayTitle": "Gentle Monster (2026)",
+      "seoTitle": "Gentle Monster (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "6.5",
+      "genres": "Drama",
+      "category": "Hollywood",
+      "image": "https://image.tmdb.org/t/p/w342/e6JypFBgG2Mv037ZxhnxkEO8fHa.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/e6JypFBgG2Mv037ZxhnxkEO8fHa.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/A8ZP4aE0gq9FrHydF9HU4LCmrtF.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/gentle-monster-2026-1473148",
+      "watchUrl": "https://movimoon.online/movie/1473148-gentle-monster",
+      "publishedAt": "2026-11-19T18:06:07.859Z",
+      "updatedAt": "2026-11-19T18:06:07.859Z",
+      "overview": "After relocating with her family to the countryside, a renowned pianist uncovers a life-shattering truth that forces her to confront the complexities of love, trust, and deception."
+    },
     {
       "type": "tv",
       "tmdbId": "342431",
