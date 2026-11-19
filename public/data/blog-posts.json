@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T18:06:25.497Z",
+  "updatedAt": "2026-11-19T18:06:33.389Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "332839",
+      "slug": "the-law-of-beasts-2026-332839",
+      "title": "The Law of Beasts (2026) [Hollywood TV]",
+      "displayTitle": "The Law of Beasts (2026)",
+      "seoTitle": "The Law of Beasts (2026) [Hollywood TV] | MoviMoon",
+      "year": "2026",
+      "rating": "7.4",
+      "genres": "Crime, Drama",
+      "category": "Hollywood TV",
+      "image": "https://image.tmdb.org/t/p/w342/KnhUSXgKqiG96mf4GofisAhhS2.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/KnhUSXgKqiG96mf4GofisAhhS2.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/iMvGSFcxzvwLWyHDOLqwDX9JQ27.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/the-law-of-beasts-2026-332839",
+      "watchUrl": "https://movimoon.online/tv/332839-the-law-of-beasts",
+      "publishedAt": "2026-11-19T18:06:31.980Z",
+      "updatedAt": "2026-11-19T18:06:31.980Z",
+      "overview": "When the case of a child serial killer resurfaces after 25 years as an unresolved legal and social problem, two former friends are forced to confront the choices that broke their friendship and shaped their lives."
+    },
     {
       "type": "movie",
       "tmdbId": "1384528",
