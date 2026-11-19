@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T00:50:39.804Z",
+  "updatedAt": "2026-11-19T00:50:48.394Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "342527",
+      "slug": "-2026-342527",
+      "title": "Страшна сила (2026) [Hollywood TV]",
+      "displayTitle": "Страшна сила (2026)",
+      "seoTitle": "Страшна сила (2026) [Hollywood TV] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "Comedy, Drama",
+      "category": "Hollywood TV",
+      "image": "https://image.tmdb.org/t/p/w342/ezHQL1Yr8t6xzQRwpMDGJ7FKyk8.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/ezHQL1Yr8t6xzQRwpMDGJ7FKyk8.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/eLetC1El2Tp6gzgB2UkCgju0MIt.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/-2026-342527",
+      "watchUrl": "https://movimoon.online/tv/342527-",
+      "publishedAt": "2026-11-19T00:50:46.858Z",
+      "updatedAt": "2026-11-19T00:50:46.858Z",
+      "overview": ""
+    },
     {
       "type": "movie",
       "tmdbId": "1829162",
