@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T18:06:17.588Z",
+  "updatedAt": "2026-11-19T18:06:25.497Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1384528",
+      "slug": "o-m-operation-mole-2026-1384528",
+      "title": "O.M: Operation Mole (2026) [Kollywood]",
+      "displayTitle": "O.M: Operation Mole (2026)",
+      "seoTitle": "O.M: Operation Mole (2026) [Kollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "Crime, Action, Thriller",
+      "category": "Kollywood",
+      "image": "https://image.tmdb.org/t/p/w342/vFnFLqXjf7RQfkNxrrys43BZKxJ.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/vFnFLqXjf7RQfkNxrrys43BZKxJ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/r0CliRoVddOLJ5zVT2Zd8ldbLuu.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/o-m-operation-mole-2026-1384528",
+      "watchUrl": "https://movimoon.online/movie/1384528-o-m-operation-mole",
+      "publishedAt": "2026-11-19T18:06:23.997Z",
+      "updatedAt": "2026-11-19T18:06:23.997Z",
+      "overview": "Set across the temple corridors of Tirupati and Tiruvannamalai, an elite undercover operative infiltrates a sprawling transnational red sanders syndicate. As criminal politics escalate, a covert task force launches Operation Mole to dismantle the cartel from within."
+    },
     {
       "type": "movie",
       "tmdbId": "1561834",
