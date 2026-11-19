@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-18T18:06:49.959Z",
+  "updatedAt": "2026-11-19T00:50:31.383Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1829225",
+      "slug": "occiso-2026-1829225",
+      "title": "Occiso (2026) [Hollywood]",
+      "displayTitle": "Occiso (2026)",
+      "seoTitle": "Occiso (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "Horror, Thriller, Mystery",
+      "category": "Hollywood",
+      "image": "https://image.tmdb.org/t/p/w342/7ntyIiuzPDb9fGxpeR6xxLFvchG.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/7ntyIiuzPDb9fGxpeR6xxLFvchG.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/n1T4HH0tgGpf96W9v9GBJmd7R9Z.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/occiso-2026-1829225",
+      "watchUrl": "https://movimoon.online/movie/1829225-occiso",
+      "publishedAt": "2026-11-19T00:50:29.772Z",
+      "updatedAt": "2026-11-19T00:50:29.773Z",
+      "overview": ""
+    },
     {
       "type": "tv",
       "tmdbId": "288120",
