@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T00:50:31.383Z",
+  "updatedAt": "2026-11-19T00:50:39.804Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1829162",
+      "slug": "syncytium-2026-1829162",
+      "title": "SYNCYTIUM (2026) [Hollywood]",
+      "displayTitle": "SYNCYTIUM (2026)",
+      "seoTitle": "SYNCYTIUM (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "",
+      "category": "Hollywood",
+      "image": "https://image.tmdb.org/t/p/w342/cuiGDfhDakT3jajG2aqGOLnqlMf.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/cuiGDfhDakT3jajG2aqGOLnqlMf.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w342/cuiGDfhDakT3jajG2aqGOLnqlMf.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/syncytium-2026-1829162",
+      "watchUrl": "https://movimoon.online/movie/1829162-syncytium",
+      "publishedAt": "2026-11-19T00:50:38.307Z",
+      "updatedAt": "2026-11-19T00:50:38.307Z",
+      "overview": "A mortal encounters a celestial being in the forest, whose magical flute controls the flow of time."
+    },
     {
       "type": "movie",
       "tmdbId": "1829225",
