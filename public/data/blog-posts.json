@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-20T12:35:09.347Z",
+  "updatedAt": "2026-11-20T18:06:09.781Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1637705",
+      "slug": "cult-2026-1637705",
+      "title": "#Cult (2026) [Tollywood]",
+      "displayTitle": "#Cult (2026)",
+      "seoTitle": "#Cult (2026) [Tollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "5.0",
+      "genres": "Horror, Action, Thriller",
+      "category": "Tollywood",
+      "image": "https://image.tmdb.org/t/p/w342/8jPyjKZE2Bnm3esvDmWZyGA8mkr.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/8jPyjKZE2Bnm3esvDmWZyGA8mkr.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/uekvmfoHfefO1w1HDacdo8hvy8x.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/cult-2026-1637705",
+      "watchUrl": "https://movimoon.online/movie/1637705-cult",
+      "publishedAt": "2026-11-20T18:06:08.128Z",
+      "updatedAt": "2026-11-20T18:06:08.128Z",
+      "overview": "A group of young boys head to a party expecting a night of fun, but soon discover the reality is far darker than they imagined. What starts as excitement spirals into terror, pushing them into a brutal fight for survival."
+    },
     {
       "type": "tv",
       "tmdbId": "342461",
