@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-20T00:50:32.784Z",
+  "updatedAt": "2026-11-20T00:50:44.239Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1831410",
+      "slug": "coluche-le-luron-desproges-quand-on-pouvait-rire-de-tout-2026-1831410",
+      "title": "Coluche, Le Luron, Desproges : quand on pouvait rire de tout (2026) [Hollywood]",
+      "displayTitle": "Coluche, Le Luron, Desproges : quand on pouvait rire de tout (2026)",
+      "seoTitle": "Coluche, Le Luron, Desproges : quand on pouvait rire de tout (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "",
+      "category": "Hollywood",
+      "image": "",
+      "poster": "",
+      "backdrop": "",
+      "url": "https://movimoon.online/blog/movie-posts/coluche-le-luron-desproges-quand-on-pouvait-rire-de-tout-2026-1831410",
+      "watchUrl": "https://movimoon.online/movie/1831410-coluche-le-luron-desproges-quand-on-pouvait-rire-de-tout",
+      "publishedAt": "2026-11-20T00:50:42.237Z",
+      "updatedAt": "2026-11-20T00:50:42.237Z",
+      "overview": ""
+    },
     {
       "type": "movie",
       "tmdbId": "1831444",
