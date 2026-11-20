@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-20T12:34:27.770Z",
+  "updatedAt": "2026-11-20T12:34:51.142Z",
   "posts": [
     {
       "type": "tv",
@@ -71,16 +71,16 @@
       "seoTitle": "SPACES (2026) [Hollywood] | MoviMoon",
       "year": "2026",
       "rating": "N/A",
-      "genres": "",
+      "genres": "Animation",
       "category": "Hollywood",
-      "image": "",
-      "poster": "",
-      "backdrop": "",
+      "image": "https://image.tmdb.org/t/p/w342/lkdqd92kz1E2Q6qZd1ZzvPyIplI.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/lkdqd92kz1E2Q6qZd1ZzvPyIplI.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/lHlZ7drog4hpHAXBOABlG6EuyJl.jpg",
       "url": "https://movimoon.online/blog/movie-posts/spaces-2026-1831444",
       "watchUrl": "https://movimoon.online/movie/1831444-spaces",
       "publishedAt": "2026-11-20T00:50:31.025Z",
-      "updatedAt": "2026-11-20T00:50:31.025Z",
-      "overview": ""
+      "updatedAt": "2026-11-20T12:34:48.874Z",
+      "overview": "In a world where people are physically shaped by the ones closest to them, a malleable young figure named Gunther struggles to fill the empty spaces left by his closest friends, ultimately learning that healing isn’t about filling in what’s lost, but embracing the spaces they leave behind."
     },
     {
       "type": "tv",
