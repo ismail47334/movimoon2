@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-20T18:06:44.721Z",
+  "updatedAt": "2026-11-20T18:06:54.910Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "243761",
+      "slug": "good-partner-2024-243761",
+      "title": "Good Partner (2024) [Hollywood TV]",
+      "displayTitle": "Good Partner (2024)",
+      "seoTitle": "Good Partner (2024) [Hollywood TV] | MoviMoon",
+      "year": "2024",
+      "rating": "7.9",
+      "genres": "Drama, Comedy",
+      "category": "Hollywood TV",
+      "image": "https://image.tmdb.org/t/p/w342/5I9RHQXYhEF0bLP5Waal6iQfnWq.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/5I9RHQXYhEF0bLP5Waal6iQfnWq.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/tNHTruWAXAEaoqgCnD3Jv5xUmzx.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/good-partner-2024-243761",
+      "watchUrl": "https://movimoon.online/tv/243761-good-partner",
+      "publishedAt": "2026-11-20T18:06:53.508Z",
+      "updatedAt": "2026-11-20T18:06:53.508Z",
+      "overview": "Cha Eun-kyung, a 17-year veteran divorce lawyer, faces a personal crisis when her own marriage is threatened while working alongside rookie lawyer Han Yu-ri, whose differing values lead to tension as they navigate their complex cases at Law Firm Daejung."
+    },
     {
       "type": "tv",
       "tmdbId": "203483",
