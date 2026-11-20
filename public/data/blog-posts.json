@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-20T12:33:52.503Z",
+  "updatedAt": "2026-11-20T12:34:11.093Z",
   "posts": [
     {
       "type": "tv",
@@ -31,15 +31,15 @@
       "seoTitle": "Mangolik (2026) [Hollywood TV] | MoviMoon",
       "year": "2026",
       "rating": "N/A",
-      "genres": "",
+      "genres": "Mystery",
       "category": "Hollywood TV",
-      "image": "",
-      "poster": "",
-      "backdrop": "",
+      "image": "https://image.tmdb.org/t/p/w342/sWOgeRESScrewpSQxrNNeqHsYHR.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/sWOgeRESScrewpSQxrNNeqHsYHR.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/7GUoMhwT1WpPSOdNXwdZ5Q2rMH1.jpg",
       "url": "https://movimoon.online/blog/tv-series-posts/mangolik-2026-342653",
       "watchUrl": "https://movimoon.online/tv/342653-mangolik",
       "publishedAt": "2026-11-20T00:50:52.436Z",
-      "updatedAt": "2026-11-20T00:50:52.436Z",
+      "updatedAt": "2026-11-20T12:34:08.915Z",
       "overview": "A new bride, a strange family belief and a secret that could change everything."
     },
     {
