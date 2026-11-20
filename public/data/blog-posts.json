@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-20T12:34:11.093Z",
+  "updatedAt": "2026-11-20T12:34:27.770Z",
   "posts": [
     {
       "type": "tv",
@@ -51,15 +51,15 @@
       "seoTitle": "Coluche, Le Luron, Desproges : quand on pouvait rire de tout (2026) [Hollywood] | MoviMoon",
       "year": "2026",
       "rating": "N/A",
-      "genres": "",
+      "genres": "Documentary, Comedy",
       "category": "Hollywood",
-      "image": "",
-      "poster": "",
-      "backdrop": "",
+      "image": "https://image.tmdb.org/t/p/w342/jjtqNCa8Thf4pibmBjBF99hElm3.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/jjtqNCa8Thf4pibmBjBF99hElm3.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/iyth6Af9dAqylU2VTjrkvB57qhX.jpg",
       "url": "https://movimoon.online/blog/movie-posts/coluche-le-luron-desproges-quand-on-pouvait-rire-de-tout-2026-1831410",
       "watchUrl": "https://movimoon.online/movie/1831410-coluche-le-luron-desproges-quand-on-pouvait-rire-de-tout",
       "publishedAt": "2026-11-20T00:50:42.237Z",
-      "updatedAt": "2026-11-20T00:50:42.237Z",
+      "updatedAt": "2026-11-20T12:34:25.818Z",
       "overview": ""
     },
     {
