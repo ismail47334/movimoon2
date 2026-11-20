@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-20T00:50:44.239Z",
+  "updatedAt": "2026-11-20T00:50:54.002Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "342653",
+      "slug": "mangolik-2026-342653",
+      "title": "Mangolik (2026) [Hollywood TV]",
+      "displayTitle": "Mangolik (2026)",
+      "seoTitle": "Mangolik (2026) [Hollywood TV] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "",
+      "category": "Hollywood TV",
+      "image": "",
+      "poster": "",
+      "backdrop": "",
+      "url": "https://movimoon.online/blog/tv-series-posts/mangolik-2026-342653",
+      "watchUrl": "https://movimoon.online/tv/342653-mangolik",
+      "publishedAt": "2026-11-20T00:50:52.436Z",
+      "updatedAt": "2026-11-20T00:50:52.436Z",
+      "overview": "A new bride, a strange family belief and a secret that could change everything."
+    },
     {
       "type": "movie",
       "tmdbId": "1831410",
