@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-20T18:06:18.123Z",
+  "updatedAt": "2026-11-20T18:06:26.576Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1595124",
+      "slug": "steps-2026-1595124",
+      "title": "Steps (2026) [Hollywood]",
+      "displayTitle": "Steps (2026)",
+      "seoTitle": "Steps (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "10.0",
+      "genres": "Animation, Fantasy, Comedy, Family, Adventure",
+      "category": "Hollywood",
+      "image": "https://image.tmdb.org/t/p/w342/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg",
+      "url": "https://movimoon.online/blog/movie-posts/steps-2026-1595124",
+      "watchUrl": "https://movimoon.online/movie/1595124-steps",
+      "publishedAt": "2026-11-20T18:06:25.063Z",
+      "updatedAt": "2026-11-20T18:06:25.063Z",
+      "overview": "Think you know Cinderella's 'evil' stepsisters? Think again! When misunderstood Lilith is blamed for hijacking the Royal Ball with a stolen magic wand, she accidentally turns her sister Margot into a frog and leaves the kingdom in the hands of a prince-obsessed mean girl. Now Lilith must team up with Cinderella — and a surprisingly dreamy troll — to save the kingdom, repair the fractured fairytale, and prove that even so-called villains deserve a shot at happily-ever-after."
+    },
     {
       "type": "movie",
       "tmdbId": "1568060",
