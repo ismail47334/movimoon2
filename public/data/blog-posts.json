@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-21T12:33:53.779Z",
+  "updatedAt": "2026-11-21T12:34:01.629Z",
   "posts": [
     {
       "type": "tv",
@@ -71,15 +71,15 @@
       "seoTitle": "Ahora sobran las cucharas (2026) [Hollywood] | MoviMoon",
       "year": "2026",
       "rating": "N/A",
-      "genres": "",
+      "genres": "Action, Adventure",
       "category": "Hollywood",
-      "image": "",
-      "poster": "",
-      "backdrop": "",
+      "image": "https://image.tmdb.org/t/p/w342/pWyrMUpYz8tcT8ui8Kt5c4sfmNx.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/pWyrMUpYz8tcT8ui8Kt5c4sfmNx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/jqeZ8ca82ltfD1VES0dgxlcuST5.jpg",
       "url": "https://movimoon.online/blog/movie-posts/ahora-sobran-las-cucharas-2026-1833747",
       "watchUrl": "https://movimoon.online/movie/1833747-ahora-sobran-las-cucharas",
       "publishedAt": "2026-11-21T00:50:32.619Z",
-      "updatedAt": "2026-11-21T00:50:32.620Z",
+      "updatedAt": "2026-11-21T12:34:00.172Z",
       "overview": "A mother delves into memories with her daughter to cope with the loneliness brought on by her sudden disappearance."
     },
     {
