@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-21T00:51:09.822Z",
+  "updatedAt": "2026-11-21T00:51:22.478Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "340808",
+      "slug": "mera-ghar-2026-340808",
+      "title": "Mera Ghar (2026) [Hollywood TV]",
+      "displayTitle": "Mera Ghar (2026)",
+      "seoTitle": "Mera Ghar (2026) [Hollywood TV] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "Drama",
+      "category": "Hollywood TV",
+      "image": "https://image.tmdb.org/t/p/w342/5DqGr15v2d5zupFLzYO13kTkFZ3.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/5DqGr15v2d5zupFLzYO13kTkFZ3.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/iXh2sR2jiq09yaMcgDywyLrMmEi.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/mera-ghar-2026-340808",
+      "watchUrl": "https://movimoon.online/tv/340808-mera-ghar",
+      "publishedAt": "2026-11-21T00:51:20.070Z",
+      "updatedAt": "2026-11-21T00:51:20.070Z",
+      "overview": "Mera Ghar is a family drama centered on Sherry, the youngest member of a household, who is raised by his elder sister Farkhanda after their mother's death. Having devoted her life to him."
+    },
     {
       "type": "tv",
       "tmdbId": "341098",
