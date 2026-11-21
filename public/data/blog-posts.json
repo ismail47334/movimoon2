@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-21T00:50:34.866Z",
+  "updatedAt": "2026-11-21T00:50:52.721Z",
   "posts": [
+    {
+      "type": "movie",
+      "tmdbId": "1833441",
+      "slug": "the-sea-crimson-like-fire-and-the-glorious-sunsets-2026-1833441",
+      "title": "The Sea Crimson Like Fire And The Glorious Sunsets (2026) [Hollywood]",
+      "displayTitle": "The Sea Crimson Like Fire And The Glorious Sunsets (2026)",
+      "seoTitle": "The Sea Crimson Like Fire And The Glorious Sunsets (2026) [Hollywood] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "",
+      "category": "Hollywood",
+      "image": "",
+      "poster": "",
+      "backdrop": "",
+      "url": "https://movimoon.online/blog/movie-posts/the-sea-crimson-like-fire-and-the-glorious-sunsets-2026-1833441",
+      "watchUrl": "https://movimoon.online/movie/1833441-the-sea-crimson-like-fire-and-the-glorious-sunsets",
+      "publishedAt": "2026-11-21T00:50:50.537Z",
+      "updatedAt": "2026-11-21T00:50:50.537Z",
+      "overview": "“Inspired by the final chapter of Ulysses ‘Penelope’, I made this film to try to recreate how it feels like to prepare to go to sleep, the two or so minutes one can remember in bed from the night before.”"
+    },
     {
       "type": "movie",
       "tmdbId": "1833747",
