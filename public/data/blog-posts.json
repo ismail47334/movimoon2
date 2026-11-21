@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-21T00:50:52.721Z",
+  "updatedAt": "2026-11-21T00:51:09.822Z",
   "posts": [
+    {
+      "type": "tv",
+      "tmdbId": "341098",
+      "slug": "big-teens-naija-2026-341098",
+      "title": "Big Teens Naija (2026) [Hollywood TV]",
+      "displayTitle": "Big Teens Naija (2026)",
+      "seoTitle": "Big Teens Naija (2026) [Hollywood TV] | MoviMoon",
+      "year": "2026",
+      "rating": "N/A",
+      "genres": "Reality",
+      "category": "Hollywood TV",
+      "image": "https://image.tmdb.org/t/p/w342/xeUykNppZgtOwcuTyLnibZ1WQkR.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/xeUykNppZgtOwcuTyLnibZ1WQkR.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w342/xeUykNppZgtOwcuTyLnibZ1WQkR.jpg",
+      "url": "https://movimoon.online/blog/tv-series-posts/big-teens-naija-2026-341098",
+      "watchUrl": "https://movimoon.online/tv/341098-big-teens-naija",
+      "publishedAt": "2026-11-21T00:51:07.642Z",
+      "updatedAt": "2026-11-21T00:51:07.642Z",
+      "overview": "Big Teens Naija is a Nigerian youth reality television show designed to discover, nurture, celebrate and showcase the talents, creativity, intelligence and ingenuity of young Nigerians between the ages of 13 and 19.\n\nBuilt around the theme “Ingenuity of the African Child,” the show brings together teenagers from diverse backgrounds to live, learn, compete and collaborate in a structured and entertaining reality-TV environment.\n\nThrough talent showcases, creative and intellectual challenges, team activities, entrepreneurship, leadership tasks and other engaging competitions, contestants will have the opportunity to express themselves, discover their strengths, develop confidence and build valuable life skills."
+    },
     {
       "type": "movie",
       "tmdbId": "1833441",
